@@ -1,1 +1,35 @@
+# .gitignore para la tesis
 
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secretos y credenciales
+.env
+secrets.json
+*.key
+*.pem
+
+# Archivos pesados o generados localmente
+chroma_db/
+vectorstore/
+*.sqlite3
+*.db
+*.parquet
+*.pkl
+*.joblib
+
+# Resultados temporales
+*.log
+*.tmp
+*.bak
