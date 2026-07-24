@@ -1,0 +1,15 @@
+# Dependencias del entorno Python (Python 3.10+)
+# Completar con las versiones exactas utilizadas en el proyecto
+
+langchain
+chromadb
+sentence-transformers
+openai
+pandas
+numpy
+scipy
+statsmodels
+scikit-learn
+krippendorff
+matplotlib
+python-dotenv
