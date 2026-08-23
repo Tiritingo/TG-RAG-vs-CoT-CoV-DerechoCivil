@@ -1,0 +1,1426 @@
+República de Colombia
+Corte Suprema de Justicia
+Sala le Camelan Chrll
+LUIS ALONSO RICO PUERTA
+Magistrado ponente
+SC3893-2020
+Radicación n.° 11001-31-03-032-2015-00826-01
+(aprobado en sesión de veinte de agosto de dos mil veinte)
+Bogotá, D.C., diecinueve (19) de octubre de dos mil
+veinte (2020).
+Se decide el recurso de casación formulado por
+Dragados IBE Sucursal Colombia y Concay S.A., integrantes
+del Consorcio Dragados Concay (en adelante, Dragados
+Concay) frente a la sentencia de 3 de septiembre de 2018,
+proferida por la Sala Civil del Tribunal Superior del Distrito
+Judicial de Bogotá, en el proceso verbal que promovieron las
+recurrentes contra Segurexpo de Colombia S.A. y Liberty
+Seguros S.A.
+ANTECEDENTES
+1. 
+Pretensiones.
+Dragados Concay reclamó que se reconociera ola
+existencia y validez del contrato de seguro expedido por Segurexpo
+Colombia S.A. como compañía líder, instnimentado en la póliza de seguro
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+de cumplimiento en favor de entidades particulares No. 25796-47150-
+10-BG», convenio en el que Liberty Seguros S.A. «ostenta la
+calidad de coasegurador, con una participación del 50%».
+Asimismo, pidió declarar que las demandadas son civil
+y contractualmente responsables por el impago de la
+indemnización pactada en los amparos de e 
+buen manejo y
+correcta inversión del anticipo" y "pago de salarios y prestaciones
+sociales"», por lo que deben ser condenadas a pagar, en
+proporción a su participación en el coaseguro (50% cada
+una), los siguientes montos:
+(i) 
+$1.372.083.727, «correspondientes a la indemnización
+(...) del anticipo entregado por [Dragados Concay] a la sociedad
+afianzada por la pasiva, Actividades y Obras Civiles S.A. Sucursal
+Colombia "Aocisa", y dejado de invertir en la obra [o] reintegrado».
+(ii) 
+$323.786.999, «correspondientes a la indemnización (...)
+del pago de salarios y prestaciones sociales que [Dragados Concay] tuvo
+que asumir y cancelar a los trabajadores que utilizó la sociedad
+afianzada por la pasiva, Actividades y Obras Civiles S.A. Sucursal
+Colombia "Aocisa", en la obra para la cual fue contratada».
+(iii) Los réditos moratorios sobre ambas cantidades,
+liquidados a partir del 25 de enero de 2015, a la tasa máxima
+prevista en el ordenamiento mercantil.
+2. Fundamento fáctico.
+2.1. La Constructora de Infraestructura Vial S.A.S. (en
+adelante, Coninvial) aceptó la oferta presentada por el
+2
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+consorcio "Dragados Concay" (conformado por las sociedades
+Dragados IBE Sucursal Colombia y Concay S.A.) para «la
+construcción de una calzada nueva en el sector 2: Puente Quetame (km
+41 + 645 m - km 44 + 240 m) y el mejoramiento de la calzada existente
+en los tramos y las vías de conexión al Puente Quetame, dentro del
+proyecto de la carretera Bogotá-Villavicencio».
+2.2. Actuando con autorización de Conin.vial, Dragados
+Concay subcontrató con Actividades y Obras Civiles S.A.
+Sucursal Colombia (en adelante, Aocisa) la realización de los
+trabajos de «excavación y sostenimiento del túnel 6 
+del sector 2», que
+hacían parte del referido proyecto de infraestructura.
+2.3. En ese «contrato de excavación y sostenimiento» se
+convino que Dragados Concay entregara a Aocisa un anticipo
+de $2.092.492.427 (cuantía equivalente al 10% de la
+remuneración total establecida), lo que efectivamente hizo.
+2.4. A su turno, Aocisa suscribió con Segurexpo de
+Colombia S.A. y Liberty Seguros S.A. (coaseguradoras) el
+contrato de seguro de cumplimiento n.° 25796-47150-10-
+BG, donde la subcontratista figura como tomadora-
+afianzada, y Dragados Concay como asegurado-beneficiario.
+2.5. Dentro de los amparos estipulados se encuentran
+los de «pago de salarios y prestaciones sociales» y «buen manejo y
+correcta inversión del anticipo». En el primero, se pactó como valor
+asegurado $3.138.738.640; en el segundo, la misma
+cantidad que Dragados Concay entregó a la tomadora como
+anticipo ($2.092.492.427).
+3
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+• 
+2.6. El 22 de abril de 2013, Aocisfa remitió a Dragados
+Concay una comunicación en la que «cdnfesaba las dificultades
+técnicas y financieras por las cuales estaba atravesando, llevándola a
+incurrir en retrasos significativos en el cumplimiento del contrato de obra
+(...), solicitando un plazo máximo hasta el 31- de mayo de 2013 para
+subsanar las deficiencias de la obra, [y] comprometiéndose a 
+(...) desistir
+expresamente de continuar con la ejecución de la obra (...) de no superar
+tales dificultades en esa fecha limite (...), autorizando de paso al
+consorcio Dragados Concay para que (...) diera por terminado el contrato
+o
+de obra (...), comprometiéndose a restituir el anticipo no invertido».
+2.7. Dado que las anomalías en el desarrollo del
+proyecto no pudieron corregirse oportunamente, el 24 de
+junio de 2013 las consorciadas decidieron dar por terminado
+unilateralmente el contrato de obra que celebraron con
+Aocisa. Con ese sustento, además, dieron aviso de siniestro
+a la compañía líder del coaseguro.
+2.8. Para establecer la cuantía de la pérdida, las
+actoras contrataron los servicios de la ajustadora López
+Villamarín Consultores Ltda. y de la empresa Diagnóstico 8s
+Diseño Ingeniería Ltda., habiendo presentado el informe de
+ajuste el 23 de diciembre de 2013; este trabajo fue adosado
+a la reclamación presentada a Segurexpo de Colombia S.A.,
+en la que se identificaron 
+«pérdidas» por valor de
+$1.372.083.727, «correspondientes a la _indemnización (...) del
+anticipo entregado» y $323.786.999, a título de salarios y
+prestaciones asumidos por Dragados Concay.
+2.9. En respuesta a esa 
+comunicación, las
+aseguradoras solicitaron «una información que (...) tiene más
+4
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+relación a (sic) la afectación del amparo de cumplimiento, que (...) no
+est[aba] afectado con la reclamación por siniestro, y ninguna relación
+tienen los documentos peticionados con los amparos realmente
+afectados, como son "buen manejo y correcta inversión del anticipo" y
+'pago de salarios y prestaciones sociales"».
+2.10. Pese a la impertinencia de esos soportes
+adicionales, los mismos fueron proporcionados el 29 de enero
+de 2015; sin embargo, en misiva calendada el 3 de febrero,
+Segurexpo de Colombia S.A. «obstinadamente no acepta que se han
+cumplido los requisitos legales del artículo 1077 [del Código de
+Comercio]».
+2.11. Luego de un cruce de comunicaciones, el 12 de
+febrero de la misma anualidad las coaseguradoras objetaron
+formalmente la reclamación presentada por Dragados
+Concay, invocando «un sinnúmero de exculpaciones para evadir la
+obligación (...) que están en mora de realizar».
+3. Actuación procesal.
+3.1. Notificada del auto admisorio de la demanda,
+Segurexpo de Colombia S.A. se opuso a las «pretensiones,
+declaraciones y condenas», arguyendo que las consorciadas
+desconocen «las normas que rigen el contrato de seguro, el texto del
+contrato de seguro de cumplimiento entre particulares 25796 y el
+contrato cuyo cumplimiento se garantiza, suscrito entre el Consorcio
+Dragados Concay y la sociedad Actividades y Obras Civiles S.A.
+Sucursal Colombia - 
+Aocisa el 18 de septiembre de 2012».
+5
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Con ese sustento, esgrimió las defensas denominadas
+«correcta inversión del anticipo e imposibilidad çle afectación del amparo
+de anticipo otorgado mediante póliza 25796); ;«el seguro no puede ser
+fuente de enriquecimiento - violación del art. 1088 del Código de
+Comercio»; «prescripción de las acciones derivadas del contrato de
+seguro de cumplimiento entre particulares No. 25796); «compensación»;
+«incumplimiento de la garantía de informar; las modificaciones al
+contrato»; *incumplimiento del consorcio Dragados Concay del deber de
+evitar la extensión y propagación del siniestro y_ a proveer el salvamento
+de las cosas aseguradas»; «imposibilidad de afectación del amparo de
+salarios y prestaciones sociales»; «no venció término alguno para objetar
+el reclamo ni menos para el pago de la indemnización dado que no hay
+lugar al pago de ella»; «falta de jurisdicción, teniendo en cuenta la
+existencia de la cláusula compromisoria», e «indebida terminación
+unilateral del contrato de obra amparado por, Segurexpo de Colombia
+S.A. por parte del Consorcio Dragados Concay»;
+Por último, objetó el juram.entd estimatorio de su
+contraparte, tras considerar que las querellantes se limitaron
+«a manifestar que la suma de $1.372.083.727 corresponde al anticipo
+no reintegrado ni invertido en obra, no obstante las pruebas [allegadas]
+demuestran una mayor inversión en obra del dinero entregado como
+anticipo[,} y en relación con el amparo de prestaciones sociales señala la
+afta de $323.786.999, desprovista de razonamiento detallado, se limita
+a establecer que esa suma corresponde al supuesto valor cancelado por
+el Consorcio Dragados Concay a los trabajadores de AOCISA sin soporte
+probatorio alguno, sin mencionar además los créditos que tiene el
+demandante para su subcontratista».
+3.2. Liberty Seguros S.A. también rechazó el petitum,
+formulando las excepciones rotuladas cómo «falta de prueba de
+6
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+la ocurrencia del siniestro y su cuantía»; «improcedencia de la afectación
+del amparo de buen manejo del anticipo»; «improcedencia de la
+afectación del amparo del pago de salarios y prestaciones sociales», y
+«falta de prueba de la ocurrencia del siniestro y su cuantía».
+3.3. El 14 de julio de 2017, el juzgado a quo dictó
+sentencia, acogiendo «la excepción de mérito (...) dirigidial a
+desconocer el amparo del anticipo», por lo que denegó todos los
+pedimentos relacionados con esa cobertura.
+De otro lado, tras establecer el acaecimiento del riesgo
+asegurado en el amparo de «salarios y prestaciones sociales»,
+declaró no probadas las demás defensas y condenó a cada
+una de las coaseguradoras a pagar a Dragados Concay
+$161.893.499.50 (para un total de $323.786.999), junto con
+los réditos de mora, liquidados a la tasa máxima permitida
+por el legislador mercantil, a partir del 25 de enero de 2015.
+Ambas partes apelaron esas determinaciones.
+LA SENTENCIA IMPUGNADA
+Mediante providencia de 3 de septiembre de 2018, el
+tribunal confirmó el fallo materia de alzada, tras sostener
+que:
+(i) 
+En el proceso se demostró que Aocisa incumplió la
+obligación de pagar los salarios y prestaciones del personal
+de la obra desde mayo de 2013 hasta el mes de julio del
+mismo ario, por lo que, en atención a lo dispuesto en el
+7
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+artículo 34 del Código Sustantivo, del Trabajo, esas
+acreencias fueron saldadas por Dragados Concay, lo que
+equivale a la demostración del siniestro-; «pues, a no dudarlo, ese
+era el riesgo asegurado en la póliza No. 257961.
+(ii) En cuanto a la determinación de la cuantía de esa
+pérdida, las sociedades actoras allegaron comprobantes de
+egresos, desprendibles de pago de nómina y la liquidación de
+cada uno de los trabajadores de Aocisa, documentos que
+muestran un detrimento patrimonial' «incluso superior a los
+$323.786.999 reclamado (sic) en la demanda».
+(iii) 
+De otro lado, es innegable 'que los dineros que
+fueron entregados a la subcontratiaa por concepto de
+anticipo (y que totalizaban $2.092.492.426) debían ser
+amortizados a medida que fueran realizándose entregas
+parciales de la obra, «representando el valor de dicho anticipo en
+parámetros porcentuales, en las cantidades de obra que la contratante
+fuera recibiendo».
+(iv) Sin embargo, dadas las características del seguro
+contratado, el buen suceso de las pretensiones relacionadas
+con el amparo de «buen manejo y correcta inversión del anticipo»
+exigía demostrar la ocurrencia del siniestro, pero uno bajo el
+supuesto de que lo entregado a título de anticipo no fue amortizado en
+su totalidad (...), sino en el entendido de que los dineros efectivamente
+entregados a AOCISA no fueron invertidos en; la obra o se los apropió
+indebidamente», hipótesis cuya verificación brilla por su
+ausencia en este juicio.
+8
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+(y) Añádase que en «el "acta de toma de obra" de fecha 16
+de julio de 2013 
+(...) nada se dijo sobre la apropiación del contratista del
+anticipo; tampoco que la suma entregada por ese concepto no fue
+invertida en la obra», de donde se colige que «en lo que hace (sic) al
+amparo de "buen manejo y correcta inversión del anticipo", no se probó
+el siniestro ni la cuantía de la pérdida».
+LA DEMANDA DE CASACIÓN
+Dragados Concay interpuso oportunamente el recurso
+extraordinario de casación contra el fallo del ad quern; al
+sustentarlo, propuso dos cargos con apoyo en la causal
+segunda del articulo 336 del Código General del Proceso,
+rotulados uno como «principal», y otro como «subsidiario».
+PRIMER CARGO
+Se denunció la trasgresión indirecta de los artículos
+1494, 1495, 1496, 1502, 1517, 1602, 1603, 1604, 1608,
+1618, 1619, 1622, 1624 y 1757 del Código Civil; 822, 1036,
+1045, 1046, 1047, 1054, 1072, 1075, 1079 y 1080 del Código
+de Comercio; 2 y 4 de la Ley 225 de 1938; 7 del Decreto 1348
+de 1939, y 103 del Decreto 663 de 1993, «a causa de manifiestos
+errores de hecho en la apreciación de las pruebas».
+Los pilares de este cuestionamiento admiten este
+compendio:
+(i) 
+El tribunal tergiversó el contenido del acta de 16
+de julio de 2013 y dejó de apreciar las restantes
+9
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+documentales arrimadas, incluyendo .el informe final de
+ajuste de siniestro elaborado pon López Villamarin
+Consultores Ltda., así como los testimonios de Oscar Alirio
+López Villamarín, Héctor Hernán Hidalgo, Martha Cecilia
+Páez Gallo y Rafael Prieto Asirón.
+(ii) Es cierto que en el «acta de toma de obra» se
+esgrimieron una serie de incumplimientos de Aocisa -que
+justificaron la terminación anticipada del contrato de obra
+que celebró con Dragados Concay-, y también lo es que allí
+se omitió cualquier referencia a la :suerte del anticipo
+entregado a la subcontratista, pero de ello no puede inferirse
+que el mismo fue amortizado totalmente'.
+• 3
+(iii) Igualmente, «en el expediente obraban pruebas
+documentales y testimoniales que daban cuenta propia de la destinación
+contractual del anticipo, su no inversión, el compromiso de restituirlo a la
+terminación del contrato de obra; incluso, daban razón esas probanzas
+dejadas de apreciar, de que el subcontratista Aocisa en verdad se
+apropió o hizo suyos, bajo rebeldía, los dineros que le fueron prestados
+por el contratante para la ejecución de la obra»
+(iv) De lo estipulado en la cláusula octava del contrato
+de obra «fluía que el título del anticipo era inversión y no gasto, pues
+pese a que no se suscribió documento de cronograma de inversión del
+anticipo, [en] la cláusula octava se destacó que "en todo caso se precisa
+que el anticipo únicamente podrá ser invertido en actividades u obras
+contempladas dentro del alcance del presente contrato" (...), con lo cual
+queda en evidencia que el fin del anticipo era apalancar la ejecución de
+la obra contratada, mas no cualquier tipo de j'asto, así las actividades
+tuvieran relación con el objeto de la obra contratada».
+10
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+(y) En el informe de ajuste quedó establecido que, con
+los dineros del anticipo, Aocisa sufragó «facturas relacionadas
+con transporte, salarios y prestaciones de personal vinculado, alquiler
+de maquinaria y equipo, alojamiento, alimentación, descuentos o débito
+por medidas cautelares judiciales, operaciones en moneda extranjera,
+compra de televisores, colchones, bases de camas, electrodomésticos,
+herramientas, utensilios de cocina, arrendamientos de vivienda y
+vehículos y hasta iPad, aspectos que bajo ningún punto de vista lógico,
+y menos legal, se ajustan a la naturaleza y objeto del contrato
+celebrado».
+(vi) Es decir, «el anticipo se gastó o empleó en aspectos ajenos
+al objeto del contrato de obra, lo cual contrariaba su designio contractual,
+el cual no era otro que la inversión en obra, aspecto que jamás se
+encontró reflejado; (...) el anticipo no fue invertido, sino gastado, además
+de haberlo hecho en actividades ajenas a la propia confección de la obra
+material. Los gastos administrativos y logística de implantación no eran
+actividades, no eran formas aceptadas contractualmente para la
+inversión del anticipo entregado al subcontratista».
+(vii) Si «el contratista solo desarrolló el 13% de la obra
+contratada, cuyas cantidades fueron pagadas enteramente por el
+contratante, conforme aparece de las actas parciales de obra, en especial
+de la 1 a la 8, pues el valor de la obra realizada durante los cortes 9 a
+12 
+fueron compensados parcialmente con el anticipo que le fue entregado
+a la subcontratista (...), mal pudo haber invertido el dinero entregado
+como anticipo en el objeto de la obra, el cual estaba expresamente
+indicado en el contrato».
+(viii) En el contrato de obra no se autorizó a Aocisa para
+disponer del anticipo «en aspectos distintos a la ejecución material
+de la obra contratada, pese, se insiste, a que las actividades en las
+cuales se gastó el anticipo en alguna medida tengan relación con la
+11
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+logística de la obra. La inversión para la que estaba contractualmente
+autorizado el empleo del anticipo debía repercutir en el avance o
+materialización de la obra contratada (...), debió tratarse de una
+verdadera inversión con efectos visibles en la cantidad de obra
+ejecutada».
+(ix) Los testigos mencionados, cuya declaración fue
+soslayada por completo en la sentencia de segunda instancia,
+revelaron la existencia de un detrimento «igual a la diferencia
+entre el dinero entregado a titulo de préstamo al contratista Aocisa y el
+monto efectivamente amortizado a través de las actas parciales de corte
+de obra, valor (...) reflejado en el documento de:ajuste y que coincide con
+el cobrado».
+(x) Amén de lo anterior, «la misiva de fecha 22 de abril de
+2013 resultaba de enorme trascendencia (...), pues de su contenido fluía
+que la sociedad subcontratista Aocisa no solo exteriorizó su voluntad de
+obligarse a restituir el anticipo que recibió y qz,te no invirtió en la obra,
+sino que se constituyó en deudora de tal prestación (...). La conducta
+asumida con posterioridad por Aocisa, Consistente en rehusar
+maliciosamente el reintegro del anticipo, rezsult6 una conducta de
+apropiación indebida del dinero de propiedad del consorcio contratante».
+(xi) En conclusión, si el tribunal hubiera realizado un
+análisis de la prueba documental y testimonial, habría arribado a una
+decisión distinta a la reflejada en la sentencia que se combate (...), bajo
+el entendido que estaba plenamente demostrado que el subcontratista
+no invirtió en el objeto de la obra el anticipo,, ,f2 la par que no lo pudo
+amortizar en su totalidad, quedándose (...) con una suma signfficativa,
+misma frente a la cual exteriorizó su voluntad de devolver(...), con lo cual
+queda en evidencia la conducta de apropiación, riesgo que fue asumido
+por las compañías de seguros demandadas».
+12
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+SEGUNDO CARGO
+En «subsidio» del cuestionamiento anterior, e insistiendo
+en la trasgresión indirecta de los mismos preceptos citados
+allí, Dragados Concay indicó que la colegiatura de segundo
+grado omitió analizar el contrato de obra celebrado con
+Aocisa, la póliza de seguro sobre la que gravita el litigio y la
+totalidad de los testimonios recaudados en la audiencia de
+que trata el articulo 373 del estatuto procesal civil.
+Para apuntalar su 
+alegato, las 
+consorciadas
+sostuvieron:
+(i) 
+Al margen de «lo dicho para justificar la afectación del
+amparo de anticipo en cuanto hace al riesgo de apropiación (...), bien
+podría concluirse que bajo el riesgo de "uso incorrecto" también
+amparado, era venturoso el pago del siniestro, en razón a que los
+documentos y testimonios dejados de apreciar (...)daban plena cuenta
+[de] que el anticipo entregado al subcontratista (...) terminó por ser usado
+de forma incorrecta».
+(ii) 
+El anticipo «puede ser empleado en las actividades de
+implantación de la obra contratada, lo cual no quiere decir que el
+contratista ejecute sobre tales dineros actos de apropiación o de
+destinación diversa a los contornos del contrato celebrado, pues debe
+tenerse en cuenta que siempre y en todos los casos el anticipo se
+encuentra afecto al desarrollo contractual».
+(iii) Como así no se convino en el contrato de obra,
+«haber gastado o usado los dineros del anticipo en aspectos diversos (...)
+a "actividades de movilización", "instalación de campamentos",
+13
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+"instalación de placas de concreto", y "compralde materiales y equipos
+para la ejecución de la obra" (...) implicaba .i.gn incumplimiento de lo
+pactado, y con ello la configuración del siniestro cuyo riesgo se amparó».
+(iv) Dragados Concay y Aocisa concertaron que «el
+anticipo únicamente podría ser invertido en actividades u obras
+contempladas dentro del alcance del contrato» ,,y* que «la inversión del
+anticipo en actividades que no correspondan a las del objeto contratado,
+dará derecho al consorcio a hacer efectiva la gqrantía correspondiente»;
+así, «esas circunstancias contractuales indicaban indefectiblemente el
+destino y los rubros a los cuales podía circunscribirse el uso del anticipo
+entregado a la subcontratista».
+(u) Por consiguiente, «llama la atención que los documentos
+entregados por la propia contratista al consorcio (sic) demandante (...)
+contengan facturas relacionadas con el pago de servicios hoteleros,
+alquiler de maquinaria, pago de póliza de seguro, equipos celulares,
+colchones, base camas, compra de utensilios de cocina, así como notas
+débito por operaciones en moneda extranjera y medidas cautelares»,
+además de «pagos de póliza de seguros (...) y. otras facturas».
+(vi) Por ejemplo, Aocisa cubrió,. -con recursos del
+anticipo- el alquiler «del equipo denominado Yumbo (...) que era de
+N
+propiedad de la firma PCS Proyectos y Construcciones Subterráneas
+S.A.», según lo expusieron el deponente Prieto Asirón y los
+ajustadores, pese a que «en el contrato de obra [se pactó] que en
+anticipo solo se gastaría o invertiría en "la compra de materiales y
+equipos para la ejecución de la obra»».
+(vii) En conclusión, «el carácter personal del darlo se
+encuentra más que demostrado, por cuanto el uso incorrecto del anticipo
+fueron (sic) usados para fines completamente incompatibles con la
+14
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+destinación que contractualmente se le dio a los dineros provenientes del
+préstamo del contratante, resultando en una afectación seria y
+cuantificable al patrimonio del Consorcio Dragados Concay».
+CONSIDERACIONES
+1. 
+Precisión preliminar.
+Con apoyo en la naturaleza autónoma e independiente
+de los cargos en casación, la jurisprudencia ha establecido
+que
+g(...) no es técnico dividir los cargos en principales y
+subsidiarios, pues la Corte tiene el deber de estudiarlos todos,
+cuando ninguno prospera. Y hallándose que es próspero uno de
+los propuestos como 'subsidiarios", aún sin entrar al previo
+estudio de los que se digan "principales", está relevada del
+examen de estos» (CSJ SC, 24 mar. 1971, G. J. t. CXXXVIII, págs.
+180-189).
+Más recientemente, esta Corporación insistió en que
+0(...) cada motivo es una unidad, que en virtud de su autonomía
+obliga al casacionista a presentarlo completo en su exposición, de
+manera tal que contenga la totalidad de requisitos que permitan a
+la Sala confrontar la sentencia impugnada con las normas
+sustanciales que se estiman violadas por el sentenciador. La
+referida autonomía excluye la posibilidad que se presenten cargos
+subsidiarios en la demanda de casación, que han sido
+reiteradamente rechazados por la jurisprudencia de la Corte "ya
+que compete a esta Corporación el estudio de la integridad de las
+acusaciones formuladas cuando no prospera ninguna de ellas, o
+cuando su éxito sólo determina la infirrnación parcial del fallo
+impugnado.
+Dicho en otras palabras, la Corte sólo queda relevada de estudiar
+todos los cargos, en el evento de que prospere alguno de ellos con
+la fuerza suficiente para la casación total de las resoluciones
+15
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+impugnadas, porque el examen de las acusaciones no depende de
+ninguna condición como ocurre con las pretensiones que se
+plantean de manera subsidiaria en la demanda, pues la única
+limitación que tiene la Corte, es la establecida por el articulo 375
+del Código de Procedimiento Civil, que impone que los cargos sean
+resueltos en el orden lógico" (cas. civ. 30 de noviembre de 2001,
+Exp. 5980)» (CSJ Sc, 14 ene. 2001,yad. 2000-00259-01).
+En ese orden, descuella la incorrgcción en que incurrió
+Dragados Concay al rotular uno de sus cargos como «principal»
+y otro como «subsidiario», de modo que la Sala prescindirá de
+esas expresiones, como lo ha hecho en el pasado (Cfr. CSJ
+SC10300-2017, 18 jul., entre otras), y analizará ambas
+censuras de forma conjunta, pues se cimentaron en razones
+complementarias, que ameritan idéntica resolución.
+2. El seguro de cumplimiento.
+Al analizar esta especial tipología de negocio
+aseguraticio, la jurisprudencia de la Corte ha precisado:
+«(Eh l seguro de cumplimiento (...) fue expresamente reconocido en
+el plano legal por la ley 225 de 1938, cuyo art. 20 estableció que
+su objeto sería el de amparar el "cumplimiento de obligaciones que
+emanen de leyes y contratos" y, adicionalmente, que tal figura
+negocial es mencionada explícitamente por el art. 1099 del
+estatuto mercantil, en prueba fehaciente de su disciplina y
+referencia legislativa.
+Según hubo de explicarlo la Sala en cas. civ. de 2 de mayo de
+2002, Exp. 6785, la referida ley se encuentra vigente "...porque es
+el propio código de comercio de 1971 el que da cuenta de su
+existencia cuando a él hace expresa alusión en el articulo 1099;
+alusión que, por lo demás, es la respuesta consciente a la idea que
+siempre acompañó a los autores de la codificación quienes jamás
+perdieron de mira esa tipología de contrato, cual lo revelan sin
+ambages las correspondientes actas de la comisión revisora,
+cumplidamente en los pasajes que fueron dedicados a auscultar
+16
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+las secuelas que se desgajan cuando el tomador del seguro es un
+tercero".
+De conformidad con lo establecido en el citado texto legal,
+mediante esta modalidad contractual, que es una variante o
+especie de los seguros de daños -conforme lo ha expresado
+repetidamente esta Sala (Vid: cas. civ. 22 de junio de 1999, Exp.
+5065; 2 
+de febrero de 2001, Exp. 5670; 26 de octubre de 2001,
+Exp. 5942 y 7 
+de mayo de 2002, Exp. 6181), se puede garantizar
+el cumplimiento de obligaciones que tengan su fuente en un
+contrato o en la ley.
+Por virtud de dicho pacto, el asegurador, previo el desembolso de
+la correspondiente prima, ampara al asegurado contra el
+incumplimiento de obligaciones de la clase señalada. Gracias a él
+se garantiza el pago de los perjuicios que experimente el acreedor
+por causa del, incumplimiento total o parcial, de la obligación
+asegurada, en 
+tanto 
+imputable 
+al 
+deudor -llamado
+tradicionalmente "afianzado"-, es decir, no proveniente de un caso
+fortuito o de fuerza mayor -o en general de una causa extraña-, a
+menos que tales eventos hayan sido realmente asumidos por el
+asegurador.
+Bajo esta modalidad negocial, entonces, se asegura "...la
+satisfacción oportuna de las obligaciones emanadas de otro
+negocio jurídico, lato sensu, de suerte que, si el contratante
+'afianzado' no lo hace, in concreto, deberá la compañia
+aseguradora indemnizar los perjuicios patrimoniales dimanantes
+de la inejecución prestacional, merced a su indiscutido carácter
+reparador, sin perjuicio de los regulado por el art. 1110 del
+estatuto mercantil" (cas. civ. 2 
+de febrero de 2001, Exp. 5670).
+En el seguro de cumplimiento, como lo ha puntualizado esta Sala,
+conforme con su naturaleza y con arreglo a la finalidad que le sirve
+de báculo, "...el asegurado no puede ser otro que el acreedor de la
+obligación amparada, pues únicamente en él radica un interés
+asegurable de contenido económico" (art. 1083 C.C.), [cas. civ. 7
+de mayo de. 2002, Exp. 61811, el riesgo "consiste en el no
+cumplimiento -o en 'la eventualidad del incumplimiento del deudor'
+(cas. civ. 15 de marzo de 1983" 
+(cas. civ. 21 de septiembre de 2000,
+Exp. 6140), como varias veces lo ha resaltado esta Corporación
+(Vid: cas. civ. 22 de julio de 1999, Exp. 5065; 26 de octubre de
+2001, Exp. 5942; 2 
+de mayo de 2002, Exp. 6785). No en vano, se
+itera, el de cumplimiento encuadra en la arquitectura del seguro
+17
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+de daños como lo reconoce el aludido art. 1099 del cuerpo de
+normas mercantiles.
+Tratándose como se mencionó, de un seguro de daños, regido por
+el principio indemnizatorio consagrado en el articulo 1088 del
+Código de Comercio, el de cumplimiento tiene por objeto resarcir al
+asegurado, en todo o en parte, el detrimento patrimonial
+experimentado como consecuencia del acaecimiento del siniestro,
+entendido este, a términos del art. 1054 ibj como la realización del
+riesgo asegurado, por manera que no puede constituirse en frente
+de lucro para este. Por ende, la obligación del asegurador no
+consiste en pagarle al acreedor-aseguraddlla suma de dinero que
+pretenda, sino indemnizarle el daño o perjuicio que, en estrictez,
+derive del incumplimiento imputable cil deudor, que se le
+demuestre suficientemente y hasta concurrencia, claro está, de la
+suma asegurada. Desde esta específica. perspectiva, acaecido el
+siniestro merced a la realización del riesgo asegurado, o sea, en la
+tipología de seguros que ocupa la atención de la Sala, el
+incumplimiento de la obligación amparada o garantizada, sustrato
+de la obligación condicional del asegurado' r (art. 1045 C. Co.), es
+indispensable por parte del asegurado demostrar ante el
+asegurador su ocurrencia, es decir, la inejecución de la obligación
+o debito garantizado, así como el menoscabo patrimonial irrogado
+(perjuicio) y la cuantía del mismo, para .,que éste, a su turno,
+correlativamente proceda a indemnizarle el daño padecido, hasta
+el monto del valor asegurado, sin la inte;ferencia emergente de
+estipulaciones enderezadas a minar su efectividad o extensión
+cuantitativa» (CSJ SC, 24 jul. 2006, rd. 00191).
+s
+Como viene de verse, en virtud de la cobertura de
+cumplimiento, el asegurador toma a su cargo el riesgo de
+sufrir una pérdida económica derivada. de la inobservancia,
+total o parcial, del negocio jurídico amparado, de manera que
+el siniestro -esto es, la realización del referido riesgo, acorde
+con el artículo 1072 del Código de 
+.t Comercio- no lo
+constituiría propiamente la infracción de las estipulaciones
+del aludido convenio, sino el impacto negativo que ello genera
+en el patrimonio asegurado.
+18
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Ciertamente,. mientras el acaecimiento del supuesto
+objetivo que configura el siniestro en los seguros reales (v.gr.
+la destrucción o el hurto del bien asegurado) comporta,
+previsiblemente, un perjuicio económico para el titular del
+interés asegurable, en el marco del seguro de cumplimiento
+no puede inferirse lo mismo, pues las infracciones
+contractuales pueden ser potencialmente inocuas, es decir,
+presentarse sin disminuir el activo o aumentar el pasivo del
+contratante cumplido.
+De ahí que el surgimiento de la obligación condicional
+del asegurador se encuentre supeditado a la existencia de un
+agravio económico, ligado causalmente al incumplimiento
+negocial del tomador del seguro. Similarmente, la magnitud
+de ese perjuicio determinará el monto de la indemnización
+que corresponda, sin exceder los limites convenidos, según
+lo disponen los preceptos 1079 (cEl asegurador no estará obligado
+a responder si no hasta concurrencia de la suma asegurada...») y
+1088 del estatuto mercantil («los seguros de daños serán contratos
+de mera indemnización y jamás podrán constituir para él fuente de
+enriquecimiento»).
+Sobre el particular, la jurisprudencia de esta
+Corporación ha indicado que
+0(...) los seguros como el de cumplimiento -que por su naturaleza
+corresponden a los seguros de daños-, implican la protección
+frente a un perjuicio patrimonial que pueda sufrir la asegurada al
+ocurrir el riesgo asegurado. Empero, el solo incumplimiento por
+parte del obligado no constituye Por si mismo siniestro, a
+menos que se genere un perjuicio para el asegurado, por ser
+de la esencia de éste la causación y padecimiento efectivos
+de un daño, pues de lo contrario el seguro se convertiría en frente
+19
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+de enriquecimiento para el asegurado, 10 cual está prohibido para
+los seguros de daños en el articulo en cita. Es que el siniestro en
+los seguros de daños, tanto más cuando ellos sean de carácter
+patrimonial (Art. 1.082 del C. de Co.), invariablemente supone
+la materialización de un perjuicio de estirpe económico
+radicado en cabeza del asegurado, sin el cual no puede
+pretenderse que el riesgo materia del actierdo de voluntades haya
+tenido lugar y, por ende, que se genere responsabilidad
+contractual del asegurador. No en vano, en ellos campea con vigor
+el principio indemnizatorio, de tanta _relevancia en la relación
+asegurativa» (CSJ Sc, 22 jul. 1999, rad. 5065).
+Igualmente, la Corte ha hecho hincapié en que
+«(...) el contrato de seguro de cumplimiento (...) clasifica en la
+especie de los seguros de daños, y, por'éride, se aplica el principio
+de indemnización que los inspira, el 'dual se concreta en que,
+respecto del asegurado, "serán contrat6s de mera indemnización
+y jamás podrán constituir para él fuente de enriquecimiento", de
+acuerdo con lo dispuesto en el artículo 1088 del C. de Comercio.
+(...) Dada su naturaleza jurídica, el beneficiario del seguro de
+cumplimiento, ante el acaecimiento del siniestro, debe demostrar
+ante la compañía aseguradora, ya mediante reclamo extrajudicial
+o ya por vía judicial, la existencia del daño padecido y su
+cuantía, pues sólo hasta allá se extiende la responsabilidad de la
+compañia a quien, por razón de tal vínculo, le corresponde pagar,
+únicamente en esa medida, los perjuicio clerivados para aquél por
+causa del incumplimiento de las obligact'' 'ones del tomador» (CSJ
+SC, 21 sep. 2000, rad. 6140).
+En suma, para demostrar el acaibimiento del siniestro
+en esta clase de seguros patrimonia1es,,e1 interesado deberá
+acreditar, de un lado, que el tomador desatendió las
+obligaciones que asumió en virtud del convenio garantizado,
+y de otro, que esa inobservancia leiionó el patrimonio
+asegurado, agravio cuya extensión exacta, además,
+corresponderá a la cuantía de la indemnización, hasta
+concurrencia de la suma asegurada.
+20
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+3. El aseguramiento del anticipo en contratos de
+obra.
+3.1. Previo a abordar la problemática anunciada,
+conviene dejar sentado que
+«(...) si, por definición, el riesgo es la posibilidad de realización de
+un evento susceptible de producir un daño (siniestro) previsto en el
+contrato, va de suyo que, en el marco de la autonomía de la
+voluntad y de las normas legales imperativas y relativamente
+imperativas, las partes deberán acordar la determinación del
+riesgo cubierto. En efecto, el interés asegurado no es factible
+hallarlo asegurado bajo cualquier circunstancia o causa, sin
+limites temporales, o en cualquier lugar que se halle o ubique. Por
+el contrario, se hace necesario delimitar el riesgo causal, temporal
+y espacialmente.
+Tampoco es factible el amparo de todos los eventos susceptibles
+de provocar daño, ni que un mismo contrato garantice
+indeterminadamente la totalidad de los riesgos a que se halla
+expuesto un interés económico lícito. Lo expresado pone de
+manifiesto la necesidad de que se individualice el riesgo
+asegurado (...). El asegurador solo se halla obligado a
+resarcir un dallo o cumplir la prestación convenida si
+ocurre el evento previsto, en el marco de un riesgo
+debidamente determinado.
+Por ello, la enumeración de los riesgos y la extensión de la
+cobertura 
+debe 
+apreciarse 
+literal, 
+restrictiva 
+o
+limitativamente, por lo que no es admisible la
+interpretación analógica ni extensiva de la póliza para
+determinar el riesgo asegurado, dado que ampliar o
+restringir la garantía asegurativa produciría un grave
+desequilibrio en el conjunto de sus obligaciones,
+específicamente en la necesaria relación de equivalencia
+entre riesgo y pritna»1 .
+La doctrina citada resulta relevante, pues teniendo por
+cierta la dificultad técnica que comportaría asumir,
+STIGLITZ, Rubén. Derecho de seguros, Tomo I. Ed. Thomson Reuters, Buenos Aires. 2016, p. 297
+21
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+genéricamente, la totalidad de los riesgos, que amenazan un
+bien, un patrimonio o una persona, '‘merge evidente la
+importancia de que el asegurador determine con
+minuciosidad los que tomará a su cargo, propósito que puede
+materializarse a través de descripciones afirmativas, o
+mediante pactos de exclusión, por ejemplo; todo esto en
+concordancia con la previsión del artículo 1056 del Código de
+Comercio, que estatuye que «con las restricciones legales, el
+asegurador podrá, a su arbitrio, asumir todos o algunos de los
+riesgos a que estén expuestos el interés o la cosa asegurados, el
+patrimonio o la persona del asegurado».
+Al amparo de esa prerrogativa,. únicamente podría
+calificarse como siniestro aquel event6 incierto, que no
+depende exclusivamente de la voluntad del tomador,
+asegurado o beneficiario, y que encaja fielmente con la
+,
+descripción abstracta de las coberturas que se incluyó en la
+póliza de seguro; por contraposición, no tendrían tal
+connotación -la de siniestro- las demás variables factuales,
+aunque su realización conlleve una lesión a la cosa, el
+patrimonio o la persona asegurados. Asido ha reconocido la
+Sala, al decir:
+«[Emn orden a impedir las nocivas tendenFias, tanto de quienes
+reclaman con el propósito de procurar:.' 
+conseguir beneficios
+extraños al seguro contratado, lo que'' sin duda redunda en
+menoscabo para la mutualidad de rieskS homogéneos creada,
+como de los aseguradores de exon'iurse de responder
+desconociendo razonables expectativas que del contrato emergen
+para aquellos, este último debe ser interpretado en forma similar
+a las normas legales y sin perder de vita la finalidad que está
+llamado a servir, esto es, comprobando la voluntad objetiva
+que traducen la respectiva póliza y los documentos que de
+22
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+ella hacen parte con arreglo a la ley (Arts. 1048 a 1050 del
+C. de Co.), los intereses de la comunidad de asegurados y
+las exigencias técnicas de la industria.
+Dicho en otras palabras, el contrato de seguro es de
+Interpretación restrictiva y por eso en su ámbito operativo, para
+determinar con exactitud los derechos y las obligaciones de los
+contratantes, predomina el texto de la que suele denominarse
+"escritura contentiva del contrato" en la medida en que, por
+definición, debe conceptuársela como expresión de un conjunto
+sistemático de condiciones generales y particulares que los jueces
+deben examinar con cuidado, especialmente en lo que tiene que
+ver con las cláusulas atinentes a la extensión de los riesgos
+cubiertos en cada caso y su delimitación, evitando favorecer
+soluciones en mérito de las cuales la compañía aseguradora
+termine eludiendo su responsabilidad al amparo de cláusulas
+confusas que de estar al criterio de buena fe podrían recibir una
+inteligencia que en equidad consulte mejor los intereses del
+asegurado, o lo que es todavía más grave, dejando sin función el
+contrato a pesar de las características propias del tipo de seguro
+que constituye su objeto, fines éstos para cuyo logro desde luego
+habrán de prestar su concurso las normas legales, pero siempre
+partiendo del supuesto, valga insistir, de aquí que no son de recibo
+interpretaciones que impliquen el rígido apego literal a
+estipulaciones consideradas aisladamente y, por ende, sin
+detenerse en armonizarlas con el espíritu general que le infunde
+su razón de ser a todo el contexto contractual del que tales
+estipulaciones son parte integrante.
+Siguiendo estas orientaciones, ha sostenido esta corporación que
+siendo requisito ineludible para la plena eficacia de cualquier
+póliza de seguros la individualización de los riesgos que el
+asegurador toma sobre sí (G. J., t. CLVIg pág. 176) y que por lo
+tanto, en este campo rige el principio según el cuca la
+responsabilidad asumida en términos generales como
+finalidad del contrato no puede verse restringida sino por
+obra de cláusulas claras y expresas, "...El Art. 1056 del C. de
+Co., en principio común aplicable a toda clase de seguros de daños
+y de personas, otorga al asegurador facultad de asumir, a su
+arbitrio pero teniendo en cuenta las restricciones legales, todos o
+algunos de los riesgos a que están expuestos el interés o la cosa
+asegurados, el patrimonio o la persona del asegurado...»,
+agregando que es en virtud de este amplísimo principio "que el
+asegurador puede delimitar a su talante el riesgo que
+asume, sea circunscribiéndolo por circunstancias de modo,
+23
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+tiempo y lugar, que de no cumplirse impiden que se
+configure 
+el 
+siniestro; 
+ora 
+precisando 
+ciertas
+circunstancias causales o ciertos efectos que, suponiendo
+realizado el hecho delimitado como amparo, quedan sin
+embargo excluidos de la protección que se promete por el
+contrato. Son estas las llamadas exclusiones, algunas previstas
+expresamente en la ley..." (Cas. Civ. de, 7 
+de octubre de 1985, sin
+publicar), exclusiones que por su propia índole, limitativa de los
+riesgos asumidos por el asegurador, requieren ser interpretadas
+con severidad en una concienzuda tarea que se oriente, de una
+parte, a establecer su justificación técnica, y de la otra a precisar
+el alcance de dichos riesgos conforme a reglas de carácter legal o
+convencional, luego no le es permitido al intérprete "...so pena de
+sustituir indebidamente a los contratantes, interpretar
+aparentemente el contrato de seguro para inferir riesgos
+que no se han convenido, ni para, excluir los rea/mente
+convenidos; ni tampoco hacer interpretaciones de tales
+cláusulas que conlleven a resultados. extensivos de amparo
+de riesgos a otros casos que no sólo se encuentren
+expresamente excluidos sino que por Lsu carácter limitativo
+y excluyente, son de interpretación 'restringida..." (Cas Civ.
+de 23 de mayo de 1988, sin publicar)» (C,SJ Sc, 29 ene. 1998,
+4.
+rad. 4894).
+3.2. Precisado lo anterior, debe señalarse que si bien el
+anticipo carece de definición legal, ha 'sido concebido por la
+jurisprudencia y la doctrina patrias como un mecanismo de
+financiación2, propio de los contratos en los que la
+remuneración está supeditada a la entrega -total o parcial-
+de la obra, en virtud del cual el cóntratante entrega al
+contratista dinero u otros bienes, con el compromiso de que
+este último los utilice para sufragar determinados costos y
+gastos imprescindibles para la ejecución del encargo.
+•
+2 Cfr , entre otros, CE SCA Sill, 13 sep. 1999, rad. 10.607; CE SCA Sill, 22 jun. 2001, rad. 13436; CE
+SPC, 8 ago. 2001, rad. AC-10966 y AC-11.274; CE SCA sin, lq feb. 2014, rad. 31682; CE SCSC, 8
+mar. 2017, rad. 2298, y CSJ SP3473-2019, 27 ago.
+24
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Por vía de ejemplo, el dinero dado en anticipo puede
+proveer la liquidez inicial que requiere el contratista para
+costear la compra de insumos y equipos, el pago de
+honorarios del personal, el levantamiento de campamentos
+de obra y, en general, cualquier otra erogación preestablecida
+convencionalmente, orientada a viabilizar el inicio de las
+construcciones.
+Con base en ello, y sin perder de vista lo que al respecto
+estipulen las partes, el contratista podrá exigir el pago que
+corresponda al avance -total o parcial- del objeto negocial,
+previa compensación con el importe recibido a título de
+anticipo; en consecuencia, la amortización de dicho anticipo,
+entendida como su retorno al patrimonio del contratante,
+estará directamente vinculada con la progresión de la
+ejecución de la obra.
+3.3. En el escenario expuesto, la entrega del adelanto
+hace surgir para el contratante una expectativa primaria,
+consistente en que esos recursos se empleen para cubrir las
+expensas de la obra, en los términos señalados en el
+contrato; y si ello ocurre, aflorará para aquel una expectativa
+secundaria: la de recomponer su acervo patrimonial,
+mediante la efectiva amortización del anticipo.
+Similarmente, debe admitirse que la apropiación, la
+incorrecta inversión y la falta de amortización del anticipo,
+constituyen riesgos potenciales, que amenazan por sendas
+distintas el patrimonio del contratante; por consiguiente,
+este tiene interés en transferirlos lícitamente al asegurador,
+25
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+a través de la contratación de amparos especiales, que
+pueden incluirse como coberturas accesorias al seguro de
+cumplimiento.
+3.4. Pero no puede obviarse que, en desarrollo de la
+comentada potestad de individualizar el riesgo asegurado, el
+asegurador está facultado para decidir si asume los riesgos
+de apropiación, incorrecta inversión o falta de amortización
+del anticipo; pero si opta por restringiE el aseguramiento
+brindado a los dos primeros eventos, no vodrá. reclamársele
+indemnización alguna si se materializa el tercero, aun
+cuando -se reitera- por esa vía sufra mengua el patrimonio
+del contratante. 
+,
+Téngase en cuenta que, si el asegurador asume las
+contingencias económicas que pudieran emerger de la
+'apropiación', o 'incorrecta inversión' 'del anticipo, solo
+responderá por las pérdidas derivadas de la realización de
+esos eventos dañosos, y por lo mismo estará exonerado de
+cualquier carga indemnizatoria si el desmedro patrimonial
+deriva de causas distintas, como lo seria sin duda la
+restitución imperfecta del aludido rubro.
+Expresado de otro modo, si el asegurador hizo suyos
+únicamente los riesgos de apropiación e incorrecta inversión
+del anticipo, de manera implicita exceptuó de protección a
+los quebrantos económicos cuyo origen fuera diferente. Y, en
+ese supuesto, si el contratista utiliza íntegramente el anticipo
+para cubrir erogaciones propias de la obra, atendiendo las
+precisas pautas de inversión señaladas en el clausulado
+26
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+correspondiente, cesa la posibilidad de que se produzca el
+siniestro, siendo irrelevante si, con posterioridad, ese rubro
+no es amortizado, causándole pérdidas al contratante.
+4. Caso concreto.
+4.1. Recuento de la actuación.
+Conviene memorar que el debate propuesto por
+Dragados Concay gravita alrededor de la realización del
+riesgo asegurado en el amparo de buen manejo y correcta
+inversión del anticipo que se incluyó en la póliza de
+cumplimiento en favor de particulares 25796-47150-10-BG,
+mediante una convención de este tenor: «Se ampara al
+asegurado o beneficiario por los perjuicios que se le causen con
+motivo de la apropiación o uso indebido de los dineros o bienes que
+se le hayan entregado como anticipo al contratista afianzado para la
+ejecución del contrato»3.
+En el decurso de las instancias, las demandantes
+sostuvieron, con apoyo en el informe de ajuste que milita en
+el expediente, que ese riesgo efectivamente se consumó,
+porque Aocisa no amortizó, en los términos de la cláusula
+8.1. del contrato de obra, la totalidad de la suma entregada
+por ese concepto, y además se abstuvo de restituir el anticipo
+no compensado, en contravia de lo que ella misma ofertó en
+la comunicación adiada el 22 de abril de 2013.
+3 Folios 124 a 129, cdno. I.
+27
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Por su parte, el ad quem negót esos reclamos, tras
+considerar que «para el buen suceso de las pretensiones relacionadas
+con el amparo de "buen manejo y correcta inversión el anticipo» (...) las
+demandantes debían demostrar la ocurrencia del siniestro, no bajo el
+supuesto de que lo entregado a título de anticipo no fue amortizado en
+su totalidad (...), sino en el entendido de que los dineros efectivamente
+entregados a Aocisa no fueron invertidos en' 
+la obra o se los apropió
+indebidamente», advirtiendo también que» dentro del expediente no
+milita prueba alguna que dé cuenta del incumplimiento de la obligación
+de invertir correctamente el anticipo entregado al subcontratista».
+En adición, dicha colegiatura sostuvo que en el acta «de
+toma de obra» que se elaboró con ocasión de la terminación
+anticipada del contrato4 «nada se dijo s'obre la apropiación del
+contratista del anticipo, tampoco que la suma entregada por ese concepto
+no fue invertida en la obra», de modo que «tal probanza daría cuenta
+del incumplimiento de Aocisa de compromisos distintos».
+4.2. Análisis de las acusaciones.
+Hechas las precisiones anteriores, a juicio de la Sala
+emerge irrebatible que el tribunal incurrió en un yerro
+mayúsculo al construir el segundo de sus argumentos, pues
+si bien en el «acta de toma de obra» elaborada por Dragados
+Concay no se hizo referencia a la suerte del anticipo, lo cierto
+es que de esa omisión no puede deducirse lógicamente la
+inexistencia del siniestro anunciado en la demanda.
+4 Documento que obra a folios 190 a 205, íd.
+28
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Pero tal pifia deviene intrascendente, porque las
+casacionistas no lograron desvirtuar la premisa principal del
+fallo recurrido, según la cual el reclamo indemnizatorio se
+había fundamentado en un suceso -la falta de amortización
+del anticipo- que no corresponde a la realización de ninguno
+de los riesgos asegurados incluidos en el texto de la citada
+póliza 25796-47150-10- BG.
+En efecto, tanto en la reclamación elevada ante
+Sergurexpo de Colombia S.A., como en la genérica redacción
+de los hechos de la demanda, las actoras vincularon su
+reclamo indemnizatorio al resultado del informe elaborado
+por la ajustadora López Villam.arín Consultores Ltda., en el
+que se consideró que el menoscabo patrimonial denunciado
+correspondía al importe del anticipo ($2.092.492.427),
+deducido en el monto de la «amortización actas 1 a la 8»
+($235.493.467), el «descuento por rete-garantía» ($116.980.901)
+y «el valor de las actas retenidas a partir de que se detectaron actos de
+incumplimiento» ($367.934.332)5.
+Esto significa que Dragados Concay persiguió que se
+tuviera como siniestro la falta de amortización del anticipo (a
+través de la facturación mensual del «avance de obra»),
+perdiendo de vista que el amparo accesorio que pretendió
+afectar cubría únicamente las pérdidas derivadas de una
+causa distinta, plenamente individualizada en el contrato de
+seguro: «la apropiación o uso indebido de los dineros o bienes que
+se le hayan entregado como anticipo al contratista».
+5 Folio 40, cdno. 3.
+29
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Nótese, para aquilatar esa afirmación, que quienes
+elaboraron el informe de ajuste -arrimado como soporte
+probatorio principal de las indemnizEiciones reclamadas-
+manifestaron en sus declaraciones, de fórma inequívoca, que
+se desentendieron por completo de la destinación del
+anticipo, esto es, no repararon en si fue correctamente
+invertido, o no, limitándose a establecer el porcentaje de ese
+rubro que no había retornado a las contratantes mediante la
+deducción de un porcentaje de la facturación mensual.
+Sobre el punto, el abogado Oscar Alirio López Villam.arín
+-representante legal de la ajustadora- anotó que su labor se
+circunscribió a esclarecer «el grado de amortización del anticipo que
+recibió el subcontratista (...)»6, precisando que no se verificaron
+los egresos de Aocisa, porque «los únicos montos que se pueden
+deducir de esa cuantía que se entrega al contratista son los que,
+válidamente, las partes estén validando como 'de ejecución de obra (...)
+no podemos descontar nada que no esté en actas de cortes de
+obra)+7, y recabando luego en que «la' única manera de ver
+amortizados esos 2.000.000 que aparecen en el contrato era por la vía
+de las actas»8.
+Asimismo, el ingeniero Héctor Heman Hidalgo
+Barranza, quien asesoró la elaboración de la probanza
+técnica en mención, ratificó que «hubo unos bloques de actas. Las
+actas del 1 al 8 y las actas del 9 al 12. Las pctas del 1 al 8 
+fueron
+pagadas y surtieron el trámite normal. Las actas del 9 al 12 fueron
+retenidas por cuenta del asegurado, habida cuenta que ya se tenía
+presente que había un incumplimiento (...), entonces, cuales son las
+« Audiencia de 28 de abril de 2017, minuto 9:55 (fl. 1091, cdno. 3).
+7 ídem. Hora 01:03:06.
+Ídem. Hora 02:05:59.
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+partidas que se toman, los dineros que se devuelven a través de las
+primeras ocho actas, los dineros que se devuelven en las siguientes
+actas, la retención en garantía, y el faltante es el valor en dinero que
+debe devolver el contratista aflanzado»9.
+Lo anotado se traduce en que, ni la firma ajustadora
+contratada por Dragados Concay, ni tampoco las integrantes
+de ese consorcio, se ocuparon de determinar cuál había sido
+el destino del anticipo, esto es, si fue utilizado en los términos
+de la cláusula 8.1. del contrato de «excavación y sostenimiento del
+túnel 6 
+del sector 2R, conforme la cual «el anticipo (...) corresponde
+(sic) a todas las actividades de movilización, instalación de
+campamentos, instalación de plantas de concreto y compra de materiales
+y equipos para la ejecución de las obras». Y, por supuesto,
+desentrañar la suerte de ese dinero era condición necesaria
+e indispensable para poder asegurar que el mismo había sido
+apropiado o invertido indebidamente por Aocisa.
+Ello muestra la divergencia entre los conceptos de 'falta
+de amortización' y 'apropiación o uso indebido' (siendo estos
+últimos los riesgos que asumieron las coaseguradoras),
+comoquiera que, si la totalidad del anticipo se asigna a la
+finalidad establecida en el contrato de obra, no es posible
+afirmar -válidamente-- que el contratista sustrajo dichos
+dineros para sí, ni tampoco que los consagró a erogaciones
+distintas de las autorizadas convencionalmente.
+De ahí que emerja indiscutible el acierto de lo decidido
+en las sentencias de primer y segundo grado, en tanto allí se
+»Ídem. Hora 02:44:10.
+31
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+dejó sentado la falta de prueba de la ocurrencia del siniestro;
+debiéndose agregar que esa conclusión Ao se ve socavada por
+ninguno de los medios de convicción relacionados en las
+censuras estudiadas, no solo porque estos no se ocuparon de
+evidenciar en qué se había gastado el anticipo, sino porque
+la causa petendi se construyó a partir de la improcedente
+subsunción de un hecho dañoso (la falta de amortización) en
+la hipótesis abstracta del riesgo asegurado (la apropiación o
+uso indebido).
+Basta con reparar en la reclamación ante la
+coaseguradora líder, en el informe de ajuste que se arrimó
+como prueba de cargo, y en el texto mismo de la demanda,
+para comprobar que, al menos en el decurso de las instancias
+ordinarias, las convocantes jamás hicieron referencia a un
+verdadero supuesto de apropiación del anticipo, sino que se
+limitaron 
+a 
+equipararlo 
+-artificialmente- 
+con 
+la
+plurimencionada falta de amortización. Inclusive, al formular
+sus reparos contra el fallo dictado por el juez a quo, el
+apoderado 
+de 
+las 
+demandantes 
+circunscribió 
+su
+inconformidad a lo siguiente:
+«Fue mal analizada la cobertura, porque aunque se hable de
+amortización, la amortización es la forma que escogieron las dos
+partes para devolver o pagar el préstamo que le habla realizado
+(...) a manera de anticipo, dinero que jamás fue devuelto en la
+suma reclamada, y ajustada en el -valga la redundancia- el
+informe de ajuste, deducido el valor del anticipo menos los,
+digamos, lo que se le alcanzó a pagar dergro de las actas y menos
+las actas que se le debía a esta empresa. Entonces si no
+devuelven este dinero hay un uso incorrecto y una
+apropiación indebida por parte del contratista Aocisa (...).
+32
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Es que la amortización es la forma en la que debe devolver
+el dinero, no, hay otra formal°.
+En ese orden, puede colegirse que los yerros
+denunciados resultan fútiles, porque en realidad las
+pretensiones de las consorciadas se vincularon al
+acaecimiento de una circunstancia distinta a la establecida
+como riesgo asegurado en la póliza 25796-47150-10-BG,
+razón suficiente para denegar su petitum, como se hizo.
+4.3. Los efectos de la comunicación de 22 de abril
+de 2013.
+De manera un tanto ambivalente, Dragados Concay ha
+intentado reforzar sus alegatos llamando la atención en el
+contenido de la misiva que le dirigió Aocisa en la fecha
+previamente anotada, y en la que se indicó:
+«Como es de su conocimiento, este contratista se ha visto en
+dificultades técnicas y financieras para dar cumplimiento a las
+obligaciones contraídas en virtud del contrato de la referencia, lo
+cual nos ha llevado a incurrir en retrasos significativos en la
+construcción de la obra, así como al incumplimiento de diferentes
+¡tenis del contrato.
+Por medio de esta comunicación queremos de manera formal
+solicitar al consorcio Dragados Concay un plazo máximo hasta el
+31 de mayo de 2013 para que dentro de este, Aocisa pueda
+subsanar las deficiencias en la obra así como mejorar su posición
+financiera que le permita continuar con la ejecución de la misma.
+Si llegado el plazo del 31 de mayo de 2013 Aocisa no ha podido
+superar las dificultades técnicas y financieras que le permitan
+continuar con la ejecución del contrato, así lo informará al
+consorcio, y Aocisa desistirá expresamente de continuar con la
+m Ídem. Hora 05:32:30.
+33
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+ejecución de la obra. En caso de no hl:Leerlo, desde ahora de
+manera libre y expresa autoriza al consorcio para que vencido el
+plazo previsto sin que las dificultades hagan podido superarse por
+parte de Aocisa, dé por terminado da manera anticipada el
+contrato de obra, sin que deba mediar procedimiento previo
+alguno.
+En caso de una terminación forzosa del Contrato de obra por las
+razones antes mencionadas, desde aheira Aocisa manifiesta
+que procederá a la restitución del anticipo entregado por el
+consorcio en los términos y condiciones' que las partes pacten en
+su momento. Igualmente el consorcio podrá proceder a la
+liquidación definitiva del contrato»11
+A juicio de las demandantes, el ,aparte resaltado es
+muestra de la voluntad inequívoca de la subcontratista de
+restituir el dinero recibido a título de anticipo -en caso de
+que el contrato de obra terminara prematuramente-,
+compromiso que fue incumplido por Aocisa, dando lugar, por
+esta singular vía, a la apropiación del monto referido que se
+denunció en el escrito inicial.
+Pero la Corte estima lo contrario, esto es, que la misiva
+no recoge un compromiso autónomo de' reembolso, pues la
+devolución se vinculó a un -eventual- acuerdo posterior
+entre los estipulantes, como se sigue de la expresión «en los
+términos y condiciones que las partes pacten en su momento». Pero
+si, en gracia de discusión, se dejara de lddo dicho raciocinio,
+en todo caso esa prestación restitutoria encontraría su fuente
+en un acto unilateral de Aocisa, y no en el contrato de
+«excavación y sostenimiento del túnel 6 
+del sector 2».
+"Folios 83 y 84, cdno. 1.
+34
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Ello significa que el incumplimiento de la hipotética
+promesa de «proceder a la restitución del anticipo entregado por el
+consorcio» no podría enrostrarse a las demandadas, pues esa
+eventual prestación -a cargo de Aocisa- sería ajena a la
+ejecución del negocio jurídico afianzado y, por lo mismo, su
+inobservancia no podría estar comprendida dentro de las
+coberturas del seguro de cumplimiento sobre el que gravita
+este litigio.
+4.4. La improcedencia de invocar aspectos fácticos
+que no fueron debatidos en las instancias.
+Amén de insistir en sus tesis primigenias, al sustentar
+su recurso de casación Dragados Concay intentó reforrnular
+su petitum, para sugerir que «haber gastado o usado los dineros
+del anticipo en aspectos diversos (...) a "actividades de movilización",
+"instalación de campamentos", instalación de placas de concreto", y
+"compra de materiales y equipos para la ejecución de la obra" (...)
+implicaba un incumplimiento de lo pactado, y con ello la configuración
+del siniestro cuyo riesgo se amparó».
+No obstante, ese giro argumental no satisface las
+exigencias técnicas de este remedio extraordinario, porque
+no fue exteriorizado a lo largo de las instancias,
+constituyendo un 'medio nuevo',
+«(...) el cual, como con insistencia lo tienen definido la sala, es
+'inadmisible en casación, toda vez que 'la sentencia del ad quem
+no puede enjuiciarse 'sino con los materiales que sirvieron para
+estructurarla; no con materiales distintos, extraños y
+desconocidos. Sería de lo contrario, un hecho desleal, no sólo
+entre las partes, sino también respecto del tribunal fallador,
+a quien se le emplazaría a responder en relación con hechos
+35
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+o planteamientos que no tuvo ante sus ojos, y aún respecto
+del fallo mismo, que tendría que defenderse de armas para él
+hasta entonces ignoradas' 
+(Sent. 006 de 1999 Exp: 5111), al fin
+y al cabo, a manera de máxima, debe tenerse en cuenta que 'lo que
+no se alega en instancia, no existe en casación' (DOOCIII pág. 57)"
+(CSJ, SC del 21 de agosto de 2001, Rad. 
+6108).
+En tiempo más reciente se precisó que el recurso extraordinario de
+casación "no puede basarse ni erigirse exitosamente" en
+'elementos novedosos, porque él, 'cual lo expuso la Corte en
+sentencia de 30 mayo de 1996, expediente 4676, 'no es propicifo]
+para repentizar con debates fácticós y probatorios de
+última hora; semejante irrupción constituye medio nuevo y es
+entonces repulsado (...), sobre la base de considerarse, entre otras
+razones, que 'se violarla el derecho de defensa si uno de los
+litigantes pudiese echar mano en casación de hechos, extremos o
+planteamientos no alegados o formulados en instancia, respecto
+de los cuales, si lo hubiesen sido entonces, la contraparte habría
+podido defender su causa.
+Pero promovidos ya cerrado el proceso; la intimación de la
+sentencia con apoyo en ellos, equivaldría a la pretermisión
+de las instancias, de las formas 
+r propias del trámite
+requerido, con quebranto de la garantía institucional de no
+ser condenado sin haber sido oído y vencido en juicio
+(DCXXIII 2169, página 76)'" (CSJ, SC del 9 
+de septiembre de 2010,
+Rad. n.°2005-00103-01)» (CSJ SC18506-2017, 9 nov.).
+4.5. Precisiones adicionales.
+Aun si la Corte estimara superada la deficiencia técnica
+que se reseñó, la suerte de la impugnación no sería distinta,
+porque -contrario a lo alegado por ;Dragados Concay-
+ninguna de las pruebas que militan en el expediente
+permiten inferir, con la certeza que es exigible en esta sede,
+que Aocisa se apropió o usó indebidamente los dineros
+entregados por concepto de anticipo.
+36
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+Contrario sensu, existen varios indicios que muestran la
+realidad opuesta. Por ejemplo, en el «acta de toma de obra» que
+elaboraron las contratantes, se registró la presencia de una
+serie de maquinaria y equipos, tales como un «robot Putmeister
+500», «equipo de presión de agua para servido en túnel», «generador
+630 kW», «tablero eléctrico distribución avance», máquina para
+inyección de pernos», entre otros12, que fueron adquiridos o
+alquilados por Aocisa, con cargo al anticipo.
+Del mismo modo, en «acta de conciliación» de 21 de
+noviembre de 201413, convocada en el decurso del trámite de
+liquidación de la subcontratista, se dejó sentado que
+«Dragados Concay está de acuerdo en asumir el valor de 99 cerchas
+después de comprobar que dichas cerchas han sido usadas (...)», y que
+«Dragados Concay y Aocisa están de acuerdo en que hay
+aproximadamente [$]717.000.000 que le debe Dragados Concay a
+Aocisa»; además, allí se resaltó la necesidad de avaluar los
+materiales y equipos de esta última, que fueron utilizados por
+las actoras para culminar la obra de excavación contratada.
+Esas probanzas, analizadas en conjunto con los
+testimonios de Rafael Prieto Asiron y Carlos Germán Ruiz
+Sombredero14 y las facturas y documentos contables
+recaudados por la firma ajustadora15, confirman que Aocisa
+adquirió maquinarias, equipos e insumos, contrató,
+transportó y proveyó alojamiento al personal especializado e
+instaló campamentos para los trabajadores de la obra, entre
+12 Folios 145 a 150, cdno. 1.
+"Folios 18 a 20, cdno. 5.
+14 Recaudados en la audiencia de 14 de julio de 2017 (fl. 1113, cdno. 3).
+"Documentos que reposan en la «Carpeta No. 5» de anexos al informe de ajuste.
+37
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+•
+otros costos y gastos propios de la 
+:„ misma, que pueden
+estimarse como inversión del anticipo.i
+Ante ese panorama, le correspondía a Dragados Concay
+depurar la información que tenía za su alcance, para
+establecer el importe de esas erogaciones y su armonía con
+el amplio marco de inversión señalado en la cláusula 8.1. del
+contrato (que contemplaba «actividades de movilización,
+instalación de campamentos, instalación de plantas de concreto y
+compra de materiales y equipos para la ejecución de las obras»),
+pesquisa imprescindible para acreditar que la subcontratista
+malversó esos recursos, en el sentido de disponer de ellos
+para propósitos distintos de la financiación de su operación
+en gel túnel 6 
+del sector 2».
+Pero como ya se advirtió, la inadecuada subsunción del
+siniestro alegado en el amparo de anticipo contratado generó
+que Dragados Concay no se ocupara de demostrar las
+referidas variables, pese a que era de,, su carga hacerlo, al
+amparo de lo dispuesto en el canon 1077 del Código de
+Comercio. Y, valga anotarlo, la aludida orfandad probatoria
+impide establecer la existencia de uny verdadero desmedro
+patrimonial causado por la manera en la que se invirtió el
+anticipo, aspecto de capital importancia porque, como se dejó
+establecido previamente, es ese perjuicio -y no el simple
+quebranto de las disposiciones contractuales- el que
+determina la realización del riesgo asegurado.
+• 
+Ese puntal del debate, además, era de abordaje forzoso
+en este juicio, porque a la terminación unilateral del contrato
+38
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+por parte de Dragados Concay le sucedió la ocupación, por
+parte de las contratantes, del sector donde Aocisa adelantaba
+labores, oportunidad en la que aquellas se hicieron a las
+máquinas, equipos e insumos que se encontraban allí (según
+la relación incluida en la citada «acta de toma de la obra»),
+elementos que fueron aprovechados para dar continuidad a
+la construcción del corredor vial.
+Ello también justifica que el vacío que se comenta no
+fuera salvado oficiosamente por la jurisdicción, pues ello
+implicaría, de un lado, alterar el marco del debate definido
+en la demanda, y de otro, relevar injustificadamente al
+asegurado de un gravamen objetivo (el de «demostrar la
+ocurrencia del siniestro, así como la cuantía de la pérdida, si fuere el
+caso») por el que se despreocupó a lo largo del proceso.
+No se olvide que,
+«(...) si bien los poderes que se le han venido confiriendo al fallador
+ponen de presente que la tendencia legislativa se orienta a la
+superación del sistema dispositivo puro y la mayor vigencia del
+inquisitivo, la supresión de aquél no se ha producido, de lo cual
+puede concluirse que la existencia del sistema mixto representa
+una equilibrada amalgama, en la que, con la denodada
+intervención de las partes y la potestad oficiosa del juez, se logre
+una justa y eficaz composición del debate, a partir de bases ciertas
+y no meramente formales. Conforme con ello, aunque al juez se le
+exige acuciosidad y dinamismo en la búsqueda de la verdad real
+sobre la cual ha de definir la controversia, esa labor no se extiende
+hasta el punto de tener que suplir en cualquier supuesto la carga
+probatoria que le incumbe a las partes.
+Al respecto, la Corte en fallo SC 23 nov. 2010, rad. 2002-00692-
+01 precisó: 'No se trata, pues, de que el juez tome la bandera de
+una de las partes, ni que dirija su esfuerzo a construir la que desde
+su personal perspectiva debe ser la respuesta para el caso, sino
+39
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+que su iniciativa debe contribuir a dar forma a una hipótesis que
+muestra algunas trazas en el expediente y que, siendo coherente,
+atendible y fundada, aparece apoyada por los medios de
+convicción a su alcance y se ajusta plausiblemente a una solución
+que acompase con el ideal de justicia. Solo en esas circunstancias,
+miradas desde luego bajo el trasluz de cada caso particular,
+podría increparse al juez por no comprometerse con el decreto de
+pruebas oficiosas, evento en el cual, como ha dicho la Corte desde
+hace tiempo ya, incurriría en error de deiecho por desconocer el
+contenido del artículo 180 del C. de P. C.".,
+Por tanto y exceptuando aquellos eventd8 donde la práctica de
+determinada prueba ésta prevista como un imperativo legal
+concreto, conviene precisar que si bien el juez tiene la facultad-
+deber de decretar pruebas de oficio, la misma no puede
+interpretarse como un mandato absoluto o fatalmente
+impuesto en todos los casos, dado que *aquél sigue gozando de
+una discreta autonomía en la instrucción del proceso y en esa
+medida, no siempre que se abstenga de utilizar dicha prerrogativa,
+incurre en un yerro de derecho.
+Ello, porque hay eventos en los cuales. la actitud pasiva, de
+la parte sobre quien pesa la responsabilidad de demostrar
+determinado supuesto de hecho, es la generadora del
+fracaso, bien de las pretensiones o de las defensas o
+excepciones, por haber inobservado su compromiso al
+interior de la tramitación y en las oportunidades previstas
+por el legislador, particularmente en aquellos asuntos en los que
+la controversia versa sobre derechos disponibles.
+Bajo esas consideraciones, para que a través del recurso
+extraordinario de casación pueda acuarse eficazmente una
+sentencia de haber incurrido en error de derecho respecto de una
+prueba y, más concretamente, por no haber decretado alguna de
+oficio dentro de la discrecionalidad que le es propia al juzgador, es
+requisito inexcusable su existencia o que de ella se tenga
+conocimiento en el expediente y que su falta de evacuación no
+sea imputable a manifiesta negligencia de la parte a cuyo
+cargo se halla, porque como lo ha dicho la Sala, "la carencia de
+diligencia de la parte en cuestiones probatorias, no conduce a que
+el juzgador se vea obligado inexorablemente a actuar por ella
+mediante el decreto oficioso de pruebas" (CSJ SC 25 ene. 2008,
+rad. 2002-00373-01)» (CSJ SC5237-2018, 7 
+dic.).
+40
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+5. Conclusión.
+Dado que el siniestro alegado en la demanda no
+armoniza con la descripción de los riesgos asumidos por las
+coaseguradoras, la eventual prosperidad de los ataques no
+comportaría la modificación de lo decidido por el tribunal, de
+modo que aquellos carecen de aptitud para quebrar la
+sentencia de segunda instancia.
+Además, las alegaciones relacionadas con el uso
+indebido del anticipo por parte de Aocisa, no fueron
+esgrimidas en la oportunidad debida, y riñen con el caudal
+probatorio, que permite inferir razonablemente que el
+anticipo fue invertido en los costos y gastos propios de la
+obra, de manera que el patrimonio asegurado no parece
+haber sufrido desmedro por esa causa:.
+DECISIÓN
+En mérito de lo expuesto, la Corte Suprema de Justicia,
+Sala de Casación Civil, administrando justicia en nombre de
+la República y por autoridad de la ley,
+RESUELVE
+PRIMERO. NO CASAR la sentencia de 3 de septiembre
+de 2018, proferida por la Sala Civil del Tribunal Superior del
+Distrito Judicial de Bogotá, eii el proceso verbal que
+promovieron Dragados IBE Sucursal Colombia y Concay
+41
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+S.A., integrantes del Consorcio Dragados Concay, contra
+Segurexpo de Colombia S.A. y Liberty Seguros S.A.
+SEGUNDO. CONDENAR a las demandantes al pago de
+las costas procesales. En la liquidación; respectiva, inclúyase
+el monto de $6'000.000, que el Magistrado sustanciador
+señala como agencias en derecho.
+A*
+TERCERO. Remítase oportunamente la foliatura a la
+autoridad judicial competente.
+Notifíquese y cúmplase
+"mg«
+ír
+LUIS 
+DO TOWS VILLABONA
+ALVARO FE
+AROLDO
+Presidente de ala
+O GARCÍA RESTREPO
+ON QUIROZ MONSALVO
+42
+
+Rad. n.° 11001-31-03-032-2015-00826-01
+43

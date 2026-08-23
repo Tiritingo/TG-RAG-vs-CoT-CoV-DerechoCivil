@@ -1,0 +1,3077 @@
+1
+República de Colombia
+Corte Suprema de Justicia
+Sala de Casación Civil
+AROLDO WILSON QUIROZ MONSALVO 
+Magistrado ponente
+SC3179-2021
+Radicación n.° 11001-31-03-007-2008-00601-01
+(Aprobado en sesión virtual de veintisiete de mayo de dos mil veintiuno)
+Bogotá, D.C., veintiocho (28) de julio de dos mil 
+veintiuno (2021).
+Se deciden los recursos de casación interpuestos por 
+Carlos Enrique Estupiñán Monje, Softpymes SAS y Germán 
+Alberto Restrepo Fernández, frente a la sentencia de 6 de 
+julio de 2017, proferida por el Tribunal Superior del Distrito 
+Judicial de Bogotá, Sala Civil, dentro del proceso que el 
+primero promovió contra los otros y Pablo Enrique, Fernando 
+Otoya Domínguez, y Sistemas de Información Empresarial 
+SA -SIESA-.
+ANTECEDENTES
+1. La accionante solicitó que se declarara que los 
+convocados infringieron los derechos 
+patrimoniales de autor al copiar, transformar, usar y explotar 
+el software denominado C.A.T., Unolight o SIG, bajo el
+morales y
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+nombre Unopymes, y que se impusiera la condena al pago de 
+$500.000.000 por daño emergente y lucro cesante.
+Asimismo, deprecó que se ordenara a los accionados 
+que divulgaran quién era el creador original de CAT, 
+Unoligth, SIG y Unopymes, con la petición para que la 
+Dirección Nacional de Derechos de Autor excluya o cancele 
+el depósito o inscripción de Germán Alberto Restrepo 
+Fernández como autor de Geresis.
+2. Tal reclamación tuvo el sustento táctico que a 
+continuación se sintetiza (folios 120 a 129 del cuaderno 1):
+2.1. El convocante es el creador intelectual del 
+programa denominado Contabilidad al Alcance de Todos 
+(CAT), luego nombrado Accounting Strikingly Simple (ASS), 
+Unolighty Sistema de Información Gerencial (SIG), registrado 
+en la Biblioteca del Congreso de Estados Unidos de América 
+que a pesar de sus variados nombres es 
+sustancialmente el mismo.
+en 1993
+2.2. Son tres (3) los rasgos especiales de este sistema: 
+(i) no emplea ni se fundamenta en el método por módulos; (ii) 
+el usuario no requiere saber de contabilidad; y (iii) se puede 
+utilizar de forma inmediata en cinco (5) idiomas.
+2.3. Precisó que, en su inicio, el software estaba escrito 
+en lenguaje Visual Foxpro 3.1., por lo que contrató a Germán 
+Alberto Restrepo Fernández para actualizarlo y modernizarlo,
+2
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+para lo cual suscribió un contrato de servicios y 
+confidencialidad.
+2.4. Restrepo Fernández desconoció las cláusulas de 
+confidencialidad, restricción y reserva, pues torticeramente 
+programó el sistema Geresis, después Unopymes, obra 
+derivada de Unolight, que registró como de su autoría en la 
+Dirección Nacional de Derechos de Autor -DNDA- en el año
+2003.
+2.5. El 14 de septiembre de 2005 se dio por terminado 
+el servicio de programación «1/ en la misma fecha y por medio 
+de acuerdo escrito y el pago de la suma de veinte millones de 
+pesos... por parte del señor Pablo Enrique Otoya Domínguez... 
+se levantó el compromiso de confidencialidad escrito en el año 
+2.001 por el ingeniero Restrepo Fernández» (folio 121), sin que 
+en este acto se buscara la transferencia o cesión de derechos 
+patrimoniales.
+2.6. Siesa SA inició la comercialización de Unopymes en 
+abril de 2006, el cual es una copia de SIG con alteraciones 
+irrelevantes y superfluas, como se muestra de una 
+comparación de algunas ventanas que develan coincidencias 
+en la terminología empleada, la forma y contenido de la 
+información presentada.
+2.7. Restrepo Fernández no tenía la experiencia ni el
+nuevo sistema de
+conocimiento para desarrollar un 
+información contable, menos en un término corto como el
+3
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+que transcurrió entre la firma del contrato de programación 
+y el registro ante la DNDA.
+2.8. El convocante no ha participado de las regalías de 
+explotación de Unopymes, sin que sirva de excusa que su 
+código fuente es diferente de Unolight, por tratarse de una 
+obra derivada.
+3. Una vez admitido el libelo y agotado el proceso de 
+enteramiento, en lo esencial, los convocados puntualizaron 
+la plataforma fáctica y propusieron las excepciones 
+intituladas: «eZ software Geresis denominado actualmente 
+Unopymes no es una obra derivada de C.A.T. o A.S.S., 
+Unolight o S/G», «eZ señor Germán Alberto Restrepo Fernández 
+es el autor intelectual de la obra Geresis denominada 
+actualmente Unopymes, y por lo tanto es el titular de los 
+derechos morales y patrimoniales protegidos por la ley», dos 
+programas C.A.T. o A.S.S., Unolight y Geresis denominada 
+actualmente Unopymes son obras totalmente diferentes», «el 
+demandado no está obligado legal ni contractualmente a 
+pagar pena pecuniaria alguna», «inexistencia de perjuicios 
+patrimoniales y morales de la parte demandante», «mala fe de 
+la parte demandante» y «el señor Carlos Estupiñán levantó la 
+confidencialidad mediante documento de fecha 14 de 
+septiembre de 2005» (folios 143 a 148, 198 a 216, 345 a 363, 
+366 a 383 y 408 a 425).
+4. El Juzgado Veinte Civil del Circuito de Descongestión 
+de Bogotá, el 26 de noviembre de 2014, denegó las
+4
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+pretensiones, al no encontrar demostrada la infracción a los 
+derechos de autor (folios 319 a 343).
+5. Al desatarse la alzada el 6 de julio de 2017, después 
+de la suspensión del proceso con ocasión de la interpretación 
+prejudicial solicitada y atendida por el Tribunal Andino de 
+Justicia, el superior revocó la decisión impugnada y, en su 
+lugar, declaró civil y solidariamente responsables a Germán 
+Alberto Restrepo Fernández y Siesapymes SAS -hoy 
+Softpymes SAS- del pago de los perjuicios ocasionados a 
+Carlos Enrique Estupiñán Monje, por la infracción de sus 
+derechos patrimoniales y morales, condenándolos a 
+indemnizar $147.633.372 y $25.000.000, por cada uno de 
+estos conceptos; asimismo, emitió algunas órdenes dirigidas 
+a garantizar el derecho de paternidad (folios 571 a 576 del 
+cuaderno 7).
+LA SENTENCIA DEL TRIBUNAL
+El fallo de 6 de julio de 2017, reconstruido parcialmente 
+en la parte motiva el día 13 del mismo mes, se soportó en las 
+siguientes reflexiones.
+1. Después de recordar las particularidades de los 
+derechos de autor, las normas que los protegen y el concepto 
+de obra derivada, estimó «que no existe duda respecto a que... 
+el programa de contabilidad denominado Geresis, registrado 
+el demandante Germán Restrepo Fernández en el año 
+2003, es una obra derivada de la original denominada
+por
+5
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Contabilidad al Alcance de Todos C.A.T., de autoría del 
+demandante».
+En sustento valoró de forma conjunta las pruebas, con 
+el fin de relievar que el Io de marzo de 2001 se celebró el 
+contrato para actualizar el software CAT al lenguaje Visual 
+Foxpro 6.0, en el cual se prohibió a Germán Alberto Restrepo 
+Fernández realizar desarrollos similares.
+No obstante, en el estudio de la especialista Ana 
+Mercedes Garzón Laverde se dictaminó que Unopymes y SIG 
+-Unolight- tienen una presentación visual, operatividad y de 
+nombres con similitud superior al 80%, siendo formales las 
+diferencias entre ellos, para lo cual hizo una comparación de 
+42 pantallas y 18 informes, al cual el Tribunal atribuyó 
+mérito de convicción por la formación y experiencia de quien 
+lo emitió.
+Desechó los dos (2) dictámenes realizados en el curso 
+del proceso por Rafael Castro Medina y Johan Cardozo 
+Morales, en tanto los peritos se centraron en las diferencias 
+entre los sistemas de información, sin ponderar que se 
+trataba de softwares contables ni verificar el contenido de los 
+programas.
+Respecto al concepto de Augusto Rafael Castro Medina, 
+como se enfocó en las ventajas de Unopymes sobre Unolight, 
+no sirve para probar la originalidad de aquél, máxime porque 
+Restrepo Fernández admitió comprender las ideas
+que
+6
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+sirvieron de fundamento ai último y estableció cuáles son sus 
+errores de diseño y concepción.
+Desestimó que los supuestos yerros de la obra original 
+sirvieran para desdecir de su protección jurídica, en atención 
+a que el derecho de autor protege la forma de expresión de 
+las ideas al margen de su mérito. Que Geresis tenga 
+modificaciones y mejoras de funcionalidad, no contrarresta 
+que es una actualización de Unolight, lo que se reafirma con 
+la declaración de Miguel Zoque, quien relievó como rasgos 
+particulares del programa de Carlos Estupiñán el balance a 
+cero y contar con un sistema completamente integrado.
+Se dolió de la falta de elementos probatorios para 
+acreditar que Restrepo Fernández tuviera la capacitación o 
+experiencia para desarrollar un software contable en dos (2) 
+años, sino fuera porque se apoyó en uno preexistente, más 
+aún en tanto se demostró que accedió a la obra original de 
+Estupiñán Monje.
+\
+2. Estimó probados los elementos de una obra derivada:
+(i) CAT es una obra original, que fue confiada a Restrepo 
+Fernández para que éste la actualizara en lenguaje Visual
+Geresis, si bien incluye cambios
+*
+(ii)
+FoxPro 6.0; y 
+significativos frente a la original, se basó en ella sin estar
+autorizado.
+3. Con fundamento en las pruebas practicadas en 
+segunda instancia, recordó que Restrepo Fernández fue
+7
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+condenado penalmente por los delitos de violación de 
+derechos morales y patrimoniales de autor, en providencias 
+que hicieron tránsito a cosa juzgada, de donde surge que la 
+obligación de resarcimiento tiene como fuente el delito y el 
+principio de reparar los daños causados.
+4. Adentrándose en las excepciones evaluó el contenido 
+del Acuerdo de compromiso para la liberación de la obligación 
+contraída en [la] cláusula de confidencialidad contenida en el 
+contrato de prestación de servicios de programación de un 
+software de contabilidad, en el cual (i) se autorizó la 
+comercialización de Geresis sin violación de los derechos de 
+autor, (ii) se levantó el compromiso de confidencialidad que 
+pesaba sobre Restrepo Fernández y (iii) se reconocieron los 
+derechos sobre Geresis.
+Empero, en ejercicio del derecho de arrepentimiento del 
+parágrafo e) del artículo 30 de la ley 23 de 1982, se revocó la 
+decisión contenida en el mencionado acuerdo, de lo cual 
+emerge que se reconoció la autoría de la obra derivada de 
+Geresis, lo que no eximía al autor de esta última de citar al 
+titular de la originaria, ni impedía a éste reivindicar su 
+paternidad; además, teniendo en cuenta el arrepentimiento, 
+el acuerdo de confidencialidad previsto en el contrato de 
+programación seguía en vigor y la autorización para la 
+comercialización de Geresis no convalidaba la violación de 
+derechos morales y patrimoniales que principió tiempo atrás, 
+como se señaló en la sentencia penal.
+8
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+5. A partir de los documentos Acuerdo de Separación del 
+socio Carlos Estupiñán Monje de Unolight Limitada, Acta de 
+Acuerdo para la creación de la Compañía Unolight Ltda. y la 
+revocatoria del levantamiento de la cláusula de 
+confidencialidad, estimó que el demandante únicamente 
+permitió la comercialización de Unolight, no así de la obra 
+derivada Geresis, por lo que al haberse realizado la de este 
+último por parte de Unolight Ltda. -hoy Softpymes SAS- es 
+procedente condenarla al pago de los perjuicios, sin que esta 
+responsabilidad pueda extenderse a sus socios, por fuerza de 
+los artículos 98 del Código de Comercio, Io y 2o de la ley 1258 
+de 2008, razón para exonerar a Pablo Enrique y Fernando 
+Otoya Domínguez.
+Frente a Siesa SA, por cuanto el dictamen pericial 
+únicamente da cuenta de que vendió el programa Unolight 
+entre 2002 y 2004, momento para el cual existía un vínculo 
+entre el demandante y los señores Otoya Domínguez que 
+permitía hacerlo, excluyó su responsabilidad.
+6. Para el cálculo de la indemnización, con fundamento 
+en los cánones 57 de la Decisión Andina 351 de 1993 y de la 
+ley 44 de 1993, desestimó el pedimento por $500.000.000, al 
+estar comprobado ni siquiera por el juramento 
+estimatorio, el cual entendió circunscrito a la temática del 
+lucro cesante.
+no
+Para la cuantificación del demérito acudió al dictamen 
+pericial sobre los libros de contabilidad de Unopymes Ltda. -
+9
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Softpymes SAS-, el cual da cuenta de la utilidad percibida 
+para los años 2005 a 2013 por la comercialización de 
+Unopymes, el cual actualizó y, en aplicación analógica del 
+mandato 106 de la ley 23 de 1982, fijó la condena en 
+$147.633.372. Respecto al daño moral, por arbitrio judiéis, lo 
+tasó en $25.000.000.
+DEMANDAS DE CASACIÓN
+Con el fin de que la sentencia confutada sea revocada 
+y, en su lugar, se absuelva a los condenados, Softpymes SAS 
+-antes Siesapymes SAS-, por escrito de 30 de octubre de 
+2017, propuso un único cargo por violación indirecta de la 
+ley sustancial (folios 17 a 46 del cuaderno Corte); lo propio 
+hizo Germán Alberto Restrepo Fernández, por la misma 
+senda (folios 48 a 65).
+De otra parte, el demandante propuso tres (3) embistes 
+por violación directa de la ley sustancial, con el objeto de 
+lograr un aumento en la condena de perjuicios y extender la 
+condena a los demás convocados al litigio.
+Por orden lógico primero se analizarán los escritos de 
+los accionados, en tanto propenden por la anulación integral 
+del fallo impugnado, los cuales se estudiarán de consuno por
+servirse de argumentos comunes. Después se evaluarán de 
+forma agrupada los ataques del convocante, en atención a
+que incurren en defectos técnicos similares.
+10
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+DEMANDA DE SOFTPYMES SAS
+CARGO ÚNICO
+Denunció la aplicación indebida de los artículos 2o, 3o, 
+12, 30, 106 de la ley 23 de 1982, 4o, 7o, 10 de la decisión 351 
+del Acuerdo de Cartagena y 2344 del Código Civil, por la 
+indebida apreciación de los dictámenes periciales rendidos 
+por Ana Mercedes Garzón Laverde, Augusto Rafael Castro 
+Medina y Johan Cardozo Morales, junto al testimonio de 
+Miguel Zoque.
+1. Achacó una alteración objetiva de la experticia de Ana 
+Mercedes Garzón, en punto a los requisitos de claridad, 
+precisión y detalle, pues el ad quem le otorgó credibilidad por 
+haber sido rendido por un profesional en contaduría, quien 
+dio cuenta de un método comparativo, a partir de lo cual 
+coligió que un muestreo de pantallas permitía establecer que 
+el software Geresis se derivó del original Unopymes, sin 
+puntualizar las razones para entender satisfechos aquéllos, 
+explicable por tratarse de dos (2) páginas allegadas con la 
+demanda.
+1
+Resaltó que la similitud advertida por la experta, 
+cercana o superior al 80%, no equivale a identidad, la cual 
+debía demostrarse para sacar avante las pretensiones. 
+Adicionalmente, reprochó que la conclusión relativa a que las 
+diferencias entre los sistemas eran formales carece de 
+apoyadura, como si la igualdad de los nombres de los campos
+n
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+o columnas pudiera asimilarse a identidad esencial de 
+contenidos, menos en el contexto de la expresión «cercana al 
+100%» que puede equivaler al 50%, 20%, 80% o 90%, la cual 
+devela imprecisión y subjetividad.
+Argüyó que, sin necesidad de mayores esfuerzos, al 
+comparar la sentencia acusada con el contenido del dictamen 
+reluce que las calidades profesionales de la experta no le 
+imprimen a su concepto los requisitos de claridad, precisión 
+y detalle requeridos para su firmeza. Como el Tribunal los dio 
+por establecidos, sin estarlo, incurrió en suposición de los 
+mismos, lo que constituye un error de hecho protuberante.
+2. Alegó un error manifiesto en la valoración del 
+dictamen de Rafael Castro Medina, debido a que, a pesar de 
+cumplir con las exigencias de claridad, precisión y detalle 
+exigidos por el legislador para que sea entendióle, no fue 
+tenido en cuenta para acreditar las diferencias entre los 
+programas.
+Resaltó que este profesional, a partir de una 
+comparación de los soportes lógicos de Unolighty Unopymes, 
+encontró diferencias en el número de pantallazos, funciones 
+involucradas, análisis de casos de uso y algoritmos, aunque 
+en ambos se encuentra inmerso el Programa Único de 
+Cuentas.
+En adición recordó que, según el experto, la interfaz 
+gráfica es un mínimo porcentaje del código de programación,
+12
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+el cual es invisible e inaccesible para los usuarios, de allí que 
+con base en la misma no puede arribarse a la conclusión de 
+que los sistemas eran iguales, menos aún sin considerarse el 
+alcance y funcionalidad de estos.
+Trajo a colación que, según el profesional en 
+contaduría, Unolight genera dudas sobre su funcionalidad, 
+en tanto su dinámica contable no corresponde al decreto 
+2650 de 1993, a partir de lo cual encontró 93 divergencias 
+puntuales entre éste y Unopymes, «aunque por cuanto la 
+contabilidad obedece a un mismo marco legal, los valores que 
+se reflejen en los respectivos libros de contabilidad habrán de 
+ser idénticos... La presentación de todo es muy similar ya que 
+no se puede cambiar el diseño de esos informes, apenas se 
+puede ‘personalizar’ un poco» (folio 33 del cuaderno Corte); lo 
+contrario haría que todos los softwares contables, 
+administrativos o médicos fueran ilegales y no puedan 
+desarrollarse.
+I
+3. Argüyó que la pericia de Johan Cardozo Morales, 
+ingeniero de sistemas, reflejó que la estructura interna de 
+Unolight y Unopymes es distinta, pues el primero conserva 
+semejante al sistema DOS, sin aprovechar las
+una
+propiedades de Visual FoxPro, a diferencia del segundo que 
+utiliza las herramientas propias de las bases de datos, menús
+las clases -herencia y
+dinámicos y ventajas de 
+encapsulamiento-.
+13
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Aseguró que hubo un esfuerzo de programación 
+superior en Unopymes, con un código fuente más extenso y 
+mayores procesos, por el diseño de bases de datos, clases- 
+plantillas, reportes incluidos y lógica empleada.
+Colofones que, en criterio del impugnante, satisfacen 
+los requerimientos de claridad, precisión y detalle específico, 
+tales como las diferencias entre los lenguajes de 
+programación, lo que imprime diferencias entre ellos. 
+«Nuevamente y sin esfuerzo que implique complicadas 
+elucubraciones de la inteligencia, queda establecido que el 
+sentenciador de segundo grado ni siquiera se detuvo a dar por 
+establecido que en este dictamen existen unas conclusiones 
+con apoyo en fundamentaciones claras, precisas y detalladas 
+que deberían haber sido objeto de análisis por el follador en 
+su labor de fijación de los hechos que constituyen la quasteio 
+fáctica del proceso» (folio 36).
+4. Aseveró que, de no haberse pretermitido el material 
+demostrativo, no se habría incurrido en el error de entender 
+que Unopymes es una obra derivada de Unolight, si bien 
+ambos parten de los conocimientos alcanzados por la 
+humanidad para la elaboración de programas contables 
+empresariales.
+5. Desestimó que la declaración de Miguel Zoque 
+sirviera para establecer la identidad de los programas
+Unolight y Unopymes, en tanto lo único que atestiguó es que 
+aquél incluye el término balance a cero, sin hacer alusión a
+14
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Geresis, de allí que su invocación por el Tribunal decae en el 
+vacío. Traduce, en su criterio, que el ad quera le hizo decir al 
+testigo algo que no dijo, lo que constituye un error de hecho 
+evidente.
+6. Por lo anterior afirmó que las normas aplicadas por 
+el Tribunal no eran de recibo, ante la ausencia de los 
+supuestos tácticos previstos por el legislador para otorgar 
+protección a los derechos de autor, tanto patrimoniales como 
+morales, del demandante. En este punto se dolió de la 
+ausencia de prueba del daño y de la responsabilidad de 
+Softpymes SAS -antes Siesapymes SAS-.
+í
+l
+DEMANDA DE GERMÁN ALBERTO RESTREPO
+FERNÁNDEZ
+i «
+CARGO ÚNICO
+Imputó la violación indirecta de las normas citadas en 
+precedencia, con ocasión de la indebida apraiación de 
+iguales medios demostrativos.
+1. Frente al dictamen de Ana Mercedes Garzón Laverde 
+criticó una suposición de su contenido, en panto a los 
+requisitos de claridad, precisión y detalle, pues los mismos 
+no podían asentarse en las calidades de la experta y la 
+invocación de un método comparativo.
+15
+; >
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Lo anterior, en tanto la perita no demostró experiencia 
+o conocimientos en programación o software, lo que excluye 
+la calificación técnica necesaria para emitir los juicios que 
+realizó y, en todo caso, «ellos tan solo tienen como fundamento 
+la observación empírica de quien no cuenta con una 
+preparación técnica para ello» (folio 60).
+2. Respecto a Augusto Rafael Castro Medina estimó que 
+su pericia fue mutilada o cercenada, pues se guardó silencio 
+sobre la misma a pesar de su claridad, precisión y detalle 
+específico, en particular, por comparar los soportes lógicos 
+de los programas Unolight y Unopymes. «De haberlo hecho, el 
+Tribunal habría establecido que el primero cuenta 
+doscientos ríncuenta y cinco pantallazos, mientras el segundo 
+sobrepasa el número de mil, y que, en los dos se encuentra 
+inmerso el Programa Único de Cuentas, por tratarse de estar 
+destinados a la contabilidad empresarial que por disposición 
+legal deben sujetarse al mismo» (folio 60).
+con
+Achacó una omisión respecto a las diferencias en la 
+funcionalicad de los sistemas, para lo cual analizó los 
+de uso, las opciones de programa y algoritmos, sin que la 
+interfaz gráfica sea representativa frente al total del código o 
+instrucciones inmersas en el software, punto en el que son 
+similares.
+casos
+Relievó qre la funcionalidad de Unolight 
+incógnitas, porcue la dinámica contable no es la estipulada 
+en el decreto2650 de 1993, al punto que hay 93 divergencias
+genera
+16
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+puntuales con Unopymes en lo tocante a los usos o 
+aplicaciones que poseen, aunque los valores que han de 
+reflejar deban ser los mismos y la presentación similar, más 
+aún por la poca flexibilidad sobre el diseño de los informes.
+Destacó que el perito asintió en la posibilidad de 
+desarrollar programas con fines similares a los existentes, 
+incluso bajo la misma idea o concepto contable, aunque su 
+diferencia esté dada por la originalidad, destreza y esfuerzo 
+que el autor invierte.
+Remarcó que para comparar los alcances y 
+funcionalidades de los programas debe interpretarse el 
+código escrito en lenguaje de programación, elemento 
+esencial en el análisis probatorio «y no la simple comparación 
+visual de pantallazos» (folio 62).
+3. En cuanto hace al peritaje de Johan Cardozo Morales 
+también se pretermitió su precisión, claridad y detalle, pues 
+el Tribunal no vio que, según el experto, Unolight tiene una 
+estructura semejante al sistema operativo DOS, mientras 
+que Unopymes emplea una moderna «utilizando [las] 
+herramientas de bases de datos que ofrece el Visual Fox Pro, 
+unos menús dinámicos que brindan una interfaz ágil; también 
+se aprovecharon las ventajas que brindan las ‘clases’, tales 
+como la ‘herencia’ y ‘encapsulamiento’» (idem).
+Mencionó las múltiples diferencias entre los sistemas de 
+información en punto al diseño de las bases de datos -que
+17
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+redunda en su integridad, seguridad, confiabilidad y 
+eficiencia-, las clases/plantillas base de elaboración, diseño 
+y funcionalidad de menus
+cantidad de formularios y 
+reportes, así como lógica de los códigos fuente, lo que 
+descarta que Unopymes sea una copia de Unolight.
+4. En cuanto hace a la declaración de Miguel Zoque 
+afirmó que no puede ser utilizada para afianzar la conclusión 
+del ad quera, pues para esto se requiere hacerle decir que 
+Unopymes incluyó el elemento de balance a cero, aseveración 
+carente de la ciencia de su dicho, «por lo que caben dos 
+observaciones, a saber: que no se puede afianzar lo que no 
+existe, de una parte; y, de otra, que dio por sentado el Tribunal 
+que el testigo explicó las circunstancias de tiempo de modo y 
+de lugar... lo que significa que adicionó el testimonio» (folio 64).
+5. Argüyó que las normas aplicadas para resolver el 
+litigio fueron indebidamente consideradas 
+encontraban demostrados los supuestos tácticos que ellas 
+contemplan, ni los daños causados.
+en tanto no se
+CONSIDERACIONES
+1. Previo a decidir, son necesarias las subsiguientes 
+consideraciones respecto a la prelación de turno en el sub 
+examine.
+1.1. En aplicación de los principios de igualdad y 
+confianza legítima, los jueces están obligados a resolver las
+18
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+materias sometidas a su conocimiento en estricto orden 
+cronológico, con el propósito de garantizar que los 
+expedientes se evacúen de acuerdo con su ingreso para 
+decisión y, por esta senda, se evite cualquier tipo de 
+preferencia por motivos indeseables.
+Total, los fallos deben proferirse «sin atender a criterios 
+de clasificación sospechosos -tales como la condición social de 
+las partes, la raza o el sexo de las mismas, etc. - o a 
+favoritismos inaceptables desde el punto de vista del derecho 
+de igualdad», con independencia de que «algunas sentencias 
+requerirán más elaboración que otras» (CC, C-248/99).
+1.2. El quebranto de esta regla sólo es posible en los 
+casos expresamente previstos en la Constitución Política o la 
+ley; en particular, el artículo 63A de la ley 270 de 1996, el 
+cual prescribe que «[c]uando existan razones de seguridad 
+nacional o para prevenir la afectación grave del patrimonio 
+nacional, o en el caso de graves violaciones de los derechos 
+humanos, o de crímenes de lesa humanidad, o de asuntos de 
+especial trascendencia social, las Salas Especializadas de la 
+Corte Suprema de Justicia... señalarán la clase de procesos 
+que deberán ser tramitados y fallados preferentemente».
+Sobre esta norma, la Corte Constitucional señaló que 
+«si bien es cierto que por regla general es necesario seguir un 
+orden estricto para resolver los asuntos sometidos ante la 
+justicia, también lo es que dicha regla no es absoluta, de 
+que bajo circunstancias extraordinarias el legislador
+manera
+19
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+puede establecer excepciones, siempre y cuando las mismas 
+se encuentren debidamente justificadas y se reflejen como 
+razonables» (C-713/08).
+En adición, la doctrina jurisprudencial ha admitido que 
+es posible «ordenar excepcionalmente la alteración del orden 
+para proferir el fallo, cuando el juez está en presencia de un 
+sujeto de especial protección constitucional» (T-230/13).
+1.3. En desarrollo de las reglas precedentes, la Sala de 
+Casación Laboral, en la sentencia STL5248 de 5 de mayo de 
+2021, por la cual se resolvió «en primera instancia, la acción 
+de tutela instaurada por Carlos Estupiñán Monje contra la 
+Sala de Casación Civil de la Corte Suprema de Justicia», 
+exhortó a esta última Corporación «para que, en ejercicio de 
+las facultades de que está revestida, estudie la viabilidad de 
+otorgarle prelación al estudio del proceso radicado bajo el 
+número 2008-00601».
+Lo anterior soportado en que, «conforme se logra 
+evidenciar en el escrito genitor, el demandante, quien acredita 
+ser una persona de 86 años de edad... acudió al aparato 
+judicial, e interpuso un proceso verbal en contra de una 
+sociedad, por considerar infringido su derecho de aútor, sin 
+que a la fecha, esto es, más de 12 años después de iniciar el 
+proceso, este haya culminado, lo cual, deviene en una 
+circunstancia que impone a la Corte como juez constitucional, 
+propender por la garantía de los derechos fundamentales al
+20
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+debido proceso y acceso a la administración de justicia del 
+accionante».
+1.4. Por tanto la Sala, en estricta sujeción al llamado 
+realizado por el juez constitucional, alterará el orden de 
+decisión para resolver el presente recurso de casación de 
+forma preferente.
+2. Precísese que, como los recursos extraordinarios que 
+se resuelven se presentaron el 11 de julio de 2017 (folios 579 
+y 580 del cuaderno 7), su resolución estará gobernada por el 
+Código General del Proceso -CGP-, en aplicación del artículo 
+40 de la ley 153 de 1887, el cual prescribe: «los recursos 
+interpuestos... se regirán por las leyes vigentes cuando se 
+interpusieron».
+3. La nueva codificación adjetiva conservó la naturaleza 
+extraordinaria de la casación, expresada, de forma 
+particular, en los requisitos señalados para su procedencia, 
+los cuales salvaguardan que su utilización devenga 
+excepcional y no se convierta en una instancia adicional en 
+la que se reabra la controversia de forma panorámica.
+Rememórese a Humberto Murcia Bailón, refiriéndose a 
+los remedios extraordinarios, quien dijo que son 
+«eminentemente restringidos o limitados, por tres aspectos: la 
+clase de providencias impugnables con dichos recursos, los
+21
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+motivos o circunstancias para atacarlos, y la actividad 
+jurisdiccional para su conocimiento y decisión»1.
+Así se previo en los cémones 333, 334, 336, 338 y 344 
+del CGP, que acotaron los fines de la casación, las sentencias 
+susceptibles de ser recurridas por este mecanismo, las 
+causales de procedencia, el interés para impugnar y las 
+formalidades para la sustentación de la acusación.
+Postura explicable por cuanto los litigios encuentran su 
+punto final con el fallo de alzada, el cual está revestido por la 
+doble presunción de legalidad y acierto que impide a 
+cualquier otra autoridad judicial modificarlo o adicionarlo, 
+salvo que se configure alguno de los motivos taxativos que 
+dan lugar a remedios excepcionales, previo cumplimiento de 
+los requisitos formales para su tramitación.
+4. El numeral 2o del artículo 344 dispone que, para la 
+adecuada sustentación del remedio casacional, el interesado 
+debe presentar «los fundamentos de cada acusación, en forma 
+clara, precisa y completa» (negrilla fuera de texto).
+La completitud consiste en que la acusación enarbolada 
+refute todas las premisas que constituyen la fundamentación 
+de la decisión confutada, de suerte que, de prosperar, esta 
+última quede sin báculos y su quebranto devenga como un 
+resultado inexcusable.
+Recurso de Casación Civil, 6a Ed., Ediciones Jurídicas Gustavo Ibáñez, 2005, p. 38.
+22
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+La Sala ha dicho «que la demanda de casación debe 
+desandar los pasos del tribunal para derruir todos y cada uno 
+de los pilares que sirven de apoyo a su sentencia, porque en 
+la medida en que sus argumentos basilares se mantengan 
+incólumes, la presunción de legalidad y acierto que ampara la 
+labor del ad quera deviene inquebrantable» (SC4901, 13 nov. 
+2019, rad. n.° 2007-00181-01).
+Por tanto, si alguno de los argumentos de la sentencia 
+criticada queda desprovisto de cuestionamiento, el mismo 
+devendrá intangible y constituirá el pilar que soportará la 
+providencia de segundo grado, al margen de la razonabilidad 
+de los reproches izados en la senda extraordinaria, haciendo 
+inocuo el estudio de estos últimos.
+I
+Dicho en otras palabras, la «actividad impugnaticia tiene 
+que estar dirigida a derruir la totalidad de [los] argumentos 
+esenciales de la sentencia, pues si el laborío del acusador no 
+los comprende a cabalidad, al margen de que el juzgador de 
+instancia hubiere podido incurrir en las falencias 
+denunciadas, su sentencia no podría quebrarse en virtud del 
+recurso extraordinario.el cargo... debe ser completo o, lo que 
+es lo mismo, debe controvertir directamente la totalidad de los 
+auténticos argumentos que respaldan la decisión combatida» 
+(SC5674, 18 die. 2018, rad. n.° 2009-00190-01, reitera AC, 
+19 die. 2012, rad. n.° 2001-00038-01).
+5. En el presente caso los impugnantes se acotaron a 
+cuestionar cuatro (4) de las pruebas nucleares analizadas en
+23
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+el fallo del Tribunal, sin tener en cuenta todas las ideas 
+basilares de su exposición, las cuales fueron igualmente 
+blandidas para justificar la procedencia de revocar la 
+decisión del a quo y, en su lugar, acceder parcialmente a las 
+pretensiones incoadas.
+5.1. Justamente, en el fallo de 6 de julio de 2017, para 
+declarar la responsabilidad de Germán Alberto Restrepo 
+Fernández y Siesapymes SAS -hoy Softpymes SAS-, no sólo 
+se valoró la prueba pericial que demostraba que Unopymes 
+es una obra derivada de Unolight, como se criticó en el escrito 
+de casación, sino que adicionalmente tuvo en cuenta que en 
+el proceso no se acreditó que aquél tenía la formación y 
+experiencia necesarias para desarrollar un software 
+contable, sin copiar al que accedió con ocasión del contrato 
+de programación; tesis que ratificó por la condena penal 
+impuesta por los delitos de violación de derechos morales y 
+patrimoniales de autor. Argumentos que quedaron exentos 
+de crítica, haciendo de ellos la columna que mantendrá en 
+vigor la decisión de segunda instancia.
+Sobre el primer tópico, en el veredicto confutado se dijo
+in extenso:
+Por otra parte, en su interrogatorio, el demandado Restrepo 
+Fernández a una de las preguntas formuladas referente a su 
+formación profesional, respondió ‘yo me gradué como ingeniero de 
+sistemas en el año 1983 y desde entonces he desarrollado 
+múltiples programas de facturación, inventarios, cartera, nómina, 
+producción en interfaces con otros programas contables, si bien no 
+había desarrollado un programa de contabilidad, sí tenía mucha
+24
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+experiencia y conocimiento en esta área’. No obstante, y pese a 
+que la tesis defensiva de este demandado se centra en que 
+la obra GERESIS es una obra original de su autoría, distinta 
+por completo a la del demandante, en el proceso brillan por 
+su ausencia elementos de confirmación encaminados a 
+demostrar que el señor Restrepo Fernández tenía formación 
+en contabilidad suficiente como para crear un programa de 
+software contable sin apoyarse en una obra preexistente, o 
+sin el respaldo, asesoría o colaboración de un experto en 
+contabilidad. Nótese, que aunque en el interrogado se refirió a 
+un trabajo realizado en la empresa denominada SUPR (sic) RICAS, 
+ningún medio de demostración aportó en cuanto a la 
+elaboración de un programa contable para ese cliente.
+En ese sentido, al margen de la petición de práctica de prueba 
+pericial encaminada, según su dicho, a demostrar que los 
+programas CAT - UNOLIGHT - SIG y UNOPYMES, son obras 
+diferentes, siendo la última originaria y de su autoría, este 
+accionado no enfiló sus esfuerzos a demostrar que, a pesar 
+de haber tenido en su poder la obra original del señor 
+Estupiñán, sus conocimientos y experiencia anteriores o 
+concomitantes a ese encargo, le permitían diseñar un 
+programa de software contable absolutamente distinto al 
+del demandante.
+Así las cosas, no resulta admisible que, dos años después 
+de la celebración del contrato de prestación de servicios de 
+programación con el demandante, el señor Restrepo 
+Fernández, cuya formación profesional es en ingeniería y 
+no en contabilidad, haya registrado en la Dirección 
+Nacional de Derechos de Autor el programa contable 
+denominado GERESIS en su calidad de ‘autor’ y ‘productor’ 
+(énfasis propio, audiencia de 6 de julio de 2017).
+Respecto a la condena penal de Restrepo Fernández, el 
+ad quem recordó:
+Por virtud del decreto de pruebas de oficio, se allegaron al Tribunal 
+copias auténticas de las sentencias de primera y segunda 
+instancia dictadas dentro del proceso penal adelantado en contra 
+de Germán Restrepo Fernández con ocasión de los mismos hechos
+25
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+que dieron origen a esta causa. La primera, dictada por el Juzgado 
+43 Penal del Circuito de Conocimiento de esta ciudad, fue 
+condenatoria contra el acusado, (al encontrarlo autor responsable 
+del delito de violación de los derechos morales de autor en 
+concurso heterogéneo con el de violación a los derechos 
+patrimoniales de autor (artículos 270 y 271 del Código Penal)’.
+Dicha providencia fue confirmada en su integridad por la Sala 
+Penal de esta Corporación en sentencia del 4 de diciembre de 
+2014, para tal efecto, el ad quem expuso... los elementos de juicio 
+dan cuenta que existe similitud entre los dos programas CAT, 
+UNOLIGHT o SIG y GERESIS -UNOPYMES o CIESAUNOPYMES 
+(sic), en primer lugar porque mantienen la misma filosofía o por 
+decirlo de otra manera la idea que el software incorpora, pues 
+maneja la contabilidad de manera integrada, y no por módulos, no 
+requiere codificar cuentas, el sistema siempre está balanceado 
+utilizando una sola columna y los dos ofrecen el manejo contable 
+de una empresa comercial pequeña, aunado al hecho que es muy 
+similar casi en el 100% en cuanto a su presentación visual y 
+operatividad.
+En ese orden, el análisis probatorio efectuado por la Sala, permite 
+advertir que en efecto la conducta por la cual se juzga a RESTREPO 
+FERNÁNDEZ, se ejecutó, y el autor de la misma, incurriendo en lo 
+que la doctrina ha denominado 'imitación elaborada’, pues extrajo 
+apartes importantes de la obra original para incorporarlos en 
+aquella que haría pasar como inédita...
+Frente a dicha providencia, el defensor del procesado formuló 
+recurso de casación, declarado inadmisible por la Sala de 
+Casación Penal de la Corte Suprema de Justicia en proveído del 9 
+de septiembre de 2015 (folios 397 a 413 del cuaderno 7). Así las 
+cosas, la sentencia penal condenatoria en contra del demandado 
+Restrepo Fernández ha hecho tránsito a cosa juzgada (audiencia 
+de 6 de julio de 2017).
+Ideas que se invocaron para afirmar:
+En el panorama descrito, establecida la responsabilidad del señor 
+Restrepo Fernández por las mencionadas conductas punibles, 
+estima esta Sala de Decisión que aunque en el proceso no se
+26
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+hizo valer la figura jurídica de la prejudicialidad por la 
+incidencia del fallo que pudiera proferirse en esa rama de 
+la jurisdicción en el presente proceso, en todo caso, 
+habiéndose arribado a la misma conclusión, respecto de 
+este demandado la fuente de su obligación de resarcir los 
+perjuicios por el daño sobre bienes jurídicos de los que es 
+titular el aquí demandante, no es otra que el delito, de 
+conformidad con el artículo 1494 del Código Civil, en armonía con 
+el principio de responsabilidad, conforme al cual, quien causa un 
+daño está obligado a repararlo (énfasis propio, audiencia de 13 
+de julio de 2017).
+Refulge que, para el sentenciador de alzada, más allá de 
+que la valoración conjunta de los estudios técnicos y 
+testimonios sirviera para demostrar que Unopymes se nutrió 
+sustancialmente de Unolight, a esta conclusión también se 
+arribaría, según aquél, de considerarse que el sentido común 
+repudia que una persona, sin educación en contaduría, 
+pueda desarrollar en dos (2) años un programa funcional 
+para manejar la contabilidad de personas jurídicas en el país.
+Circunstancia que, según el Tribunal, debe ser 
+evaluada de cara a que el accionado tuvo acceso a CAT, 
+software contable que recibió del demandante para su 
+actualización al lenguaje Visual Foxpro 6.0, de lo que resulta 
+razonable inferir que se basó en aquél para desarrollar a 
+Geresis, el cual reclama como de su autoría.
+Tesis que ratificó por los efectos definitivos de las 
+sentencias condenatorias en el campo criminal, frente a las 
+cuales únicamente cabe asentir en la responsabilidad civil
+del débito
+de los delitos causados, amén
+propia
+27
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+indemnizatorio ingénito a la comisión de una conducta 
+tipificada por el ordenamiento penal.
+Estas reflexiones quedaron ayunas de cuestionamiento 
+en casación, deviniéndose en inquebrantables en este 
+momento procesal y con aptitud para sustentar el veredicto 
+de segundo grado, por revelar un análisis indiciario, así como 
+el reconocimiento de efectos a un fallo penal definitivo; en 
+consecuencia, el estudio de los vicios hermenéuticos 
+achacados al Tribunal deviene inane, ya que al margen de su 
+ocurrencia, la sentencia proferida conservará su valía 
+jurídica soportada en aquellas cavilaciones.
+Explicado de otra forma, aunque se asintiera en que 
+hubo una suposición en el estudio técnico de Ana Mercedes 
+Garzón Laverde y la atestación de Miguel Zoque, así como un 
+cercenamiento de los efectuados por Augusto Rafael Castro 
+y Johan Cardozo Morales, lo cierto es que estos yerros son 
+inanes, frente al hecho incontrovertido, por estar amparado 
+por las presunciones de acierto y legalidad, de que existen 
+hechos indicadores sobre la utilización no autorizada de la 
+obra de Carlos Estupiñán, como son la falta de formación en 
+contaduría de Germáu Restrepo, la inexperiencia en el 
+desarrollo de programas contables, y el poco tiempo que 
+transcurrió entre la fecha que recibió el software CAT y el 
+registro de Geresis. Colofón que en el proceso penal se mostró 
+como irrefutable, al existir armonía entre las providencias de 
+primera y segunda instancia para imponer las respectivas 
+condenas.
+28
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+5.2. Por lo expuesto, ante la intangibilidad de algunos 
+de los razonamientos efectuados por el Tribunal y que 
+soportan con fuerza la sentencia criticada, se impone 
+desestimar el estudio de los cargos propuestos por ambos 
+recurrentes.
+6. Con todo, aunque en gracia de discusión se dejara de 
+lado el anterior defecto técnico, lo cierto es que la 
+ponderación probatoria realizada por el sentenciador de 
+segundo grado no se advierte contraria a la ontología de los 
+medios suasorios, dentro del contexto del régimen de los 
+intangibles.
+6.1. Propiedad inmaterial y derechos de autor
+El primer acercamiento a la noción de propiedad nació 
+con la consolidación de las gens, en la frontera entre el 
+salvajismo y la barbarie, al darse la «domesticación de los 
+animales y la cría de ganado», por tratarse de una forma de 
+riqueza que excedía la idea de los utensilios personales y que, 
+incluso, podía pasar a futuras generaciones, en la que el 
+trabajo humano no era apreciable por su poca relevancia 
+para soportar los gastos de mantenimiento2.
+«[A] medida que iban en aumento, las riquezas daban al 
+hombre una posición en la familia más importante que a la
+2 Federico Engels, El origen de la familia, la propiedad privada y el Estado, Fundación 
+Federico Engels, Madrid, 2006, p. 61 y 62.
+29
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+mujer y hacían que naciera en él la idea de valerse de esta 
+ventaja para modificar en provecho de sus hijos el orden de 
+herencia establecido»3, con la consecuente reivindicación de 
+la fuerza de trabajo como un tipo de riqueza y mecanismo 
+para diferenciar los integrantes de la familia, dando paso a la 
+esclavitud como forma de dominio.
+De forma lenta se abrió espacio la idea de que la 
+propiedad no se reducía a los bienes tangibles (perceptibles 
+por los sentidos humanos), puesto que existían otros activos 
+(fuerza de trabajo propia y derechos sobre la ajena), 
+caracterizados por ser inmateriales o incorporales, los cuales 
+fueron objeto de reconocimiento progresivo.
+La expresión propiedad fue usada inicialmente por 
+Cicerón en el siglo primero A.C.4, y prontamente abandonó 
+su asimilación con la materia física, para dar cabida a 
+cualquier bien que fuera susceptible de apreciación 
+patrimonial y, eventualmente, de intercambio entre las 
+personas.
+Así se reconoció expresamente en el derecho romano, 
+pues si bien el punto de partida fue el dominio corporal, se 
+asintió en que existía uno incorporal, para referido a las 
+quae tangi non possunt, qualia sunt ea, quae iure consistunt, 
+sicut haereditas, usufrcutus, usus, obligationes quoquomodo 
+contractae (son incorpóreas, las que no pueden ser tocadas;
+«res
+3 Ibidem, p. 63.
+4 Olivier Moréteau, Aniceto Masferrer y Kjell A. Modéer, Comparative Legal Histoy, 
+Edward Elgar Publishing, Cheltenham, UK, 2019, p. 345.
+30
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+cuales son las que consisten en un derecho, como la herencia, 
+el usufructo, el uso, y las obligaciones de cualquier modo 
+contraídas)»5.
+Ciertamente lo inmaterial, en este sistema normativo, 
+sólo consideró una de las formas de esta clase de activos, 
+como son los derechos, sin tener en cuenta las creaciones 
+intelectuales -derechos de autor, propiedad industrial, 
+obtentores de variedades vegetales, trazado de circuitos 
+integrados, etc.-, las energías de la naturaleza aprovechables 
+-fuerza cólica, fuerza hídrica, etc.-, los derechos asociados a 
+la explotación de un establecimiento de comercio -clientela, 
+derecho al arrendamiento, nombre comercial, libre 
+competencia, etc.-6; sin embargo, su reconocimiento sirvió 
+como antesala para lo que años más tarde se volvería parte 
+de la ortodoxia jurídica, como es la existencia de activos 
+incorpóreos, de enorme valía y esenciales para el desarrollo 
+social.
+Dentro de este contexto, por su importancia para el sub 
+lite, debe rememorarse el 10 de abril de 1710, día en que se 
+expidió la Ley de la Reina Ana7, con la cual se pretendió 
+responder a la problemática ocasionada porque «los editores, 
+libreros y otras personas se [habían] tomado la libertad en 
+reiteradas ocasiones de imprimir, reimprimir y publicar, o
+5 Cuerpo del Derecho Civil Romano, Institutionum D. lustiniani, Libro II, Título II, §2, 
+Barcelona, 1889, p. 88.
+6 Cfr. Carlos Ducci Claro, Derecho Civil, Parte General, 4a Ed., Editorial Jurídica de 
+Chile, 2005, p. 194
+7 Ley de fomento del aprendizaje por la que se otorga el derecho sobre las copias de 
+libros impresos a los autores o compradores de las copias, durante el plazo en ella 
+establecido.
+31
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+incitar a que se impriman, reimpriman y publiquen libros y 
+otros escritos publicados sin la autorización de los autores o 
+los propietarios de dichos libros o escritos, causándoles graves 
+perjuicios y, muy a menudo, hundiéndolos a ellos y a sus 
+familias en la ruina».
+Como solución, se previo que la propiedad sobre las 
+obras no se fundara en una gracia, sino que se reconoció 
+como un derecho, aunque limitado en el tiempo, el cual 
+podría ser transferido a cualquier editor.
+Normas posteriores, como la Ordenanza de Derechos de 
+Autor de Dinamarca de 1741, la del Rey Carlos III de España 
+de 1763, los decretos de Luis XVI de 1777 en Francia y la Ley 
+Federal de Derecho de Autor de 1790 de Estados Unidos de 
+América, dieron paso a unos derechos diferenciados para los 
+autores y editores, incluyendo potestades exclusivas para 
+aquéllos.
+Se gestó así una tendencia mundial para reconocer el 
+derecho autoral, que sin duda encontró fuerza inusitada en 
+los Decretos de la Asamblea Nacional Francesa de 1791 y 
+1793, en los que se reconocieron derechos exclusivos a los 
+autores de obras dramáticas o musicales, y se consagró un 
+dominio exclusivo de los creadores sobre las obras del 
+ingenio. Famoso se volvió el discurso de Jean Le Chapelier, 
+que ante la citada asamblea dijo: «eZ más sagrado, la más 
+personal de todas las propiedades es el trabajo fruto del 
+pensamiento de un escritor... en consecuencia, es
+32
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+extremadamente justo que los hombres que cultivan el campo 
+del pensamiento disfruten los frutos de su trabajo; es esencial 
+que durante la vida y por algunos años después de su muerte, 
+nadie pueda disponer de su genio sin su consentimiento».
+En el siglo XIX se consolidó este movimiento, 
+incluyendo países de Latinoamérica8, fundado en la 
+necesidad de otorgar una exclusividad al autor sobre su 
+expresión e impedir los actos de reproducción no 
+autorizados.
+Sin embargo, ante las asimetrías regulatorias propias 
+de los diversos sistemas de protección, que resultaban 
+incompatibles frente a la rapidez con la que se divulgan las 
+obras literarias, artísticas y científicas, los estados se vieron 
+forzados a alcanzar un acuerdo internacional de protección, 
+que derivó en el Convenio de Berna de 9 de septiembre de 
+1886, actualmente suscrito por 178 partes contratantes.
+Protección robustecida por el numeral 2 o del artículo 27 
+de la Declaración Universal de Derechos Humanos, 
+proclamada por la Asamblea General de las Naciones Unidas 
+el 10 de diciembre de 1948, en el cual se dispuso que ft]oda 
+persona tiene derecho a la protección de los intereses morales 
+y materiales que le correspondan por razón de las 
+producciones científicas, literarias o artísticas de que sea 
+autora».
+Vr. gr., Chile (1834), Perú (1849), Argentina (1869), México (1871).
+33
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Empero, un desafío novedoso se erigió sobre este 
+derecho, con ocasión de los sistemas de información 
+digitales, pues el volumen de información que comenzó a 
+producirse y circular, mostró la insuficiencia de los 
+instrumentos hasta entonces consagrados.
+La indudable importancia de los recursos informáticos, 
+maximizados por la penetración de Internet, conformaron un 
+patrimonio digital de la humanidad, cuya protección ha sido 
+reclamada por la Unesco, ante los riesgos de su pérdida por 
+«la rápida obsolescencia de los equipos y programas 
+informáticos que le dan vida, las incertidumbres existentes en 
+tomo a los recursos, la responsabilidad y los métodos para su 
+mantenimiento y conservación y la falta de legislación que 
+ampare estos procesos»9.
+Por esta razón se adoptó el Tratado de la OMPI sobre 
+Derecho de Autor (WCT), el 20 de diciembre de 1996, cuya 
+finalidad es «introducir nuevas normas internacionales y 
+clarificar la interpretación de ciertas normas vigentes a fin de 
+proporcionar soluciones adecuadas a los interrogantes 
+planteados por nuevos acontecimientos económicos, sociales, 
+culturales y tecnológicos», ratificado por 104 estados en el 
+ámbito mundial.
+Colombia no fue ajena a este proceso, sino que se 
+integró al mismo. Justamente, el artículo 35 de la
+9 Artículo 3o de la Carta sobre la Preservación del Patrimonio Digital de 15 de octubre 
+de 2003 de la Unesco.
+34
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Constitución Política de 1886 disponía que «[s]erá protegida 
+la propiedad literaria y artística, como propiedad transferible, 
+por el tiempo de la vida del autor y ochenta años más, 
+mediante las formalidades que prescriba la ley».
+El Código Civil, al reconocer los bienes incorporales 
+(artículo 653), incluyó «[l]as producciones del talento o del 
+ingenio», como «propiedad de sus autores» (artículo 671), 
+aunque se difirió su regulación a leyes especiales.
+Lo propio hizo, años más tarde, la Constitución Política 
+de 1991, que elevó a este rango el deber del estado de 
+proteger «la propiedad intelectual por el tiempo y mediante las 
+formalidades que establezca la ley» (artículo 61).
+Con la ley 32 de 1886 se introdujo al país la visión más 
+actual sobre la propiedad literaria y artística, definiendo el 
+derecho de autor como «la facultad que las leyes reconocen a 
+los autores durante un tiempo determinado y previas ciertas 
+formalidades, para explotar sus obras» (artículo Io), y fijó un 
+monopolio por la vida del autor y 80 años más (artículo 10). 
+Reglamentación derogada por la ley 86 de 1946 y ésta a su 
+vez por la ley 23 de 1982, en vigor. Asimismo, Colombia 
+adhirió al Convenio de Berna y al Tratado WCT, los cuales 
+entraron en vigor en el país 7 de marzo de 1988 y 6 de marzo 
+de 2002, en su orden.
+Se agrega que, en el marco del acuerdo subregional 
+Andino, se previo un régimen normativo común para los
+35
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+países integrantes, dentro del cual se incluyó el relativo al 
+Derecho de Autor y Derechos Conexos, fruto del cual se 
+aprobó la Decisión 351 el 17 de diciembre de 1993.
+Son rasgos distintivos de esta nueva forma de propiedad 
+los siguientes:
+I). En cuanto a su naturaleza, en la propiedad intelectual hay algo 
+moral y algo patrimonial: lo primero llamado derecho moral del 
+autor, es intransferible, irrenunciable, imprescriptible; lo segundo, 
+al contrario, como ocurre con todo el derecho patrimonial..
+II). La propiedad intelectual recae sobre una cosa incorporal: la 
+obra, la creación. La propiedad común, en sentido estricto, sólo 
+sobre cosas corporales (artículo 669 del C.C.)
+III). La propiedad intelectual es temporal: dura la vida del autor y 
+80 años más...; la común, es perpetua. La temporalidad es reflejo 
+de la preeminencia de aquélla en el campo de los valores y los 
+esfuerzos humanos.
+IV). En la propiedad intelectual, el rendimiento para el titular 
+depende del éxito público de la obra; en la común, no juega tal 
+factor... (CSJ, Sala Plena, 10 feb. 1960, GJ n.° 2221-2222).
+6.2. Las ideas literarias, artísticas y científicas, y su
+. ■»
+expresión
+Las ideas son, sin duda, uno de los activos más valiosos 
+de la humanidad, pues las mismas permitieron su evolución, 
+trasegando por distintas eras, edades y revoluciones, hasta 
+llegar al punto actual de su desarrollo.
+La reflexión, el análisis crítico, la observación, la 
+deconstrucción, entre otros instrumentos, permiten que el
+36
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+intelecto arribe a ideas, conceptos, nociones o 
+elucubraciones, los que finalmente alimentarán el camino de 
+la sociedad hacia otros estadios.
+En muchos casos las ideas son productos elaborados, 
+fruto de ingentes esfuerzos, incluso económicos, de allí que 
+se haya reclamado su protección, pero para que esto sea 
+posible se exige que la misma vaya acompañada de elementos 
+adicionales, como sucede con la propiedad intelectual y otros 
+nuevos mecanismos que han ganado importancia, como las 
+variedades vegetales, el conocimiento tradicional, los 
+trazados de circuitos integrados y el acceso a recursos 
+genéticos.
+Desde la concepción del derecho de autor se rehusó tal 
+posibilidad, por cuanto la idea literaria, artística o científica 
+hace parte del patrimonio de la humanidad, como forma de 
+propender por el libre acceso a la cultura y el desarrollo 
+social, que se vería menguado de forma irrazonable al 
+concederle al autor su uso exclusivo por un tiempo elongado.
+í
+De allí que incluso las ideas novedosas, originales o 
+lucrativas, que sirvan de inspiración a una novela, cuadro, 
+escultura, canción, u equivalentes, no puedan ser protegidas 
+en sí mismas, esto es, como una abstracción; se trata de un 
+aporte más a la sociedad que, una vez divulgado, podrá ser 
+utilizada por otros para incentivar el cultivo del espíritu 
+humano, la difusión de la información o promover el 
+aprendizaje, la cultura y evolución científica.
+37
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+En resumen, «Za creatividad que cada autor tiene en 
+presentar una idea que es conocida por todos, una vez que las 
+ideas salen a la luz pública, son de aprovechamiento 
+comúndo. Esto por cuanto «/s/i la ley confirier[e] la protección 
+de las ideas generales en las que se basa aquí, los derechos 
+de autor se convertirían en un instrumento de opresión en 
+lugar de un incentivo para la creación que se pretende que sea. 
+La protección se hubiera movido para cubrir obras meramente 
+inspiradas por otros, a ideas mismas»11.
+Por tanto, lo que el derecho de autor salvaguarda es la 
+forma en que, de forma concreta, esa idea, siempre que sea 
+original, es expresada de una determinada forma, con 
+independencia del soporte que se utilice para ello, pues allí 
+estará contenida la impronta personal del autor.
+La doctrina explica:
+En el campo de las producciones literarias, artísticas y científicas, 
+que conforman el contenido de eso que se ha dado en llamar el 
+derecho autoral, intelectual o de ‘copyright’, es una constante 
+universal que la protección acordada se asienta sobre las obras 
+producidas por el intelecto humano, y sobre todo que esa 
+protección no se extiende a las ideas subyacentes en tales obras... 
+Un autor puede expresar en una composición poética su fe 
+religiosa, o exaltar la maternidad de un dibujo, pintura o escultura. 
+No será óbice para su derecho de autor que otros hayan producido 
+antes obras literarias o plásticas inspiradas por idénticas ideas;
+1(1 Ivonne Preinfalk Lavagni, El derecho moral del autor de programas informáticos, 
+Tirant lo Blanch, Ia ed., 2010, p. 128.
+11 Royal Courts of Justice de UK, Tribunal supremo de Apelación (División Civil) 
+[2007] EWCA Civ 219, Nova Productions Limited contra Mazooma Games Limited y 
+otros, 14 de marzo de 2007. Traducción automática del navegador.
+, caso
+38
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+pero el derecho de ese autor tampoco valdrá para impedir que otros 
+autores expresen renovadamente, y a su manera, la fe religiosa o 
+exalten la maternidad mientras en esas expresiones subsiguientes 
+no se dé el grado de coincidencia que técnicamente configura la 
+copia o plagio12.
+En suma, «/Z/a protección del derecho de autor abarcará 
+la expresión de ideas, procedimientos, métodos de operación 
+y conceptos matemáticos pero no esas ideas, procedimientos, 
+métodos y conceptos en sí»13.
+Tal regla tiene consagración explícita en varios 
+instrumentos internacionales, los cuales han sido suscritos 
+por el Estado colombiano. En efecto, el Tratado de la OMPI 
+sobre Derecho de Autor (WCT) dispuso que «/Z/a protección del 
+derecho de autor abarcará las expresiones pero no las ideas, 
+procedimientos, métodos de operación o conceptos 
+matemáticos en sí» (artículo 2o); y el Acuerdo sobre los 
+aspectos de los Derechos de Propiedad Intelectual 
+relacionados con el Comercio (ADPIC) prescribió que «/Z/a 
+protección del derecho de autor abarcará las expresiones pero 
+no las ideas, procedimientos, métodos de operación o 
+conceptos matemáticos en sí» (artículo 9o, numeral 2o).
+Asimismo, en el pacto subregional, se previo: «Queda 
+protegida exclusivamente la forma mediante la cual las ideas 
+del autor son descritas, explicadas, ilustradas o incorporadas 
+a las obras... No son objeto de protección las ideas contenidas
+12 Pedro Chaloupka, La propiedad de las ideas. En Derechos Intelectuales, Tomo III, 
+Astrea, Buenos Aires, 1986, p. 51.
+13 Ricardo J. Papaño... [et.al.], Derecho Civil, Derechos Personales, 3a Ed., Astrea,
+2012, p. 68.
+39
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+en las obras literarias y artísticas, o el contenido ideológico o 
+técnico de las obras científicas, ni su aprovechamiento 
+industrial o comerciab (artículo 7o de la Decisión 351 de 
+1993).
+Idéntica disposición está contenida en el inciso segundo 
+del artículo 6o de la ley 23 de 1982, a saber: «Las ideas o 
+contenido conceptual de las obras literarias, artísticas y 
+científicas no son objeto de apropiación. Esta Ley protege 
+exclusivamente la forma literaria, plástica o sonora, como las 
+ideas del autor son descritas, explicadas, ilustradas o 
+incorporadas en las obras literarias, científicas y artísticas».
+La jurisprudencia de la Corte Suprema de Justicia tiene
+dicho:
+De esa manera, el derecho comparado ilustra con claridad que la 
+protección que otorga el derecho de autor no abarca, por sentido 
+lógico, las ideas, porque éstas son fuente de creación, que 
+propician el desarrollo del conocimiento y como tales, circulan 
+libremente en la sociedad, sirviendo de motor para el desarrollo de 
+las naciones. El autor de una obra no puede, entonces, 
+monopolizar un tema literario, o una idea artística, política o 
+publicitaria, o un conocimiento científico o histórico. Y esa es la 
+razón que explica que frente a una misma idea, existan cientos o 
+miles de obras que tratan sobre esta, sin que ello signifique 
+violación de los derechos de autor frente al genuino pensador de 
+la idea, pues, se reitera, lo que protege el derecho es el estilo, el 
+lenguaje, las formas utilizadas para expresar el pensamiento 
+humano [...] Además, derivado del principio de que se trata, la 
+doctrina ha considerado que no son objeto de protección del 
+derecho de autor, por no ser consideradas obras en sí mismas, las 
+fórmulas matemáticas, físicas o químicas, los descubrimientos 
+científicos, las reglas de un juego de mesa o de azar y los planes 
+financieros o de negocios, por más novedosos que ellos sean (SCP,
+40
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+28 may. 2010, rad. n.° 31403, citada por SC9720, 27 jul. 2015, 
+rad. n.° 2009-00788-01).
+De antaño había manifestado: «El medio de expresión es 
+el resultado de toda producción espiritual que se proyecta a 
+través de diversas formas. Por ello, su protección se produce 
+mediante el reconocimiento y la reglamentación uniforme y 
+universal del derecho intelectual», por medio del «monopolio o 
+privilegio exclusivo de la explotación a favor del titulan, el 
+«[ajmparo del derecho moral de auton y «[sju temporalidad, 
+referida exclusivamente al aspecto patrimonial del derecho» 
+(CSJ, Sala Plena, 4 jul. 1986, GJ n.° CLXXXVII, 2426, p. 8 y
+9).
+6.3. El software como objeto del derecho de autor
+Los sistemas de computación actuales tienen su 
+antecedente en la máquina analítica de Charles Babbage de 
+1835, la cual sentó las bases de la informática como se 
+conoce actualmente, al utilizar tarjetas perforadas, 
+operaciones aritméticas, secuencias de cálculo y sistemas de 
+almacenamiento interno.
+Aunque la primera máquina tabuladora data de 1890, 
+sólo cuarenta (40) años más tarde fue posible aplicar la lógica 
+booleana (álgebra de conjuntos) en su funcionamiento, lo que 
+dio paso a la programación y la posibilidad de sistematizar el 
+proceso de cálculo. Años después, la máquina denominada 
+ENIAC utilizó la electrónica y el sistema binario para hacer 
+operaciones a una velocidad inimaginable, creándose el
+41
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+primer ordenador en 1949. «[E]n 1951 la Eckert-Mauchly 
+Corporation comercializa el Univac I... para el censo 
+norteamericano, y dos años después Univac I se instala en la 
+empresa General Electric. Se trata del primer uso civil de un 
+ordenador... El comienzo del uso civil de ordenadores marca 
+un punto de inflexión en la historia de la informática»1*.
+Cada uno de los desarrollos mencionados, y todos los 
+demás que permitieron su existencia, supusieron grandes 
+esfuerzos patrimoniales, lo que planteó la necesidad de 
+garantizar su protección jurídica con el fin de impedir su 
+paralización y, por la misma senda, promover su futura 
+realización.
+Las Naciones Unidas, en
+1971
+encargó a la 
+Organización Mundial de la Propiedad Intelectual el estudio 
+de las formas jurídicas para una adecuada protección del 
+software, quien dirigió sus esfuerzos en tres (3) direcciones: 
+«protección por leyes de propiedad industrial (patentes, 
+marcas y otras), de derecho de autor, y de protección 
+específica de software»15.
+Cada una de estas alternativas presenta dificultades 
+teóricas y prácticas, de allí que cualquiera sea la solución 
+que se adopte encontrará inevitables vacíos e ineficiencias, 
+que exigen del intérprete una labor de adecuación para
+14 José Antonio Castillo Parrila, La Revolución Digital En vlex, consultado 
+02/04/2020, p. 42.
+15 Yarina Amoroso Fernández e Hilario Rósete Silva, Derecho e informática: Software 
+ante el Tribunal En Revista Cubana de Derecho, p. 50.
+42
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+propender por la compatibilización de los intereses de los 
+desarrolladores de software y el acceso al conocimiento 
+acumulado de la sociedad.
+Así, por la propia dinámica de las patentes, resulta 
+difícil que un programa de ordenador satisfaga las 
+condiciones de novedad y creatividad exigidas para aquéllas. 
+«.Esto y la exclusión expresa que la Convención de Munich 
+sobre Patentes hiciera de los programas de computación, 
+condujo a los países abanderados de tales posiciones a alejar 
+el soft del campo de las invenciones patentables, y fomentó la 
+formación de un bloque defensor de la protección por derecho 
+de autor»16.
+f
+La creación de un régimen sui generis busca la 
+consagración de normas especiales que abriguen a los 
+programas de cómputo, desde la conceptualización hasta su 
+redacción en lenguaje de programación. Como propuesta, en 
+1977, la OMPI publicó unas disposiciones tipo con el fin de 
+que los estados interesados las integraran a su derecho 
+interno por medio de leyes ordinarias, idea que se clausuró 
+ante su escasa acogida. Lo mismo sucedió con el proyecto de 
+tratado de 1983.
+La tutela por la vía de las obras literarias, artísticas y 
+equivalentes fue la que finalmente se abrió espacio, con la 
+ventaja de exigir únicamente el componente de la 
+originalidad, así como otorgar un término de protección
+16 Ibidem, p. 51.
+43
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+mayor; aunque, exige que haya una expresión concreta, que 
+en términos de software equivale a su diseño o programación, 
+como se puntualizará con posterioridad.
+Tal fue la postura que prevaleció en la legislación; por 
+ejemplo, la ley sobre derechos de autor de Estados Unidos de 
+América -Title 17, USC, Copyrights-, que en la sección 301 
+estableció que un autor de software tiene la protección del 
+copyright; la Directiva del Consejo de 14 de mayo de 1991, 
+sobre la protección jurídica de programas de ordenador 
+(91/250/CEE), que mandó a los estados de la Comunidad 
+Europea que protegieran «mediante derechos de autor los 
+programas de ordenador como obras literarias tal como se 
+definen en el Convenio de Berna para la protección de las 
+obras literarias y artísticas» (artículo Io); el canon inicial de 
+la ley 11.723 de Argentina incluyó, dentro de las obras 
+protegidas por el derecho autoral, los diseños de software, 
+flujos lógicos, los códigos fuente y objeto y la documentación 
+técnica; la Ley Federal del Derecho de Autor mexicana 
+incluyó los programas efectuados electrónicamente que 
+contengan elementos visuales, sonoros, tridimensionales o 
+animados; y la Ley de la Propiedad Intelectual de Ecuador 
+previo que «[l]os programas de ordenador se consideran obras 
+literarias y se protegen como tales. Dicha protección se otorga 
+independientemente de que hayan sido incorporados en un 
+ordenador y cualquiera sea la forma en que estén expresados» 
+(artículo 28).
+44
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Un paso decisivo, en el sentido mencionado, fue dado 
+en la discusión y sanción del ADPIC, dentro de la 
+Organización Mundial del Comercio, que en el numeral Io del 
+artículo 10 prescribió: «Los programas de ordenador, sean 
+programas fuente o programas objeto, serán protegidos como 
+obras literarias en virtud del Convenio de Berna (1971)».
+Dentro del contexto subregional, en la Decisión 351 de 
+1993 se incluyó de forma expresa, como objeto de protección, 
+fl]os programas de ordenador» (literal 1. del artículo 4o), 
+entendiendo por tales la «[ejxpresión de un conjunto de 
+instrucciones mediante palabras, códigos, planes o en 
+cualquier otra forma que, al ser incorporadas en un dispositivo 
+de lectura automatizada, es capaz de hacer que un ordenador 
+-un aparato electrónico o similar capaz de elaborar 
+informaciones-, ejecute determinada tarea u obtenga 
+determinado resultado. El programa de ordenador comprende 
+también la documentación técnica y los manuales de uso» 
+(artículo 3o).
+De la definición subregional se extrae que la protección 
+se extiende a todos los sistemas informáticos, siempre que 
+sean fruto de la inventiva humana, cualquiera sea la forma 
+de interacción con el hardware, la función pretendida, el 
+resultado del procesamiento o el mecanismo para la fijación 
+de las ideas.
+Claro está, por hacer parte del objeto del derecho de 
+autor debe satisfacer el requisito esencial de las creaciones,
+45
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+como es la originalidad, entendida como la impronta personal 
+que el realizador deja en su programa -originalidad subjetiva- 
+o, por lo menos, que no sea una copia de otra -originalidad 
+objetiva-, con independencia de que la idea sea nueva o una 
+reiteración de una preexistente. No se puede exigir una 
+novedad absoluta, como sucede con las patentes u otras 
+creaciones con aplicación industrial, como ya se advirtió, 
+pues es claro que el diseñador o programador parte del 
+conocimiento preexistente y con base en el mismo plantea su 
+propia respuesta al problema.
+Sobre el punto, la doctrina jurisprudencial señala:
+[E]l concepto de 'originalidad', que hace referencia a la 
+'individualidad' que el autor imprime en la obra y que permite 
+distinguirla de cualquier otra del mismo género, tal como lo ha 
+entendido el Tribunal Andino de Justicia al expresar que la 
+originalidad 'no es sinónimo de novedad', sino de 'individualidad'; 
+vale decir, 'que exprese lo propio de su autor; que lleve la impronta 
+de su personalidad'. De allí que la 'originalidad' no puede ser 
+entendida como 'novedad', sino como la singularidad o 
+individualidad que tiene la obra para reflejar la impronta de su 
+creador, característica que permite a su vez que en cualquier 
+momento pueda retomarse una idea o determinado asunto para 
+plasmarle otra individualidad. De la misma manera, no puede 
+confundirse el requisito de originalidad con el mérito artístico, 
+científico o literario de una obra (SCP, 28 may. 2010, rad. n.° 
+31403, citada por SC9720, 27 jul. 2015, rad. n.° 2009-00788- 
+01).
+Además, dentro de la materia protegida como software, 
+se incluyen el manual del usuario y la documentación previa, 
+porque allí yacen los «principios, ideas, algoritmos, etc., que, 
+si bien no pueden ser, en sí mismos, objeto de protección por
+46
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+el derecho de autor (el cual protege expresiones, formas, no 
+ideas como tales), sí pueden, al ser expresados o recibir una 
+concreta forma, llevar a la elaboración del programa»17.
+6.4. Elementos del software y casos de protección
+Es un punto común que el desarrollo de un programa 
+de ordenador supone unos pasos o etapas que permiten 
+trasegar desde la idea conceptual hasta la obtención de un 
+archivo ejecutable susceptible de producir un efecto concreto 
+en el hardware.
+Se comienza con un problema, identificado de forma 
+genérica o particular, al cual se plantea una solución, para 
+lo cual se plantea una ruta de respuesta (algoritmos), que se 
+materializara en un diseño, el cual se expresará en lenguaje 
+de programación (código fuente), en el cual se prevén las 
+interacciones con el usuario (interfaz gráfico), que permitirá 
+que el ordenador realice una función al ser compilado (código 
+objeto).
+Al respecto, la doctrina especializada asevera:
+Los programas de computación comprenden varias etapas. 
+Siguiendo a Correa, quien a su vez se apoya en Bertrand cabe 
+mencionar las siguientes: 1) La idea para la solución de un 
+problema; 2) el algoritmo o método a seguir, generalmente 
+expresado en fórmulas matemáticas; 3) el organigrama o plan de 
+solución o tratamiento por parte del algoritmo; 4) un texto en
+17 Juan Pablo Aparicio Vaquero, La Jurisprudencia del Tribunal de Justicia de la Unión 
+Europea sobre los Programas de Ordenador. En Estudios sobre la ley de propiedad 
+intelectual: últimas reformas y materias pendiente, Dykinson, España, 2016, p. 22.
+47
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+lenguaje de programación evolucionado que retoma directamente 
+los elementos del organigrama y se llama 'programa fuente’ o 
+'código fuente’; 5) un texto de lenguaje intermedio, compilador o de 
+ensamblaje, y 6) un texto directamente legible por el equipo, 
+expresado en lenguaje binario, llamado 'programa objeto’ o 'código 
+objeto’18.
+La creación de un programa de computación supone un complejo 
+proceso creativo que implica desde el análisis e interpretación de 
+la problemática relacionada con la actividad sobre la que se quiere 
+programar; el diseño funcional, funciones, comandos, estructuras 
+de archivos, entradas y salidas de datos; la conversión a un 
+lenguaje de programación que a su vez lo traduce en lenguaje 
+máquina que ejecuta el computador y, por último, la aplicación de 
+pruebas, corrección, documentación19.
+Estos componentes estarán bajo la tutela del derecho 
+de autor, siempre que suponga un abandono del campo de 
+las ideas y corresponda a una expresión concreta20. Según la 
+posición más aceptada, «[l]a 'expresión de la idea’ en un 
+programa informático de software es la manera en que el 
+programa opera, controla y regula la computadora al 
+recibir, ensamblar, calcular, retener, correlacionar y 
+producir información, ya sea en una pantalla, impresa o por 
+comunicación de audio» (negrilla fuera de texto)21.
+18 Guillermo Cabanellas, Protección Jurídica de los Elementos Informáticos. En 
+Derechos Intelectuales, Tomo V, Astrea, Buenos Aires, 1991, p. 113 y 114.
+19 María Inés Arias de Rincón, La protección patrimonial de los programas de 
+computación. En Enlace v.5 n.2, Maracaibo, mayo 2008.
+20 Algunas legislaciones reconocen expresamente esta limitación, como la Directiva 
+2009/24/CE del Parlamento Europeo y del Consejo, de 23 de abril de 2009, a saber: 
+«La protección prevista en la presente Directiva se aplicará a cualquier forma de 
+expresión de un programa de ordenador. Las ideas y principios en los que se base 
+cualquiera de los elementos de un programa de ordenador, incluidos los que sirven de 
+fundamento a sus interfaces, no estarán protegidos mediante derechos de autor con 
+arreglo a la presente Directiva» (numeral 2o del artículo Io).
+21 Tribunal de Apelaciones de los Estados Unidos, Tercer Circuito, caso 797 F.2d 
+1222, 230 USPQ 481, Whelan Associates Inc. contra Jaslow Dental Laboratory, Inc., 
+et al., 4 de agosto de 1986. Traducción automática del navegador.
+48
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+A continuación se analizará cada una de estas fases, de 
+cara al objeto de protección del derecho autoral:
+(i) La definición del problema y la propuesta de solución, 
+sin más elementos, son elucubraciones eminentemente 
+abstractas, sin ningún grado de precisión, lo que excluye que 
+sobre ellas pueda conceder un provecho exclusivo en 
+beneficio de su autor.
+Y es que para lograr su expresión es menester avanzar 
+en el proceso de diseño y programación, al punto que 
+abandonen su condición de mera potencialidad y, fijadas en 
+un soporte, sean anticipo fehaciente o reflejo de las órdenes 
+o instrucciones que, al ser seguidas por el ordenador, le 
+permitan ejecutar una tarea.
+(ii) En cuanto hace a la identificación lógica o 
+matemática de los pasos requeridos para solucionar el 
+problema (algoritmos), en principio no son objeto de 
+monopolio por conducto del derecho autoral, por develar 
+todavía un grado de abstracción que dista de una expresión.
+En puridad, el algoritmo es la idea de solución, aunque 
+muchas veces descompuesta analíticamente o expresada en 
+fórmulas matemáticas o métodos de operación, que sólo 
+alcanzará su concreción en el momento en que se materialice 
+en un lenguaje de programación; en otras palabras, el 
+software es la manifestación concreta de la solución que
+49
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+previamente se había pensado, la cual es inmanente al 
+mismo, pero sólo se protege en cuanto se integre con él22.
+Se afirma:
+[E]s también general la convicción de que la concepción previa del 
+programador que organiza los datos y su procesamiento a través 
+de secuencias de pasos conocidos como algoritmos quedaría fuera 
+del amparo autoral por aquello de que tales algoritmos se sitúan, 
+o bien en el terreno de las ideas puras, o bien en el terreno de las 
+creaciones utilitarias, en ninguno de cuyos casos el derecho 
+autoral alcanza para impedir su uso por terceros. De esta manera, 
+la porción intelectual más valiosa del trabajo del programador 
+quedaría por fuera del ámbito de protección legal23.
+(iii) La funcionalidad -respuesta que pretende brindar el 
+software a la problemática planteado por el autor-, tampoco 
+es susceptible de salvaguarda, en tanto que nuevamente se 
+queda en el terreno de las ideas.
+Huelga traer a presente lo dicho por jueces foráneos: 
+«Por lo tanto, la naturaleza de la habilidad y el juicio invertidos 
+en el diseño de la funcionalidad de un programa de 
+computadora (que inevitablemente implicará tomar decisiones) 
+aún recae en el lado de las ideas»24.
+22 Vr. gr. el Considerando 11 de la Directiva 2009/24/CE del Parlamento Europeo y 
+del Consejo, sobre la protección jurídica de programas de ordenador, de 23 de abril 
+de 2009, prescribe: «Para evitar cualquier duda, debe establecerse claramente que solo 
+se protege la expresión del programa de ordenador y que las ideas y principios 
+implícitos en los elementos del programa, incluidas las de sus interfaces, no pueden 
+acogerse a la protección de los derechos de autor con arreglo a la presente Directiva».
+23 Pedro Chaloupka, op. cit., p. 66.
+24 Royal Courts of Justice de UK, Corte de Apelación (División Civil), caso [2013] 
+EWCA Civ 1482, SAS Institute INC contra World Programming Ltd, de 21 de 
+noviembre de 2013. Traducción automática del navegador.
+50
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+En este contexto, nada se opone a que un desarrollador, 
+conocido el servicio que presta un sistema de información o 
+por mero azar, cree uno nuevo con el fin de satisfacer la 
+misma necesidad, caso en el cual no requiere autorización 
+del primigenio. Incluso, es posible que utilice el mismo 
+lenguaje de programación o formato de archivos, siempre que 
+no sean una reproducción total o parcial de aquél que 
+pretende emular.
+Recuérdase el caso Navitaire en que, conocida la 
+funcionalidad de un programa, un experto hizo un desarrollo 
+equivalente y, al ser criticado por plagio, llevó a que el 
+juzgador de conocimiento aseverara: «no es posible infringir 
+los derechos de autor que existen en el código fuente de un 
+analizador sintáctico o en el código fuente de un generador 
+analizador analizando el comportamiento del programa final y 
+construyendo otro programa para hacer lo mismo»25.
+(iv) El diseño o arquitectura -estructura, secuencia y 
+organización-, que permite la definición de los componentes 
+que tendrá el sistema computacional, los flujos de 
+información, así como sus interacciones, sí puede ser objeto 
+de salvaguarda como una obra, siempre que alcance un alto 
+grado de particularización; por tanto, no es suficiente con la 
+conceptualización del diseño, ni con la descripción de sus 
+pasos, sino que debe evidenciar en sí misma tal grado de 
+concretización que exprese, per se, un trabajo original.
+25 Royal Courts of Justice de UK, Corte de Apelación (División Civil), caso [2004] 
+EWHC 1725 (Ch), NAVITAIRE INC versus Easyjet Airline Company y Bulletproof 
+Technologies INC, 30 de junio de 2004. Traducción automática del navegador.
+51
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+En este punto se alzan voces contrapuestas, pues para 
+algunos el diseño en sí mismo sigue siendo una idea de 
+solución, que carece de tutela26; otros argumentan que 
+«[djentro de la forma de expresión de un programa, no sólo se 
+tutela su forma literal, entendida como las diversas 
+instrucciones plasmadas en un soporte, sino también aquellos 
+elementos que aunque no son parte de ésta, constituyen la 
+estructura y las secuencias que han sido ideadas por el 
+creador, o sea, aquel elemento de ideación a través del cual se 
+plasma la obra, o sea la secuencia, estructura y 
+organización»27.
+Frente a esta disyuntiva la respuesta estará dada por la 
+originalidad que exprese el diseño y su expresión en un 
+soporte, pues de satisfacerse estos requisitos podrá ser 
+objeto del derecho de autor, en caso contrario, seguirá en el 
+campo de las ideas.
+Fue con el caso Whelan versus Jaslow que se dio cabida 
+a esta posibilidad: «/L/a separación de la idea de la forma de 
+expresión... se realiza mejor a través de los tribunales que 
+ejercen su juicio en casos particulares [que por una regla per 
+se]... Los diagramas de flujo, los códigos fuente y los códigos 
+objeto son obras de autor en las que subsiste el copyright», 
+valga la pena decirlo, «la protección de los derechos de autor 
+de los programas de computadora puede extenderse más allá
+26 Ivonne Preinfalk Lavagni, op. cit, p. 121 y 122; Guillermo Cabanellas, op. cit., p. 
+115 y 116.
+27 Idem, p. 130 y 131.
+52
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+del código literal de los programas a su estructura, secuencia 
+y organización»28.
+Tesis reafirmada en el afamado caso Oracle América
+INC. v. Google INC.:
+Está bien establecido que la protección del derecho de autor puede 
+extenderse tanto a los elementos literales como a los no literales 
+de un programa de ordenador (Ver Altai, 982 F.2d). Los elementos 
+literales de un programa de ordenar son el código fuente y el 
+código objeto (Ver Johnson Controls, Inc. v. Phoenix Control Sys., 
+Inc., 886 F.2d 1173, 1175, 9th Cir. 1989)... Tanto el código fuente 
+como el código objeto están ‘constantemente protegidos por el 
+derecho de autor’ (Ver Johnson Controls, 886 F.2d en 1175; Altai, 
+982 F.2d en 702)... Los componentes no literales de un programa 
+de computadora incluyen, entre otras cosas, la secuencia, 
+estructura y organización del programa, así como la interfaz del 
+usuario29.
+(v) En lo tocante a la interfaz gráfica de usuario (GUI) es 
+un punto común que, por sí misma, no es susceptible de 
+resguardo, en tanto la misma únicamente permite la 
+interacción entre el sistema de información y el usuario, así 
+como la captura de datos30.
+[n]o es propiamente una forma de 
+expresión’ del programa, en cuanto no lo reproduce, sino que 
+es un simple elemento del mismo que sirve a su utilización y,
+Total que, la GUI
+28 Tribunal de Apelaciones de los Estados Unidos, Tercer Circuito, caso 797 F.2d 
+1222, 230 USPQ 481, Whelan Associates Inc. contra Jaslow Dental Laboratory, Inc., 
+et al., 4 de agosto de 1986. Traducción automática del navegador.
+29 United States Court of Appeals for the Federal Circuit, caso 2013-1021, -1022, 9 
+de mayo de 2014. Traducción libre.
+30 Vr. gr. inciso 2o del artículo 69a de la Ley sobre Derecho de Autor y Derechos Afines 
+de 9 de setiembre de 1965 de Alemania; inciso 8o del artículo 2o de la Ley sobre 
+Protección del Derecho de Autor y Derechos Conexos de 22 de abril de 1941 de Italia.
+53
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+por lo tanto, no queda protegido dentro de la noción»31. De 
+hecho, es usual que este elemento se encuentre condicionado 
+por las posibilidades de los programas operativos, o las 
+opciones viables para su utilización, lo que impide un 
+monopolio sobre las mismas32.
+Sin embargo, cuando devela un grado de originalidad, 
+por vincular expresiones visuales, auditivas, olfativas o 
+táctiles que muestran el ingenio del autor, serán tuteladas 
+en cuanto este único componente. Y es que el contenido 
+audiovisual es una realidad distinta del programa de 
+ordenador, aunque ciertamente hay una interdependencia 
+entre ellas, de allí que pueda alcanzar una protección 
+autónoma.
+(vi) Comandos, combinaciones de comandos, sintaxis o 
+palabras empleadas en el software 
+considerados, aunque reflejen un grado de ingenio, no 
+pueden ser tutelados por los cánones de protección autora!, 
+en tanto no corresponden a una creación en sentido completo 
+de la expresión.
+en si mismos
+Fuera de dubitación se encuentra que «las palabras 
+como tales no constituyen elementos cubiertos por la 
+protección»33, aunque sea una invención absoluta. Lo mismo
+31 Juan Pablo Aparicio Vaquero, op. cit, p. 26.
+32 Cfr. Royal Courts of Justice de UK, Corte de Apelación (División Civil), caso [2013] 
+EWCA Civ 1482, SAS Institute INC contra World Programming Ltd, de 21 de 
+noviembre de 2013.
+33 § 46 de la Sentencia del Tribunal de Justicia Europeo (Sala Cuarta) de 16 de julio 
+de 2009, Infopaq International A / S contra Danske Dagblades Forening.
+54
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+se dijo frente a comandos y la combinación de ellos, así como 
+a la sintaxis asociada34.
+(vii) El código fuente, valga la pena decirlo, el conjunto 
+de instrucciones escritas en lenguaje de programación y que 
+son comprensible para el ser humano, constituyen el núcleo 
+esencial de la protección por el derecho de autor, pues allí se 
+encuentra por antonomasia la expresión de las ideas.
+Es en este código que se vuelven certeza, por medio de 
+lenguajes admitidos en computación, que los algoritmos 
+propuestos permiten al ordenador realizar una determinada 
+función o tarea. «En términos estrictos de programación, es 
+claro que la originalidad se manifiesta en la etapa del código 
+fuente, pues tal y como hemos señalado, son instrucciones que 
+se proporcionan a la máquina por una persona fisica 
+utilizando un lenguaje especializado (BASIC. FORTRAN, 
+COBOL etc.)»35.
+(viii) El código objeto es la conversión de la fuente a 
+carácter binarios (unos y ceros), realizada por programas 
+llamados ensambladores, intérpretes o compiladores, con el 
+fin de que la máquina pueda efectuar la tarea que se pretende 
+de ella.
+34 Cfr. Royal Courts of Justice de UK, Corte de Apelación (División Civil), caso [2013] 
+EWCA Civ 1482, SAS Institute INC contra World Programming Ltd, de 21 de 
+noviembre de 2013.
+35 Sara Martín Salamanca, Introducción al Derecho de Autor: Derecho Español, Derecho 
+Europeo y Derecho Internacional En Derecho de la Propiedad Intelectual, Derecho de 
+Autor y Propiedad Industrial, Universidad Carlos III de Madrid, Tirant, 2017, p. 179.
+55
+
+Radicación n.0 11001-31-03-007-2008-00601-01
+A pesar de no ser una creación humana ni suponer 
+originalidad, al corresponder a una expresión equivalente al 
+código fuente, pero manifestada en otro lenguaje - 
+comprensible para el hardware-, la protección de este último 
+se extiende a aquél36.
+6.5. Test para establecer un plagio en materia de
+software
+La demostración de que un sistema informático ha sido 
+copiado indebidamente es una labor dificultosa, no sólo por 
+las complejidades que supone acceder y comprender el 
+código fuente, sino porque su definición puede suponer 
+complicados elementos técnicos que escapan al público en 
+general. Se agrega que, amén de la estandarización propia de 
+los lenguajes de programación y de la normalización de los 
+usuarios en el uso de ciertas interfaces gráficas, es posible 
+que por simple azar dos (2) o más programas puedan ser 
+sustancialmente equivalentes, aunque sin incurrir en plagio
+Para alivianar este escollo, los tribunales de derecho 
+consuetudinario han desarrollado reglas técnicas de 
+evaluación (test), que facilitan inferir con razonable 
+seguridad que se está frente a una copia y, por tanto, una 
+infracción a los derechos del autor, los cuales se han 
+extendido a otros sistemas jurídicos, adquiriendo
+un
+36 Cfr. Tribunal de Apelaciones de los Estados Unidos, Tercer Circuito, Apple 
+Computer, Inc. v. Franklin Computer Corp., caso 714 F.2d 1240, 1246-47, 1983; 
+Williams Elees., Inc. v. Artic International, Inc., caso 685 F.2d 870, 215 USPQ 405* 
+1982.
+56
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+reconocimiento universal. Sin embargo, en caso de duda, 
+será un elemento decisivo en la evaluación que el supuesto 
+infractor haya podido acceder al código fuente de la obra que 
+se reputa original, pues tal hecho derruye la posibilidad de 
+una simple coincidencia.
+Los ensayos iniciales se nutrieron de lo que sucedía con 
+las obras literarias, artísticas y científicas (look and feel), 
+aunque con el paso de los años se expandieron para dar 
+cabida a nociones propias de los sistemas de información 
+(disección analítica; abstracción y filtración; y elementos 
+esenciales).
+En compendio:
+(i) «Look and feeb (apariencia y sensación) se caracteriza 
+por centrarse en la forma en que una persona percibe el 
+software, de suerte que habrá copia cuando el nuevo sistema 
+es esencialmente parecido al otro, según el tamiz de un 
+observador no cualificado.
+Para estos fines el evaluador tendrá en cuenta el 
+ambiente creado por el programa de ordenador, derivado de 
+su presentación visual, la forma en que el usuario interactúa 
+con el mismo y su configuración en general, insumos que se 
+comparan con los del otro sistema para establecer sus 
+semejanzas y, de encontrar que son sustanciales, se 
+concluirá que es un caso de copia.
+57
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Sus antecedentes más relevantes datan del caso Roth 
+Greeting Cards contra United Card Co., en el que se aseguró 
+«la prueba de infracción es si el trabajo es reconocible por un 
+observador ordinario como tomado de la fuente protegida por 
+derechos de autor»37.
+Claro está, en tratándose de software, «[l]a tercera 
+generación de casos... ha dado paso a la disminución de la 
+protección de ‘apariencia y sensación’ y al surgimiento 
+simultáneo de un análisis de disección hacia las interfaces 
+gráficas de usuario»38.
+(ii) En la disección analítica, para establecer la similitud 
+sustancial, se hace una diferenciación entre la revisión 
+extrínseca y la intrínseca. En la primera se definen los 
+criterios específicos que serán objeto de revisión, de acuerdo 
+con el tipo de obra y la forma de expresión; mientras que en 
+la segunda se comparan los elementos así establecidos y se 
+define si a los ojos de una persona normal es evidente la 
+similitud.
+En caso de existir semejanzas, deberá evaluar si la 
+original es una obra protegida o susceptible de protección, y 
+las razones del parecido, con el fin de establecer si hay una
+37 Tribunal de Apelaciones de los Estados Unidos, Noveno Circuito, caso 23067, 10 
+de julio de 1970.
+38 «Third generation of software cases has ushered the decline of ‘look and feeV 
+protection and concurrent emergence of a dissective analysis towards graphical 
+interfaces» (Traducción libre; Stanley Lai, Copyright Protection of Computer Software 
+in the United Kingdom, Bloomsbury Collections, 2000, § 1.7.
+user
+58
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+explicación razonable, pues de lo contrario deberá arribarse 
+al colofón de que existe un plagio.
+En materia de software estos elementos pueden estar 
+dados por las pantallas, menús, interacción con periféricos, 
+así como expresiones concretas de los sistemas de 
+información; en el caso Brown Bag Software versus Symantec 
+Corp. se indicó:
+En el caso de Krofft, establecimos una prueba de dos partes para 
+una similitud sustancial. 562 F.2d en 1164. Bajo la formulación 
+original del componente ‘extrínseco’ de Krofft, un demandante 
+necesitaba probar solo la ‘similitud de ideas’ en los dos 
+programas. Hoy, sin embargo, la prueba extrínseca analiza más 
+que solo la similitud de ideas. Como el tribunal de distrito entendió, 
+el análisis extrínseco es ‘'una prueba objetiva que se basa en 
+criterios específicos que se pueden enumerar y analizar’ -12 
+USPQ2d (BNA) en 1994 (citando Data East USA, Inc. v. Epyx, Inc., 
+862 F.2d 204, 208 (noveno Cir. 1988))-. La prueba extrínseca se ha 
+convertido así en un -objetivo ... análisis de expresión-. Shaw, 919 
+F.2d en 1357....
+Para establecer la infracción de un derecho de autor, los dos 
+trabajos en cuestión también deben cumplir con el segundo 
+componente de la prueba establecida en Krofft, la ‘prueba 
+intrínseca’. 562 F.2d en 1164. La prueba intrínseca, según Krofft, 
+debe medir ‘una similitud sustancial en las expresiones... 
+dependiendo de la respuesta de la persona razonable ordinaria ... 
+[I] y no depende de criterios externos y análisis que marcan la 
+prueba extrínseca... Al aplicar la prueba intrínseca, por lo tanto, 
+‘la disección analítica y el testimonio de expertos no son 
+apropiados’39.
+39 Tribunal de Apelaciones de los Estados Unidos, Noveno Circuito, caso n.° 89- 
+16239, 7 de abril de 1992. Traducción automática del navegador.
+59
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+(iii) La evaluación por «abstracción y filtración», exige el 
+agotamiento de tres (3) etapas para establecer si existe una 
+copia no autorizada de una obra protegida.
+La inicial, consiste en determinar la estructura del 
+programa que se pretende es copia; después se diseccionan 
+los elementos no protegidos de esta obra para no tenerlos en 
+cuenta (ideas, formas de expresión necesarias, requisitos 
+externos al programa, funcionalidad, comandos, sintaxis de 
+comandos, elementos en el dominio público, etc.); por último, 
+los componentes restantes se parangonan con sus 
+equivalentes en el software original.
+Uno de los casos más emblemáticos en esta materia es 
+el denominado Computer Associates International, Inc. 
+contra Altai, Inc., en el que se aseveró:
+Al determinar una similitud sustancial bajo este enfoque, un 
+tribunal primero desglosaría el programa presuntamente infringido 
+en sus partes estructurales constituyentes. Luego, al examinar 
+cada una de estas partes en busca de cosas tales como ideas 
+incorporadas, expresiones que son necesariamente incidentales a 
+esas ideas y elementos tomados del dominio público, un tribunal 
+podría examinar todo el material no protegible. Dejado con un 
+núcleo, o posiblemente núcleos, de expresión creativa después de 
+seguir este proceso de eliminación, el último paso de la corte sería 
+comparar este material con la estructura de un programa 
+presuntamente infractor. El resultado de esta comparación 
+determinará si los elementos protegióles de los programas en 
+cuestión son sustancialmente similares a fin de garantizar una 
+constatación de infracción. Será útil elaborar un poco más...
+Paso uno: abstracción... Inicialmente, de una manera que se 
+asemeja a la ingeniería inversa en un plano teórico, un tribunal 
+debe diseccionar la estructura del programa supuestamente
+60
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+copiado y aislar cada nivel de abstracción que contiene. Este 
+proceso comienza con el código y termina con una articulación de 
+la función final del programa. En el camino, es necesario 
+esencialmente volver a trazar y mapear cada uno de los pasos del 
+diseñador, en el orden opuesto en el que se tomaron durante la 
+creación del programa...
+Paso dos: filtración. Una vez que se han descubierto los niveles de 
+abstracción del programa, la investigación de similitud sustancial 
+se mueve de lo conceptual a lo concreto... Este proceso implica 
+examinar los componentes estructurales en cada nivel de 
+abstracción para determinar si su inclusión particular en ese nivel 
+fue 'idea’ o fue dictada por consideraciones de eficiencia, para ser 
+necesariamente incidental a esa idea; requerido por factores 
+externos al programa mismo; o tomado del dominio público y, por 
+lo tanto, es una expresión no protegióle...
+Paso tres: comparación. El tercer y último paso de la prueba de 
+similitud sustancial que creemos apropiado para los componentes 
+del programa no literales implica una comparación. Una vez que 
+un tribunal ha examinado todos los elementos del programa 
+presuntamente infringido que son "ideas" o están dictadas por la 
+eficiencia o factores externos, o se toman del dominio público, 
+puede quedar un núcleo de expresión protectora...40
+(iv) Por último, el método de los elementos esenciales 
+impone que en primer lugar se distinga la idea, el sistema, el 
+procedimiento y su expresión; con estos materiales se 
+«identifica en el ámbito de la expresión los elementos que son 
+considerados como no indispensables para la misma. Una vez 
+identificados, el juez determina si esos elementos, en su 
+conjunto, representan una parte sustancial de la 
+pretendidamente protegible»41.
+40 Tribunal de Apelaciones de los Estados Unidos, Segundo Circuito, caso 982 F.2d 
+693, 23 USPQ2d 1241, 22 de junio de 1992. Traducción automática del navegador.
+41 Isabel Hernando, Contratos Informáticos, Ed. Librería Carmelo, San Sebastián - 
+España, 1995, p. 60 y 61.
+61
+
+Radicación n.0 11001 -31 -03-007-2008-00601 -01
+6.6. El caso concreto
+Las anteriores premisas, aplicadas a la materia en 
+discusión, permiten desestimar los errores tácticos 
+endilgados al ad quera, en tanto la valoración que dispensó a 
+los dictámenes periciales se aviene con la hermenéutica 
+propia de las pruebas para establecer un desconocimiento de 
+los derechos morales y patrimoniales de Carlos Enrique 
+Estupiñán Monje, como se analizará en lo sucesivo.
+6.6.1. Procede recordar que los casacionistas criticaron 
+una supuesta adición del estudio técnico de Ana Mercedes 
+Garzón Laverde, al encontrar satisfechos, sin estarlo, los 
+requisitos de claridad, precisión y detalle, en tanto esta 
+profesional se limitó a invocar el método comparativo y 
+extraer una similitud del 80% entre los programas de 
+computación. Más porque la experta no acreditó experiencia 
+en el campo de la programación, ni preparación técnica para 
+fundamentar sus observaciones empíricas.
+6.6.1.1.
+Sobre esta prueba, el fallo confutado
+rememoro:
+[R]esulta relevante la valoración del dictamen pericial allegado 
+la demanda, presentado por la profesional en Contaduría 
+Pública y especialista en Sistemas de Información, Ana 
+Mercedes Garzón Laverde (folios 41 a 42). Esta profesional 
+manifestó que efectuó un trabajo comparativo de los 
+programas de contabilidad llamados UNOPYMES y SISTEMA DE 
+INFORMACIÓN GENERAL con siglas SIG; para el efecto instaló 
+ambos programas y digitó datos iguales en ambos en 42 
+pantallas diferentes, relacionados con datos contables, su
+con
+62
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+estructura, presentación, método de introducción de los 
+datos y resultado final, comparando los resultados obtenidos. 
+En sus conclusiones expuso:
+Del examen de las pantallas en cuanto a su contenido, 
+presentación visual, operatividad y nombres de los 
+diferentes campos que las componen se deduce una similitud 
+muy cercana o superior a un ochenta por ciento (80%). Las 
+diferencias encontradas son más de forma que de fondo siendo 
+sorprendente la igualdad en los nombres de los campos 
+dados a cada uno de ellos;
+Del examen de los dieciocho (18) informes en cuanto a su 
+contenido, presentación msual, nombres de ellos y nombres 
+de las columnas que los componen se deduce una similitud 
+cercana al ciento por ciento (100%). Los nombres dados a cada 
+informe y sus características como fecha de producción y rango en 
+el tiempo de la información que contienen y el orden de 
+presentación de las columnas son más cercanos aún al ciento por 
+ciento (100%) de igualdad;
+Con base en todo lo anterior puedo asegurar con una certeza 
+cercana al ciento por ciento (100%) que ambos sistemas tienen el 
+mismo origen o fueron producidos con base en los conocimientos 
+contables y de programación de una misma persona;
+1
+I
+Basada en mi experiencia como profesional de la 
+contaduría y profesora de esta materia en varias 
+universidades de esta ciudad de Bogotá y el conocimiento 
+que tengo, por experiencia propia, de otros sistemas de 
+contabilidad que se hallan disponibles en esta ciudad, 
+puedo decir, con amplio margen de seguridad, que las 
+posibilidades matemáticas de que dos personas a tiempos 
+distintos y con conocimientos y experiencias distintas 
+hayan llegado a desarrollar un sistema de contabilidad tan 
+similar en su funcionamiento, enfoque y lógica, son casi 
+cero.
+Puedo asegurar con un alto grado de certeza que aunque ambos 
+hayan sido escritos en diferente lenguaje de programación para 
+computadores, su origen es el mismo en cuanto a la persona que 
+originó el primero.
+63
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Esta experticia no fue acogida por el a quo aduciendo que no 
+contenían un muestreo suficiente dado que las pantallas del 
+programa GERESIS correspondían a un número mucho mayor.
+La Sala discrepa de lo aseverado por el Juzgador de primer grado, 
+por cuanto la citada experticia resulta bien soportada desde 
+el punto de vista de la formación profesional en contaduría 
+de su suscriptora, quien acreditó su idoneidad y 
+experiencia en la materia; además, da cuenta de una 
+adecuada utilización del método comparativo para llegar a 
+sus conclusiones y no fue objetada por la pasiva (audiencia de 6 
+de julio de 2017).
+Descuella que el Tribunal fue mucho más allá de la 
+simple invocación de la prueba, carrera profesional de la 
+perito y metodología empleada, pues para extraer sus 
+colofones demostrativos tuvo en cuenta de forma agregada 
+que (i) la experta tenía adiestramiento en sistemas de 
+información, (ii) en su ejercicio profesional accedió a 
+múltiples programas contables, (iii) comparó la interfaz 
+gráfica de los programas en discusión y los informes emitidos 
+por cada uno de ellos, (iv) evaluó la identidad del lenguaje 
+utilizado en los sistemas de información, (v) parangonó la 
+operatividad de los sistemas, y (vi) que sobre esta prueba no 
+se alzó objeción alguna por los convocados en las instancias.
+6.6.1.2. Resáltase que, sobre el último punto nada se 
+dijo en los cargos de casación bajo estudio, lo que devela su 
+incompletitud, motivo suficiente para desestimar el éxito de 
+éstos; postura que se refuerza porque, al abrigo de los 
+principios de lealtad procesal y non venire contra factum 
+propio, resulta criticable que en el proceso se guardara
+64
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+silencio sobre la idoneidad del peritaje, ai no hacerse uso de 
+la objeción por error grave, y en sede extraordinaria se haga 
+lo contrario.
+6.6.1.3. Sin embargo, la revisión de los demás 
+argumentos del ad quem descubre que guardan armonía con 
+la ontología de la peritación, visto el informe como una 
+unidad inescindible entre las conclusiones y sus anexos, 
+dentro de los que se resaltan la hoja de vida de la experta y 
+sus soportes (folios 43 a 57 del cuaderno 1), la impresión de 
+múltiples pantallazos para la captura de información (folios 
+58 a 99), el listado de formularios (folios 99 reverso a 101), y 
+algunos informes impresos (folios 101 reverso a 119).
+i
+(a) Justamente, la perito, no sólo se graduó como 
+contador público (folio 50), sino que se especializó en auditoría 
+de sistemas de información (folio 49), con formación en 
+planificación, análisis y administración de sistemas de 
+información (folio 52); además, ha actuado como docente de 
+análisis financiero I, contabilidad sistematizada I, 
+contabilidad administrativa y presupuestos en la Universidad 
+Antonio Nariño (folio 55), software contable, auditoría II, 
+informática aplicada a las finanzas, auditoría financiera, 
+contabilidad I, contabilidad IIy derecho tributario (folio 56).
+Refulge que la experta, más allá de los conocimientos 
+adquiridos en la carrera de contaduría, se acercó al campo 
+del procesamiento de datos y los softwares contables, no sólo 
+por la formación que adelantó después de egresada, sino
+65
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+porque acometió la docencia en estas temáticas, donde debió 
+profundizar en su conocimiento.
+De esta forma se deja de lado la crítica de los 
+casacionistas, por la supuesta falta de capacitación de la 
+experta, en tanto sus conclusiones permitían reflejar el punto 
+de vista de una conocedora de la técnica contable, enfocada 
+en programas de computación.
+Ahora bien, contrario a lo pretendido por los 
+opugnantes, para emitir un concepto sobre la existencia de 
+copia o plagio de un programa de ordenador no se requiere 
+haber egresado de ingeniería de sistemas, ya que los diversas 
+pruebas que se emplean para el efecto reclaman, al final, la 
+opinión de una persona informada, quien obviamente emitirá 
+su apreciación basada en su formación y experticia.
+Recuérdase que las pruebas intituladas «Look andfeeb 
+y disección analítica-componente intrínseco-, admitidas para 
+establecer una situación de utilización no autorizada de 
+obras protegidas, parten del supuesto de que, al final de 
+cuentas, lo que resulta relevante para estos fines es el 
+concepto de un sujeto lego en el diseño o programación de 
+sistemas de ordenador, debido a que lo más relevante es la 
+forma en que el público en general percibe el software, de 
+cara a su ambiente o elementos esenciales.
+Presupuesto que no es extraño a los test de «abstracción 
+y filtración» o «elementos esenciales», pues ninguno de ellos
+66
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+excluye la intervención de una persona con formación en 
+campos distintos a la ingeniería de sistemas, siempre que los 
+componentes objeto de parangón tengan conexión con 
+aquélla.
+Como en el caso bajo estudio se encuentra en discusión 
+las similitudes entre dos (2) programas contables -Unoligth y 
+Unopymes-, lo propio era acudir a un contador con el fin de 
+que suministrara la óptica del observador común, máxime 
+frente a la comprobación de que había recibido capacitación 
+específica en sistemas de información.
+(b) En el escrito de Ana Mercedes Garzón Laverde no 
+sólo se mencionó el análisis comparativo como sustento de 
+las conclusiones, aspecto resaltado por el ad quem, sino que 
+se hizo una completa explicación de la forma en que fue 
+aplicado, a saber:
+Metodología:
+Primero.- Para llevar a cabo el análisis comparativo en mención 
+instalé ambos programas y digité datos iguales, en ambos, en 
+cuarenta y dos (42) pantallas diferentes;
+Segundo.- A medida que fui digitando los mismos datos en cada 
+sistema fue comparando, en cada pantalla de ambos, donde se 
+introducen los datos contables, su estructura, presentación, 
+método de introducción de los datos y el resultado final;
+Tercero.- Hecho lo anterior procedí a imprimir la imagen de 
+cuarenta y dos (42) pares de pantallas, con fines de análisis 
+comparativos, copia de las cuales adjunto a esta certificación;
+67
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Cuarto.- Imprimí los dieciocho (18) pares de informes iguales de 
+cada sistema para análisis comparativo, impresión que adjunto 
+como ilustración de mi conclusión final. Se adjunta copia impresa 
+de los informes comparados, analizados y examinados (folio 41).
+Sobre el método comparativo o análisis comparativo se 
+ha dicho que «es un procedimiento que se ubica entre los 
+métodos científicos más utilizados por los investigadores. 
+Junto con el método experimental y el estadístico, el método 
+comparativo es un recurso ampliamente utilizado en las 
+ciencias sociales. Incluso algunos han llegado a considerar la 
+comparación como un procedimiento inherente a la 
+investigación científica (Grosser 1973; Lastvell 1968; Almond
+Los autores arriba 
+mencionados coinciden en afirmar que entre las ventajas que 
+ofrece el método comparativo se cuentan el comprender cosas 
+desconocidas a partir de las conocidas, la posibilidad de 
+explicarlas e interpretarlas»42.
+1966, citados por Nohlen, 2003)
+Por tanto, su utilización en el sub lite era pertinente, no 
+sólo por su valor investigativo, sino porque servía para 
+colegir, del hecho cierto del parecido de los softwares en 
+materia de presentación visual, formatos de captura de 
+información, formularios de organización e informes 
+resultantes, que uno fue reproducción parcial del otro.
+Ahora bien, la experta además de sumariar que 
+encontró similitudes en algunos casos cercanas al 80% y en
+42 Carlos Gómez Díaz de León y Elda Ayde León de la Garza, Método comparativo. En 
+Métodos y técnicas cualitativas y cuantitativas aplicables a la investigación 
+sociales, Tirant Humanidades Mexico, 2014, p. 228 y 229.
+en ciencias
+68
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+otros al 100%, allegó los soportes de tales aseveraciones, en 
+total de ciento veintitrés (123) folios, los cuales simplemente 
+fueron ignorados por los recurrentes con la impropia idea de 
+restarle mérito demostrativo.
+Para ejemplificar, la perita trajo el formulario Empresas, 
+sucursales y socios de Unopymes (folio 58), que contrapuso 
+al denominado Crear/Actualizar compañías de SIG (folio 59), 
+mostrando la similitud de la información solicitada, la 
+identidad de la ventana emergente en caso de registros no 
+existentes y la equivalencia de los menús desplegables Tipo 
+Societario (folios 59 reverso y 60) y Cuenta Ingresos (folios 61 
+reverso y 63). Al respecto, llama poderosamente la atención, 
+para esta Corporación, el hecho de que ambos aplicativos 
+carezcan de un listado exhaustivo de formas societarias y que 
+incluyan especies extrañas a este concepto, a saber: 
+«Anónima / Limitada / Persona natural / Capital Social / 
+Unión Temporal» (idem).
+También resulta diciente que sean iguales los 
+formularios de búsqueda de terceros (folios 73 reverso y 74), 
+así como los de Crear / Actualizar Grupos de Inventarios 
+(folios 75 reverso y 76), Crear / Actualizar Medidas (folios 76 
+reverso y 77), Crear / Actualizar Centros de Costo (folios 78 
+reverso y 79), Factura de Proveedor (folios 82 reverso y 83), 
+Préstamos (folios 87 reverso y 88), Informes de Compras 
+(folios 97 reverso y 98) e Inversiones de Ventas (folios 99 
+reverso y 100).
+69
+
+Radicación n.° 11001-31 -03-007-2008-00601 -01
+Se agrega la equivalencia de los menús abreviatura 
+(folios 79 reverso y 80), proveedores (folios 81 reverso y 82), 
+deudores -anticipos y avances (folios 83 reverso y 84) y tipo 
+de préstamo (folios 88 reverso y 89), junto a la utilización de 
+la expresión Balance a Cero (folios 100 reverso y 101).
+Frente a los formatos de salida, es sugestiva la 
+semejanza de la Factura de Proveedor (folios 101 reverso y 
+102), Factura de Venta (folios 102 reverso y 103), Informe de 
+Ventas de Artículos por Cliente (folios 
+103 reverso y 104),
+Informe de Ventas por Artículo (folios 
+104 reverso y 105),
+Ingresos y Costos por Artículo (folios 
+105 reverso y 106),
+Cuentas por Cobrar a Clientes (folios 
+106 reverso y 107),
+Cuentas por Cobrar a Clientes - Por Vencer (folios 107 reverso 
+y 108), Cuentas por Cobrar a Clientes - Vencida (folios 108 
+reverso y 109), Cuentas por Pagar a Proveedores - Por Vencer 
+(folios 109 reverso y 110), Inventario en Mano al Costo (folio 
+110 reverso y 111), Kardex del Inventario (folio 111 reverso y 
+112), Balance General (folios 112 reverso a 114), Balance a 
+Cero (folios 114 reverso y 115) e Informe de Ingresos, Gastos 
+y Costos (folios 118 reverso y 119).
+Este paralelismo, que la experta calculó como próximo 
+a un ochenta por ciento (80%) en cuanto hace a las pantallas, 
+y al cien por ciento (100%) frente a los informes, de ninguna 
+manera deviene vacuo por la utilización de las expresiones 
+cercanas y similitud, como lo aseguraron los impugnantes 
+extraordinarios, pues su empleo se hizo para mostrar que, a 
+los ojos de la referida profesional contable, se trataba de
+70
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+programas sustancialmente equivalentes, requisito sine que 
+non para definir que existió un uso no consentido de una 
+obra protegida.
+Total que cercano, en su acepción natural y obvia, 
+significa «próximo, inmediato»43; a su vez «similitud» expresa 
+«semejanza», esto es, que «se parece a alguien o algo», 
+«equivale[nte] a tal», «imitación». Por ende, cuando la perita 
+utilizó las mencionadas locuciones, en verdad relató un 
+grado de equivalencia entre los objetos que, si bien no 
+correspondía a identidad, sí era indicador de una simetría 
+que únicamente podía explicarse porque «su origen es el 
+mismo en cuanto a la persona que originó el primero» (folio 42).
+(c) Estos insumos respaldan con claridad y suficiencia 
+la conclusión central del estudio técnico, según la cual «[c]on 
+base en todo lo anterior puedo asegurar con una certeza 
+cercana al ciento por ciento (100%) que ambos sistemas tienen 
+el mismo origen o fueron producidos con base en los 
+conocimientos contables y de programación de una misma 
+persona» (folio 41).
+Ciertamente el escrito de sumarios, que acompaña la 
+demanda, por sí mismo es insuficiente para justificar el 
+colofón trascrito; pero esta circunstancia fácilmente se 
+supera de acudirse a sus adjuntos, los cuales son perspicuos 
+en indicar los menús, formularios, tablas, palabras y 
+desplegables, de los softwares Unopymes y SIG, que fueron
+43 Diccionario de la Lengua Española, www.rae.es
+71
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+comparados por la experta, y que guardan un grado de 
+proximidad superlativo, explicable razonablemente por la 
+existencia previa de uno de ellos que se utilizó para 
+desarrollar el otro.
+No se trata de una simple reiteración de palabras o 
+nociones contables, que según los casacionistas resulta 
+justificado por el hecho de que la contabilidad está sujeta a 
+unas reglas técnicas que son imperativas. La proximidad va 
+mucho más allá, se refiere a la similitud de colores, símbolos, 
+llamados de atención, formatos de los campos, disposición 
+de las columnas y filas, contenido y presentación física de los 
+informes, identidad de la letra e, incluso, errores ortográficos 
+en la acentuación de mayúsculas.
+Para la Corte no puede pasar inadvertido que los 
+pantallazos de los programas de ordenador develan un 
+ambiente equivalente, al punto que cualquier observador que 
+por primera vez se acerque a ellos sentirá que hay una 
+conexión entre los mismos, lo que satisface las condiciones 
+para que, conforme al test Look and feel, se concluya que 
+Unopymes se basó en Unolight (o es una obra derivada), 
+inferencia que se ratifica de considerarse que el creador de 
+aquél accedió al código fuente de este último.
+En suma, de cara a la determinación adoptada por el 
+ad quera, la valoración probatoria del dictamen de Ana 
+Mercedes Garzón no resulta desacertada, sino que, por el 
+contrario, se aviene con su recto entendimiento.
+72
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+6.6.2. Criticaron los casacionistas que se suprimiera el 
+contenido material de los dictámenes de Rafael Castro 
+Medina y Johan Cardozo Morales, que al unísono 
+manifestaron que los softwares en comparación son 
+diferentes por el número de pantallazos y funcionalidad, lo 
+que incluye noventa y tres (93) discrepancias puntuales 
+frente a los usos o aplicabilidad, así como respecto a la 
+estructura interna y utilización de las facilidades de Visual 
+FoxPro.
+,
+6.6.2.1. Frente a estos instrumentos suasorios el 
+Tribunal, in extenso, aseveró:
+[S]e advierte que en su dictamen el Ingeniero de Sistemas Johan 
+Cardozo Morales, ciertamente se refirió de manera preponderante 
+a las diferencias que advirtió al comparar el programa UNOLIGHT 
+o SIG con UNOPYMES, concluyendo que ((no se puede afirmar que 
+UNOPYMES /GERESIS sea una copia de UNOLIGHT/SIG,}, porque 
+encontró grandes diferencias entre ellos, en especial en la interfaz 
+gráfica, acotando que la estructura de UNOPYMES es más 
+moderna y supera a UNOLIGHT en la cantidad de opciones y 
+funcionalidades.
+Tal experticia, si bien da cuenta de un análisis plausible desde el 
+punto de vista de un experto en informática, deja de lado temas de 
+importante calado referidos específicamente a la naturaleza del 
+software que atañe a un programa de contabilidad, echándose de 
+menos un pronunciamiento puntual sobre los contenidos de ambos 
+programas.
+El contador Augusto Rafael Castro Medina, realizó su dictamen a 
+partir de la comparación de los programas UNOLIGHT y 
+UNOPYMES, desarrollados por Germán Restrepo Fernández en 
+lenguaje visual FoxPro para sistema operativo Windows, por 
+cuanto según lo manifestó, no tuvo acceso al llamado CAT...
+73
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Para la Sala, atendiendo las circunstancias que rodearon el 
+presente caso, las conclusiones de los peritos al exaltar las 
+ventajas de UNOPYMES sobre UNOLIGH, en últimas solo permiten 
+corroborar uno de los hechos evidenciados con las pruebas 
+recaudadas, que atañe precisamente a que el programa GERESIS 
+resultó más completo y moderno que UNOLIGHT pese a que este 
+último fue el resultado entregado por el ingeniero Restrepo 
+Fernández al señor Carlos Estupiñán en cumplimiento del contrato 
+de prestación de servicios entre ellos celebrado, lo que no significa 
+que el primero haya sido original e independiente de la obra 
+denominada CAT creada por el accionante, cuya originalidad no 
+se discute en este proceso...
+En las descñtas circunstancias, con independencia de que al 
+momento de la realización de la pericia el programa UNOPYMES 
+luciera como más moderno y con mayores funcionalidades que 
+UNOLIGH, lo que no es de extrañar si se tiene en cuenta lo 
+aseverado por Enrique Otoya en su interrogatorio, en el sentido de 
+que GERESIS posteriormente denominado PYMES ha sufrido una 
+gran cantidad de modificaciones y mejoras en funcionalidad “pero 
+en su esencia sigue siendo el software que nos mostró el señor 
+Restrepo GERESIS”, en todo caso, ello no contrarresta la inferencia 
+de que el origen de GERESIS está vinculado al programa CAT y a 
+su actualización UNOLIGHT, hecho que el ingeniero Restrepo 
+Fernández no logró desvirtuar en esta actuación, ni en el proceso 
+penal adelantado en su contra (audiencia de 6 de julio de 2017).
+6.6.2.2. Resáltase que en el fallo confutado no se 
+pretirieron los instrumentos suasorios denunciados, ni 
+siquiera de forma parcial, sino que fueron desechados por su 
+desconexión con el plagio reclamado, el cual exige para su 
+prueba que se analicen las similitudes entre las obras bajo 
+cotejo, sin que las diferencias por sí mismas o el mérito 
+técnico sean relevantes para desestimar su existencia.
+Por tanto, como las censuras en casación insistieron 
+nuevamente sobre la necesidad de volver la mirada sobre
+’ 74
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+estos medios suasorios y, en particular, las disimilitudes 
+advertidas por los expertos, concluye la Corte, de un lado, 
+que la preterición parcial alegada no ocurrió, en tanto que el 
+juzgador colegiado sí valoró los elementos persuasivos 
+aludidos. Distinto es que no los acogieran.
+Y de otro lado, que lo pretendido por los inconformes es 
+habilitar, a través de esta sede extraordinaria, una 
+estimación de las aludidas pruebas diversa a la de su 
+juzgador, como si se tratara de instancia judicial, desconoce 
+la finalidad de esta impugnación.
+La Corte ha doctrinado:
+[R] estulta ostensible que lo realmente existente es la 
+disconformidad de la valoración que hiciera el tribunal de la 
+conducta del demandante..., lo que a criterio de la Sala resulta 
+insuficiente para quebrar la providencia impugnada, habida 
+cuenta que en materia probatoria la constitución y la ley reconocen 
+a los juzgadores la discreta autonomía para valorar y apreciar las 
+pruebas que soportan sus decisiones, sin que justifique el quiebre 
+de la sentencia la exposición de otros argumentos -aun cuando 
+sean bien elaborados- amen que siendo ambas posturas 
+razonables o posibles si la del juzgador resulta aceptable desde la 
+sana crítica, se habrá de estar a ésta, a menos, claro está, que la 
+del recurrente quede como la única lógica y posible, que haga 
+evidente la existencia del error de hecho, que conforme añeja 
+jurisprudencia de esta Corporación (SC1697, 14 may. 2019, rad. 
+n.° 2009-00447-01).
+6.6.2.3. En todo caso, aunque se soslayara la anterior 
+pifia técnica, lo cierto es que las apreciaciones sustanciales 
+efectuadas por el Tribunal, con fundamento en las pruebas
+75
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+de las que se duelen los casacionistas, tienen asidero en su 
+materialidad objetiva.
+Para explicar conviene rememorar que los test 
+diseñados para establecer una copia no autorizada de 
+programas de ordenador, al unísono, reclaman que el 
+evaluador centre su atención en los puntos de coincidencia 
+entre la producción original y la que se pretende espuria, con 
+el fin de establecer si entre ellas existe una identidad 
+contextual o sustancial.
+Esto debido a que, de focalizarse el análisis únicamente 
+en las diferencias, se abriría una puerta para birlar los 
+derechos de los autores, al bastar que en el original se 
+introduzcan modificaciones, aunque sean pequeñas o 
+irrelevantes, para impedir la efectividad de sus derechos.
+Más aún, por esta misma senda desaparecería la noción 
+de obra derivada, pues ésta se configura, precisamente, 
+cuando se introducen alteraciones a una creación de otro 
+hacedor, tales como «traducciones, adaptaciones o arreglos, 
+así como otras figuras como las actualizaciones, los 
+resúmenes»44 (artículo 5o de la Decisión 351 de 199345 y el 
+literal j) del artículo 8o de la ley 23 de 198246).
+44 Tribunal de Justicia de la Comunidad Andina, Interpretación Prejudicial 125-IP- 
+2016 (folios 442 y 443 del cuaderno 7).
+45 Sin perjuicio de los derechos del autor de la obra preexistente y de su previa 
+autorización, son obras del ingenio distintas de la original, las traducciones, 
+adaptaciones, transformaciones o arreglos de otras obras.
+46 Obra derivada: aquella que resulte de la adaptación, traducción, u otra 
+transformación de una originaria, siempre que constituya una creación autónoma.
+76
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Debido a estas razones es que la evaluación debe 
+hacerse a partir de las semejanzas, siempre que éstas se 
+prediquen de componentes protegidos por el derecho autoral, 
+a partir de las cuales se evalúa si hay una reproducción de 
+las manifestaciones del ingenio personal. Por tanto, no basta 
+con hacer una relación de diferencias, aunque sean 
+voluminosas, para desestimar una utilización indebida.
+Así, en el test denominado look and feel, para 
+comprobar la utilización torticera, se hace una confrontación 
+entre el parecido visual, ambiental y de configuración de los 
+sistemas de información, según la percepción de una persona 
+normal; en la disección analítica se parangonan los 
+elementos identificados en el aspecto externo, con el fin de 
+explicitar las simetrías entre los mismos, en caso de que 
+existan; en la abstracción y filtración, una vez excluidas las 
+materias que no son protegidas por el derecho autoral, se 
+establecen las equivalencias entre el material restante; y en 
+la revisión de los elementos esenciales, nuevamente se 
+buscan los parecidos para establecer si hay una duplicación 
+de partes nucleares.
+i
+En este contexto, que el sentenciador criticado restara 
+capacidad suasoria a los dictámenes de Rafael Castro Medina 
+y Johan Cardozo Morales, por cuanto estos estudios sólo se 
+acotaron a mirar las diferencias entre Unoligth y Unopymes, 
+sin detenerse previamente a identificar las coincidencias que 
+debían parangonarse, se aviene con el marco aplicable a la 
+protección del software.
+77
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Máxime porque al adentrarse en las peritaciones, 
+ciertamente queda en evidencia que los profesionales dejaron 
+de lado el tema de los puntos de encuentro entre los 
+programas de ordenador, para establecer la fuente de esta, 
+razón para otorgarles una limitada capacidad suasoria, al 
+margen de su perspicuidad o precisión, punto único en el que 
+insisten los casacionistas, a saber:
+(a) Johan Cardozo Morales, a pesar de ser inquirido 
+sobre las «diferencias o similitudes [que] presentan los 
+programas CAT o ASS Unolight o SIGy Unopymes» (folio 681), 
+respondió únicamente al primero de los aspectos 
+previamente identificar los puntos de encuentro que 
+merecían un parangón, frente a los cuales era menester 
+adelantar las labores de analogías y disanalogías, a saber:
+sm
+1. Estructura...
+Se encontraron diferencias sustanciales en el diseño de la Base de 
+Datos de ambos programas...
+Se encontraron también grandes diferencias en las Clases, que 
+son las plantillas base para la elaboración de un programa en 
+Visual Foxpro...
+Tanto en su diseño como en su funcionalidad, los menus son 
+totalmente diferentes en los dos programas...
+Hay una gran cantidad de formularios que se encuentran 
+presentes en Unopymes/Geresis y que no existen en Unolight/SIG 
+También se encontró una diferencia notoria en la cantidad de 
+reportes que contiene cada programa; mientras que en 
+Unolight/SIG hay 128, Unopymes/Geresis se contaron 218...
+[2.] Funcionalidades y operación...
+78
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+También existen grandes diferencias en la operación de los dos 
+programas que demuestran mucha mayor programación en 
+Unopymes/ Geresis... (folios 681 y siguientes)
+Con base en lo cual coligió:
+* No se puede afirmar que Unopymes/ Geresis sea una copia de 
+Unolight/ SIG.
+* Se encuentran grandes diferencias en el diseño, estructura, 
+programación y operación entre ambos programas.
+* La estructura de datos en Unopymes/ Geresis está adecuada a 
+las técnicas modernas en materia de Bases de Datos que ofrece el 
+lenguaje Visual Foxpro, brindando integridad, seguridad, 
+confiabilidad y eficiencia.
+* El programa Unopymes/Geresis supera a Unolight/SIG en la 
+cantidad de opciones y funcionalidades, lo que implica más 
+procedimientos y más código fuente (folio 688).
+El especialista, entonces, fijó sus ojos en la estructura 
+y funcionalidad de los programas de ordenador, en concreto, 
+las bases de datos, clases, menús, formularios, reportes y 
+operación, aunque, valga la pena relievarlo, sin justificar el 
+valor técnico de esta selección, frente a los cuales acometió 
+la labor de cotejo a partir de las diferencias y menospreció 
+por completo las igualdades, menos aún, las advertidas por 
+la experta desde el inicio del proceso.
+Dejó de lado, entonces, que el componente intrínseco de 
+toda evaluación de plagio es la similitud sustancial de la 
+expresión, desde el punto de vista de una persona comúrí^7,
+47 «Should measure ‘substantial similarity in expressions... depending on the 
+response of the ordinary reasonable person» (Corte de Apelaciones de Estados Unidos 
+de América, Noveno Circuito, Brown Bag Software vs Symantec Corp., caso 29 F.3d 
+630, 16 de junio de 1994, traducción libre).
+79
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+sin que aquéllas puedan obviarse para focalizarse en las 
+desigualdades.
+El único parecido mencionado por el experto fue el 
+tocante a la interfaz gráfica, aunque se descartó por remisión 
+al código fuente (folio 683), esto es, sin un verdadero análisis 
+con el fin de establecer si el ambiente generado por un 
+sistema de información para interactuar con el usuario y 
+capturar información, a la luz de un observador externo, 
+develaba una similitud esencial entre las obras, como lo 
+reclama, por ejemplo, el test intitulado look and feel.
+(b) Frente a la experticia de Augusto Rafael Castro 
+Medina se avizora que, nuevamente, ninguna de sus 
+respuestas tiene en consideración las proximidades 
+sustanciales entre Unolight y Unopymes, pues sólo fue 
+auscultado sobre la funcionalidad y mérito técnico del 
+primero, así como sobre los elementos comunes que deben 
+tener los softwares contables.
+Además, sus respuestas fueron justificadas a partir de 
+una remembranza del escrito de programación, sin tener en 
+cuenta que en materia autoral también se protegen otros 
+aspectos de la expresión, tales como el diseño, la estructura 
+y los flujos de información, siempre que haya un componente 
+de originalidad, que es precisamente lo que se reclamó en el 
+caso al invocar una obra original de la cual se obtuvo una 
+derivada sin autorización.
+80
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Justamente, revisada la primera inquietud que le fue 
+formulada, en torno a las divergencias entre los pantallazos, 
+se rehusó porque la interfaz gráfica no es protegida por el 
+derecho autoral y, la modernidad de Unopymes, permitía 
+inferir que el código fuente era diverso (folio 19 del cuaderno 
+3); se dio la espalda, de esta forma, a las evidentes simetrías 
+sobre el uso de colores, campos, despegadles, distribución de 
+las tablas, letra empleada, denominaciones, listados, etc., 
+que como bien lo advirtió Ana Mercedes Garzón, las cuales 
+permiten inferir que Unolight y Unopymes comparten un 
+origen común, al margen de la completitud y modernidad del 
+último.
+En los cuestionamientos segundo y séptimo, relativos a 
+la posibilidad de que dos (2) programas se hagan con base en 
+los mismos conocimientos y funcionalidades, se brindó una 
+respuesta general, sin referencia directa a los softwares 
+comparados, de allí su futilidad para los fines pretendidos en 
+el proceso.
+i'
+Los cuestionamientos tercero, cuarto y quinto 
+gravitaron sobre la funcionalidad e idoneidad de Unolight, 
+por sus advertidos desacuerdos con los principios de 
+contabilidad generalmente aceptados en Colombia, en una 
+calificación sobre el mérito de la obra que es irrelevante para 
+la evaluación de las pretensiones. Basta evocar el artículo Io 
+de la decisión 351 de 1993, que extiende la protección de los 
+autores a todas las obras del ingenio, «cualquiera que sea el
+81
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+género o forma de expresión y sin importar el mérito 
+literario o artístico ni su destino» (negrilla fuera de texto).
+Al respecto, el Tribunal de Justicia de la Comunidad 
+Andina, en la interpretación judicial efectuada para los fines 
+del sub examine, manifestó: «la protección de un derecho de 
+autor no depende del mérito de la obra, o de su destino, ni de 
+la complejidad del trabajo intelectual o de los recursos para 
+producirla, sino de que posea elementos demostrativos de una 
+diferencia sensible, absoluta o relativa, que individualice el 
+pensamiento representativo o la subjetividad de su auton 
+(folio 448 del cuaderno 7).
+Por tanto, al margen de que Unoligth requiriera de 
+adecuaciones para satisfacer las reglas contables nacionales, 
+lo cierto es que sus problemas de funcionalidad no desdicen 
+sobre los derechos morales y patrimoniales de su autor, así 
+como de la restricción para que los accionados pudieran 
+hacer uso de ellos sin previa autorización.
+En este contexto, el análisis efectuado por el contador 
+público deviene insustancial, respecto al objeto del litigio, 
+razón suficiente para que el ad quem lo dejara de lado al 
+momento de fallar, sin incurrir en el vicio de juzgamiento 
+achacado en casación.
+(c) Por ende, la insistencia de los impugnantes 
+extraordinarios sobre el cercenamiento de estas pericias, al 
+dejar de lado múltiples diferencias entre los programas
+82
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Unolight y Unopymes, así como la mayor funcionalidad y 
+operación del úldmo, muestra una reiteración de los yerros 
+conceptuales antes mencionados.
+Inevitable secuela de lo expuesto es que la actuación del 
+Tribunal, en el sentido de desestimar las referidas pruebas y 
+fundarse en las que consideraron los parecidos entre los 
+sistemas de información, es adecuada a la hermenéutica de 
+las normas que tutelan los derechos de los autores, motivo 
+para cerrar la prosperidad de la casación por estos aspectos.
+Finalmente, en las demandas casacionales se 
+criticó una indebida apreciación del testimonio de José 
+Miguel Zoque Gutiérrez, porque del mismo no puede 
+extraerse identidad entre los sistemas de computación 
+cotejados, so pena de incurrir en una suposición probatoria.
+6.6.3.
+I
+6.6.3.1. Sobre este medio demostrativo, el Tribunal
+aseguro:
+El testigo MIGUEL ZOQUE, quien manifestó ser profesional en 
+programación de sistemas, señaló que conocía al actor desde 1990 
+y refinó la evolución de su programa de contabilidad, señalando 
+que se interesó por conocer el programa elaborado por Carlos 
+Estupiñán y encontró “una característica que es única desde el 
+primer programa que hizo DON CARLOS hasta el SIG y es un 
+término único que identifica básicamente la calidad y el diseño del 
+programa y es el término de balance a cero, ningún otro programa 
+que yo conozco contiene ese término particular, curiosamente el 
+único programa que he encontrado en el mercado que contiene 
+exactamente la misma filosofía del balance a cero es Unopymes” . 
+Añadió: “la funcionalidad que tiene el balance a cero, es 
+exactamente determinar si existen descuadres en el sistema, ya
+83
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+que es un sistema completamente integrado” (...) “el término 
+integrado hace referencia exactamente a que el programa no está 
+hecho por módulos”, y precisó que su diagnóstico se basa en lo que 
+hace cada uno de los programas y sus rutinas.
+Ahora, aunque el a quo le restó relevancia probatoria a este 
+testimonio, estima la Sala que el mismo resulta importante por su 
+pertinencia en el tema controvertido, por la formación del testigo 
+en la materia y muy especialmente porque su dicho no fue 
+desvirtuado por la parte pasiva.
+6.6.3.2. Tal colofón guarda armonía con el contenido de 
+este instrumento de convicción, pues en la audiencia de 12 
+de octubre de 2010 el testigo fue diáfano al afirmar:
+[Mje encontré con una característica que es única desde el 
+primer programa que hizo Don Carlos hasta el SIG y es un
+término que identifica básicamente la calidad y el diseño del 
+programa y es el término balance a cero, ningún otro programa 
+que contienen ese término particular, curiosamente el único 
+programa que he encontrado en el mercado que contiene 
+exactamente la misma filosofía del balance a cero es 
+Unopymes (folio 513 del cuaderno 1).
+El declarante, contrario a lo aseverado en el escrito de 
+sustentación, hizo una labor de comparación entre los 
+softwares mencionados, en punto a la filosofía que inspiró a 
+cada uno de ellos.
+De forma literal el deponente relató que, una vez se 
+interesó por el sistema de información ideado por Carlos 
+Estupiñán Monje, encontró como una expresión particular 
+del autor la idea del balance a cero, que de forma inusual 
+también se imbricado en el software de Germán Alberto
+84
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Restrepo, sin que en el mercado existieran alternativas 
+contables con tal criterio.
+Exposición que encuentra credibilidad, no sólo por 
+provenir de un programador de sistemas, sino porque éste 
+relató la forma en que conoció al creador de Unolight, dio 
+cuenta de la evolución de ASS (o CAT) al lenguaje Visual 
+Foxpro y explicó en qué consiste el balance a cero. Asimismo, 
+su afirmación tiene respaldo en las demás pruebas que 
+integran el proceso, como bien lo advirtió el tallador de 
+segundo grado, pues la perito Ana Mercedes Garzón dio 
+cuenta de que Unolight y Unopymes permiten emitir el 
+informe denominado balance a cero (folios 114 reverso y 115 
+del cuaderno 1); lo mismo refirió la experticia de Augusto 
+Rafael Castro, quien anexó un informe de balance a cero 
+emanado de Unolight (folios 40 y 41 del cuaderno 3), que 
+tiene como reflejo el reporte de contabilización en Unopymes 
+(folios 42 y 43).
+Ahora bien, como en casación quedó desprovisto de 
+crítica el colofón de que la noción en referencia fuera una 
+impronta personal de Carlos Estupiñán Monje, haciendo su 
+refutación inaccesible, y frente al hecho comprobado de que 
+el programa desarrollado por Restrepo Fernández la utilizó, 
+lógica resulta la inferencia del ad quem, en el sentido de que 
+existió una utilización no autorizada de Unolight para 
+obtener a Unopymes como una obra derivada.
+85
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Los razonamientos anteriores permiten desestimar el 
+error de hecho achacado al tallador de segunda instancia en 
+la ponderación del testimonio de José Zoque y, por el 
+contrario, ratifican la corrección de sus deducciones.
+6.6.4. De forma postrera se alegó la imposición de la 
+condena «pese a no encontrarse demostrada la pluralidad de 
+sujetos que habrían incurrido en la causación de [los] 
+perjuicios materiales y morales por violación de los derechos 
+de autor del demandante, el que, por otra parte, jamás los 
+demostró» (folio 64 del cuaderno Corte), ni la culpa de 
+Softpymes SAS -antes Siesapymes SAS-.
+Estas lacónicas acusaciones relumbran por su 
+incompletitud, por no referirse a ninguno de los argumentos 
+que sirvieron al Tribunal para definir los puntos de que se 
+duele la censura; más bien parecen quejas propias de un 
+debate de instancia.
+Resulta suficiente mencionar que, en la sentencia de 6
+expresamente se aseguró que la 
+responsabilidad de Siesapymes SAS se originó por haber 
+^comercializado las licencias de uso del software denominado 
+UNOPYMES sin reconocimiento de los derechos del autor de la 
+obra original», labor acometida bajo la convicción de que 
+Unolight era ((defectuoso», «por manera que su actuar no está 
+enmarcado en las estipulaciones contractuales en las cuales 
+pretenden ampararse... Al respecto, el mismo señor Fernando 
+Otoya en su interrogatorio manifestó que al conocer el
+de julio de 2017,
+86
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+programa GERESIS se les abrió un campo importante para 
+resolver los líos de los clientes que con anterioridad habían 
+comprado el programa UNOLIGHT» (audiencia de 
+sustentación y fallo).
+Con claridad se muestra que, para el ad quem, el hecho 
+que da lugar a la responsabilidad de la enjuiciada consistió 
+en distribuir una obra derivada sin contar con la autorización 
+del creador de la original; y la culpa se patentizó en la 
+consciencia con la que actuaron para evitar comerciar con 
+esta última por sus problemas de funcionalidad, 
+sustituyéndola por aquélla.
+Como estas inferencias trasegaron sin tacha en las 
+demandas de casación, resultan petrificadas, amén de que 
+sobre ellas se levantan las presunciones de acierto y legalidad 
+que salvaguardan la actividad de los jueces de instancia.
+Lo mismo sucede con la cuantificación del daño, pues 
+el ad quem acudió al canon 57 de la ley 44 de 1993 para 
+establecer como directriz que su tasación debía hacerse de 
+conformidad con el «valor que hubiere percibido el titular del 
+derecho de haber autorizado su explotación», el cual estimó 
+comprobado por el dictamen financiero realizado en el curso 
+del proceso.
+Nuevamente estos raciocinios quedaron sin confutar en 
+las acusaciones, parquedad que impone su rechazo sin más 
+consideraciones.
+87
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+6.7. Por lo expuesto se deniega la prosperidad de las 
+críticas casacionales formulados por Softpymes SAS -antes 
+Siesapymes SAS- y Germán Alberto Restrepo.
+DEMANDA DE CARLOS ENRIQUE ESTUPIÑÁN
+MONJE
+CARGO PRIMERO
+Se alegó una aplicación indebida del artículo 106 de la 
+ley 23 de 1982, bajo la consideración de que su invocación 
+sólo procede cuando entre las partes existe un contrato de 
+edición; no obstante, en el caso, el demandante nunca 
+expresó su voluntad para que se comercializara y vendiera la 
+obra objeto del litigio.
+Por el contrario, entre las partes la única relación 
+obligatoria que surgió tuvo como fuente el delito. «En 
+consecuencia, surge sin contradicción alguna que, de las 
+fuentes de las obligaciones consagradas en nuestro estatuto 
+civil, la que aplica en el presente caso, no es otra que el delito... 
+[y] no se comprende como los magistrados llegaron a aplicar 
+por analogía el citado artículo 106, que en nada se enmarca 
+dentro del caso que nos ocupa» (folio 78 del cuaderno Corte).
+Argüyó que el sentenciador debió acudir al código penal, 
+con el fin de evitar que en la tasación del perjuicio se
+88
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+descontara la inversión realizada por los delincuentes con el 
+fin de alcanzar su actuar ilegal.
+Previa invocación del dictamen pericial de Amparo 
+Martínez Solarte, recordó los ingresos obtenidos por 
+Siesapymes SAS -ahora Softpymes SAS- por la venta de 
+Unolight, Unopymes o Siesapymes y deprecó que la condena 
+a su favor fuera por el valor total, para lo cual recordó que su 
+origen fue el ilícito consagrado en el artículo 271 del Código 
+Penal.
+Finalizó con la manifestación de que, adicionalmente, 
+se incurrió en una indebida interpretación del artículo 106 
+de la ley 23 de 1982, pues la cuantificación del demérito 
+debió hacerse sobre el precio de venta al público, no sobre 
+las utilidades.
+CARGO SEGUNDO
+Alegó una aplicación inadecuada de las normas 
+diseñadas para obras literarias al software, insistiendo en los 
+fundamentos del embiste inicial.
+También reprochó la interpretación errónea del canon 
+106 referido, al desconocerse que el 20% se calcula sobre el 
+precio de venta al público de los ejemplares editados, «y en la 
+providencia mediante la cual el Tribunal le dio aplicación al 
+artículo se calculó la indemnización a partir de las utilidades 
+de la sociedad... por lo cual el 20% de dicha cifra sería mil
+89
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+doscientos cincuenta millones novecientos treinta y nueve mil 
+novecientos catorce pesos ($1.250.939.914)» (folio 80 reverso).
+Clarificó que «aunque se debe aclarar que el cargo 
+principal se dirige hacia la indebida aplicación de la norma en 
+cuestión, la argumentación sobre la errónea interpretación del 
+mismo se hace solo como un supuesto con el fin de determinar 
+que en cualquiera de los dos sentidos, el follador incurrió en 
+un error» (idem).
+CARGO TERCERO
+Censuró la aplicación de los artículos Io y 2° de la ley 
+1258 de 2008, por cuanto este mandato resulta extraño 
+frente a las actuaciones ocurridas entre los años 2005 y 
+2013.
+Máxime porque Unolight Ltda. cambió su tipo societario 
+hasta el año 2012, momento en que se transformó a 
+Siesapymes SAS -hoy Softpymes SAS-, «debiendo ser 
+aplicadas las normas del código de comercio que regulan la 
+sociedad limitada, en específico el artículo 358» (folio 81 
+reverso), que habla de la representación de los socios.
+CONSIDERACIONES
+1. Rememórese que, por fuerza del precepto 344 del 
+CGP, las acusaciones en casación deben satisfacer los 
+requisitos de claridad, precisión y completitud, con el fin de
+90
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+que refulja el yerro achacado al juzgador, así como su 
+suficiencia para derruir la totalidad de los fundamentos de la 
+providencia criticada, imponiéndose su anulación como una 
+consecuencia inevitable.
+De inobservarse cualquiera de estas exigencias, por 
+fuerza del principio dispositivo, la Corporación tiene vedado 
+subsanar las deficiencias que advierta en el escrito de 
+sustentación, so pena de desnaturalizar el remedio 
+extraordinario.
+Así lo tiene advertido la Sala:
+Sin distinción de la razón invocada, deben proponerse las 
+censuras mediante un relato hilvanado y claro, de tal manera que 
+de su lectura emane el sentido de la inconformidad, sin que exista 
+cabida para especulaciones o deficiencias que lo hagan 
+incomprensible y deriven en deserción, máxime cuando no es labor 
+de la Corte suplir las falencias en que incurran los litigantes al 
+plantearlos (SC5472, 13 die. 2019, rad. n.° 2008-00051- 
+01; reitera AC, 16 ago. 2012, rad. 2009-00466; AC, 12
+jul. 2013, rad. 2006-00622-01).
+2. En el presente caso, anticípese que las acusaciones 
+formuladas no se ajustaron a la técnica de casación, por su 
+oscuridad e incompletitud, como se mostrará en lo 
+subsiguiente.
+2.1. En el embiste inicial, recuérdase, se alegó la falta 
+de aplicación del estatuto criminal, con el fin de refutar que 
+el perjuicio causado al demandante pudiera calcularse 
+base en las utilidades obtenidas por Siesapymes SAS en la
+con
+91
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+comercialización de Unopymes, propendiendo porque se 
+tuviera en consideración la totalidad de los ingresos.
+Sin embargo, para soportar tal aserto no se citó una 
+norma precisa que le sirviera de fundamento, menos aún, 
+una que faculte condenar a la reparación según los ingresos 
+obtenidos de una actividad ilícita, con independencia de que 
+se encuentre comprobado, como en el caso, que para la 
+explotación económica del activo inmaterial usurpado fue 
+necesario incurrir en importantes erogaciones.
+Carencia que se hace insalvable de cara a la aplicación 
+del principio de reparación integral, el que propugna porque 
+la víctima de un daño sea restablecida a la situación en que 
+previsiblemente se encontraría de no haber sufrido el agravio, 
+de suerte que se mantenga indemne, en la medida de lo 
+posible, de las consecuencias negativas del hecho culposo. Por 
+tanto, «/e/1 resarcimiento no puede superar la pérdida efectiva, 
+ni generar una ventaja para el damnificado»48, lo cual parece 
+desatendido por el pedimento de que se ordene la condena por 
+el total de los ingresos, sin atender a que para alcanzar 
+aquéllos resulta necesario incurrir en costos y egresos que 
+habrían gravado incluso a la víctima.
+Tampoco se esclareció cómo un juzgador civil podría 
+acudir a una codificación de una especialidad diferente 
+emitir un fallo en los asuntos que son de resorte, en
+para
+48 Guido Alpa, Nuevo Tratado de la Responsabilidad Civil, Jurista Editores, Lima 
+2006, p. 797.
+92
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+descrédito de las disposiciones especialmente dispuestas 
+para resolver los litigios de la disciplina, en concreto, las de 
+la responsabilidad civil extracontractual o del derecho 
+autoral.
+Admitirse la sustitución de las reglas civiles por las 
+penales, no sólo sacrifica la unidad del ordenamiento 
+sustantivo, sin dilucidación en el escrito casacional, sino que 
+trasluce una mixtura entre procedimientos para obtener la 
+indemnización de perjuicios por la comisión de delitos, sin 
+consideración a la independencia existente entre ellos.
+Ya la jurisprudencia ha decantado que «Zos perjudicados 
+con el delito [tienen] dos vías para solicitar el resarcimiento de 
+los daños que hubieren experimentado: de un lado, adelantar 
+por separado el correspondiente proceso civil; y, de otro, 
+constituirse en parte civil dentro del proceso penab (SC3062, 
+Io ag. 2018, rad. n.° 2007-00057-01).
+I
+Faltó, entonces, claridad en el cargo inicial, razón para 
+descartar su estudio.
+2.2. La opacidad se acrecienta frente a la consideración 
+de que se criticó, al unísono, la aplicación indebida y la 
+errónea interpretación del artículo 106 de la ley 23 de 1982, 
+en una contradicción que trasluce insalvable.
+Sobre el punto conviene rememorar el pensamiento de 
+la Corporación:
+93
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Tampoco resulta compatible con la indebida aplicación, invocada 
+en la parte introductoria del cargo, la adición que se hace al final 
+de éste, en que se expresa que la violación se ha originado en la 
+aplicación indebida y la errónea interpretación del precepto citado.
+Las dos figuras no pueden coexistir en relación con el mismo 
+precepto, porque la primera constituye un error sobre el supuesto 
+de hecho constituido como hipótesis legal, en tanto que la segunda 
+equivale a una deformación de la consecuencia legal del precepto, 
+que altera su sentido. La primera violación absorbería a la 
+problemática existente de la segunda (SC086, 19 mar. 1987).
+Por tanto, cuando el demandante aseveró que «es 
+ostensible analizar, como el juzgador de segunda instancia, 
+no obstante haber errado en la aplicación del artículo 106 
+de la ley 23 de 1982, por no ser la norma que se subsume en 
+la situación fáctica analizada, incurre en otro error al aplicar 
+dicho artículo, que, si bien no viene el caso, por cuanto la recta 
+interpretación de la tasación es la que se deriva de un delito» 
+(negrilla fuera de texto, folio 79 reverso), cometió una 
+contrariedad irresoluble, pues la lógica reclama que un 
+sentenciador no puede, al mismo tiempo, equivocarse en la 
+selección de las normas que constituyen la premisa mayor y 
+acertar pero otorgándole un contenido diferente.
+Defecto que se reproduce en la segunda acusación, en 
+el que nuevamente se acusó que «[e]ste artículo [106 de la ley 
+23 de 1982] no es de correcta aplicación al caso en disputa» y 
+que «se le dio una interpretación errónea a dicho artículo» (folio 
+80).
+94
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+2.3. La privación de perspicuidad también es evidente 
+en el embate final, pues se propugnó por aplicar el canon 358 
+del Código de Comercio, relativo a la representación legal de 
+las sociedades limitadas, con el fin de que la responsabilidad 
+de estas personas jurídicas se extienda a sus asociados, sin 
+suministrar ninguna explicación sobre la conexión que existe 
+entre estas temáticas.
+Y es que el opugnante fue silente sobre las razones que 
+permitan aseverar que los socios, cuando actúan como 
+representantes legales del ente moral, están llamados a 
+responder por las obligaciones adquiridas por este último, en 
+franca oposición del artículo 353 del estatuto mercantil que 
+prescribe: «En las compañías de responsabilidad limitada los 
+socios responderán hasta el monto de sus aportes».
+Dicho de otra manera, sin ningún miramiento se 
+pretendió establecer una solidaridad pasiva respecto a los 
+débitos contraídos por la sociedad, sin invocar la norma que 
+sirve de soporte a esta consideración, ni explicar cómo el 
+canon que regula la representación legal puede servir para 
+estos fines, de espaldas al inciso final del artículo 1568 del 
+Código Civil: «La solidaridad debe ser expresamente 
+declarada en todos los casos en que no la establece la ley».
+2.4. Se suma a los anteriores defectos que las censuras 
+resultan incompletas.
+95
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+2.4.1. Las dos (2) primeras, en atención a que se 
+lamentan de un único aspecto de los razonamientos del ad 
+quem, con la pretensión de derruir en su totalidad de la 
+condena por daño emergente, sin tener en cuenta los puntos 
+nodales de las dilucidaciones.
+Total que el sentenciador de segundo grado, para llegar 
+al guarismo de $147.633.372, como penalidad por lucro 
+cesante, consideró los siguientes elementos de juicio: (i) el 
+artículo 57 de la ley 44 de 1993 establece que para la 
+tasación del daño debe tenerse en cuenta «el valor que 
+hubiere percibido el titular del derecho de haber autorizado su 
+explotación»; (ii) el demandante no participó en las regalías 
+por la explotación comercial de Unopymes, aunque en el 
+proceso no se especificó el valor estimado de las mismas; (iii) 
+en el dictamen practicado en el proceso se determinó el valor 
+de las utilidades por licencias de uso de Unopymes; (iv) ante 
+la insuficiencia de elementos de juicio para establecer el valor 
+de la regalía que ha debido corresponderle al demandante, se 
+tendrá en cuenta las utilidades recibidas por los infractores; 
+y (v) por analogía se acudió al artículo 106 de la ley 23 de 
+1982, en el sentido de que el porcentaje del 20% es la regalía 
+a la que tendría derecho (audiencia de 6 de julio de 2017).
+Cobra importancia en este razonamiento que, a pesar 
+de que el legislador estableció como criterios para la 
+cuantificación del daño el «valor comercial de los ejemplares 
+producidos o reproducidos sin autorización» y «/e/Z valor que 
+hubiere percibido el titular del derecho de haber autorizado su
+96
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+explotación» (artículo 57 de la ley 44 de 1993), lo cierto es que 
+en la alzada se tuvo en cuenta únicamente el último, y a 
+partir de él se fijó la reparación reclamada.
+Hermenéutica frente a la cual no se alzó reparo en 
+casación, por lo que deviene inmodificable; valga la pena 
+remarcarlo, quedó fijado en piedra que las normas sobre 
+derecho autoral permiten que las ganancias percibidas por el 
+infractor sirvan de racero válido para calcular el demérito 
+ocasionado en el patrimonio del creador, sin que la 
+Corporación pueda adentrarse en un estudio más exhaustivo 
+de la materia, so pena de exceder sus competencias.
+El impugnante, en lugar de refutar la anterior 
+interpretación, focalizó su reproche en la indebida aplicación 
+del canon 106 de la ley 23 de 1982 y la necesidad de acudir 
+al Código Penal para para que la indemnización se tase con 
+base en los ingresos por ventas de Unopymes, lo que 
+demuestra la incompletitud del ataque, motivo para rechazar 
+su estudio.
+2.4.2. En el último embiste también se inobservó la 
+integralidad del ataque, pues el impugnante se opuso a la 
+aplicación de los mandatos Io y 2o de la ley 1258 de 2008, 
+con el vano propósito de rechazar que la responsabilidad de 
+las personas jurídicas es independiente de la de sus socios 
+individualmente considerados, sin advertir que el ad quem 
+llegó al puerto opuesto con fundamento, en particular, del 
+canon 98 de la codificación comercial.
+97
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+En la audiencia que resolvió la alzada se dijo:
+[D]ebe decirse que ante la evidencia de que la comercialización de 
+la obra derivada no se ha efectuado de manera directa por los 
+señores Otoya Domínguez, sino a través de una sociedad de la 
+cual participan como socios, no son ellos los directamente 
+llamados a responder por la indemnización de perjuicios sino la 
+persona jurídica, según pasa a exponerse:
+Al tenor del artículo 98 del Código de Comercio, ‘Por el contrato de 
+sociedad dos o más personas se obligan a hacer un aporte en 
+dinero, en trabajo o en otros bienes apreciables en dinero, con el 
+fin de repartirse entre sí las utilidades obtenidas en la empresa o 
+actividad social La sociedad, una vez constituida legalmente, 
+forma una persona jurídica distinta de los socios individualmente 
+considerados’. En esa medida, la sociedad es titular de un 
+patrimonio independiente al de sus asociados, que constituye la 
+garantía o prenda general de sus acreedores...
+Dado que el objeto social de SIESAPYMES SAS, antes UNOPYMES 
+Ltda., se concreta al “mercadeo a nivel nacional e internacional del 
+software de contabilidad para la pequeña empresa”, bien puede 
+concluirse que la sociedad responde por las obligaciones 
+adquiridas en desarrollo de su objeto social y los accionistas se 
+comprometen hasta el monto de sus aportes, salvo que la sociedad 
+se haya constituido con fines defraudatorios, hecho que no fue 
+alegado en este proceso.
+Así las cosas, dilucidado como está que esa sociedad ha 
+comercializado las licencias de uso del software denominado 
+UNOPYMES sin reconocimiento de los derechos del autor de la obra 
+original, la responsabilidad indemnizatoria de los perjuicios 
+irrogados al demandante recae también sobre ella y no sobre sus 
+socios individualmente considerados, lo que impone la exoneración 
+de los demandados PABLO ENRIQUE y FERNANDO OTOYA 
+DOMÍNGUEZ (audiencia de 6 de julio de 2017).
+Se vislumbra que el Tribunal, para desestimar la 
+petición de condena en contra de los asociados de Softpymes
+98
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+SAS -antes Siaesapymes SAS-, tuvo en cuenta (i) no sólo la 
+diferenciación entre la persona jurídica y sus aportes de 
+capital, cuya principal fuente normativa es el canon 98 del 
+Código de Comercio, sino que también consideró (ii) el sujeto 
+que efectivamente hizo la explotación patrimonial de 
+Unopymes y (iii) la ausencia de prueba sobre actos 
+defraudatorios imputables a los aportantes de capital.
+Ninguna de estas reflexiones fue cuestionada en 
+casación. El primero de los mandatos fue simplemente 
+olvidado por el actor, a pesar de que prescribe que «/Z/a 
+sociedad, una vez constituida legalmente, forma una persona 
+jurídica distinta de los socios individualmente considerados»; 
+y las consideraciones tácticas, por haberse seleccionado la 
+senda directa en casación, fueron aceptadas pacíficamente.
+Surge irrefutable que la acusación quedó corta, en 
+desatención de las reglas técnicas del remedio excepcional, 
+de allí que no sea dable su estudio.
+3. Se agrega que la generalidad de las acusaciones 
+impide que se haga un estudio de fondo de las quejas 
+extraordinarias pues, aunque se dejaran de lado las 
+múltiples deficiencias técnicas, no habría cómo acometer el 
+estudio de las razones jurídicas esgrimidas, tanto por la falta 
+de apoyadura normativa, como por la existencia de preceptos 
+que fueron aplicados por el Tribunal y frente a los que 
+hizo ningún reparo.
+no se
+99
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+Sin consideraciones adicionales se cierra el estudio del 
+recurso extraordinario promovido por Carlos Enrique 
+Estupiñán Monje.
+4. En atención a que ambas partes propusieron recursos 
+extraordinarios, que no prosperaron, no habrá condena en 
+costas en casación, porque su reconocimiento requiere la 
+condición de vencedora de la parte favorecida con ella, al tenor 
+del numeral Io del artículo 365 del CGP, de la que carecen 
+todos los recurrentes.
+DECISIÓN
+Conforme a lo expuesto, la Corte Suprema de Justicia, 
+Sala de Casación Civil, administrando justicia en nombre de 
+la República y por autoridad de la ley, no casa la sentencia 
+de 6 de julio de 2017, proferida por el Tribunal Superior del 
+Distrito Judicial de Bogotá, Sala Civil, dentro del proceso que 
+Carlos Enrique Estupiñán Monje promovió contra Softpymes 
+SAS, Germán Alberto Restrepo Fernández, Pablo Enrique, 
+Fernando Otoya Domínguez y Sistemas de Información 
+Empresarial SA SIESA.
+Sin condena en costas en casación.
+Devuélvase la actuación surtida al Tribunal de origen.
+Notifíquese
+100
+
+Radicación n.° 11001-31-03-007-2008-00601-01
+%
+esidente de la Sala
+Alvaro fei
+6 GARCÍA RESTREPO
+AROLDO
+ONSALVO
+TEJEIRO DUQUE
+OCTAVIO AUG
+U
+íic
+1/
+LUIS ARMANDO TOLOSA VILLABONA
+101
