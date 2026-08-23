@@ -1,0 +1,76 @@
+LICENCIA DE LOS DATOS
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Gerardo Aguilar Gómez
+
+
+QUE CUBRE
+---------
+  01_Corpus_Raw/    corpus normalizado (656 sentencias en texto plano y
+                    4 cuerpos normativos en markdown)
+  03_Results/       resultados experimentales, telemetria y matrices de
+                    calificacion de los tres evaluadores expertos
+  04_Golden_Set/    las 120 preguntas de derecho civil contractual
+
+
+QUE PERMITE
+-----------
+Usted es libre de:
+
+  COMPARTIR  copiar y redistribuir el material en cualquier medio o formato
+  ADAPTAR    remezclar, transformar y construir a partir del material,
+             para cualquier finalidad, incluso comercial
+
+Bajo la siguiente condicion:
+
+  ATRIBUCION  Debe reconocer la autoria de manera adecuada, proporcionar un
+              enlace a la licencia e indicar si se han realizado cambios.
+
+Texto completo de la licencia:
+  https://creativecommons.org/licenses/by/4.0/deed.es
+
+
+COMO CITAR
+----------
+  Aguilar Gómez, G. (2026). Corpus de derecho civil contractual colombiano
+  para evaluacion comparativa de arquitecturas RAG y agentes CoT/CoV
+  [Conjunto de datos]. Universidad Pontificia Bolivariana, Medellín.
+  https://github.com/Tiritingo/TG-RAG-vs-CoT-CoV-DerechoCivil
+
+
+PROCEDENCIA Y NATURALEZA JURIDICA DEL CORPUS
+--------------------------------------------
+Las providencias provienen de los portales oficiales de la Corte Suprema de
+Justicia (https://cortesuprema.gov.co) y de la Corte Constitucional de
+Colombia (https://www.corteconstitucional.gov.co), recopiladas mediante los
+scripts publicados en 05_Codigo_Fuente/SCRAPERS.
+
+Las decisiones judiciales son documentos publicos y, conforme al articulo 41
+de la Ley 23 de 1982 sobre derechos de autor, carecen de derechos de autor
+propios. Lo que esta licencia cubre es el trabajo derivado: la seleccion, la
+descarga verificada, la normalizacion a texto plano, la transcripcion por OCR
+y los manifiestos de trazabilidad.
+
+
+ADVERTENCIA SOBRE CALIDAD DEL TEXTO
+-----------------------------------
+143 de las 245 sentencias de la Corte Suprema se obtuvieron por OCR
+(Tesseract 5, idioma espanol, 300 DPI) a partir de escaneos sin capa de texto.
+El reconocimiento no es perfecto: aparecen errores tipicos de OCR en nombres
+propios y numeros de radicado. Cada documento fue verificado por densidad de
+acentos, presencia de marcas juridicas y ausencia de residuo binario, pero el
+texto NO es una transcripcion certificada.
+
+Para cualquier uso con efectos juridicos, consulte la version oficial en los
+portales de las respectivas corporaciones. Los manifiestos en
+texto_plano/manifiesto_*.csv registran, documento por documento, el metodo de
+extraccion empleado.
+
+
+AUSENCIA DE DATOS PERSONALES SENSIBLES
+--------------------------------------
+Se auditaron muestras del corpus buscando cedulas de ciudadania, NIT, correos
+electronicos, telefonos y direcciones mediante expresiones regulares. No se
+detectaron datos personales identificables mas alla de los que las propias
+corporaciones publican en sus providencias oficiales. Las coincidencias
+numericas halladas correspondian a cuantias monetarias.

@@ -1,0 +1,101 @@
+# =============================================================================
+# .gitignore — TG-RAG-vs-CoT-CoV-DerechoCivil
+#
+# Criterio: se publica el corpus NORMALIZADO en texto plano (54.6 MB, legible
+# y clonable en segundos) y se excluyen los binarios de origen (1.8 GB).
+#
+# Lo excluido y por que:
+#   Sentencias/*/archivos/       PDF y RTF originales, 1.3 GB. Ademas 53 PDF
+#                                son paginas de error y 411 RTF son la SPA del
+#                                portal de la Corte: no aportan nada.
+#   Sentencias/*/archivos_v3/    Descarga corregida en formato mixto, 120 MB.
+#                                Su contenido ya esta en texto_plano/.
+#   02_Vectorstore/              326 MB de indice Chroma. Dos archivos superan
+#                                el limite de 100 MB de GitHub, y los .bin no
+#                                son portables entre versiones de chromadb.
+#                                Se regenera con el notebook en ~8 minutos.
+# =============================================================================
+
+# ---------- corpus binario de origen ----------
+01_Corpus_Raw/Sentencias/*/archivos/
+01_Corpus_Raw/Sentencias/*/archivos_v3/
+*.pdf
+*.rtf
+*.doc
+*.docx
+
+# ---------- vectorstore ----------
+02_Vectorstore/
+*.sqlite3
+*.bin
+*.pickle
+chroma.sqlite3
+
+# ---------- credenciales ----------
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+secrets.json
+credentials.json
+service_account*.json
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib60/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ---------- entornos virtuales ----------
+venv/
+env/
+ENV/
+.venv/
+.conda/
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# ---------- caches de modelos ----------
+.cache/
+huggingface/
+sentence_transformers/
+torch_cache/
+
+# ---------- IDE ----------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ---------- sistema operativo ----------
+.DS_Store
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# ---------- temporales de trabajo ----------
+_INVALIDOS/
+*.tmp
+*.bak
+*.log
