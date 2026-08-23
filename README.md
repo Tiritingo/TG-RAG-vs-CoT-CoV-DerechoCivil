@@ -51,10 +51,12 @@ TG_Maestria/
 │
 ├── 04_Golden_Set/golden_set.md       las 120 preguntas
 │
-└── 05_Codigo_Fuente/
-    ├── RAG_COT_COV/                  notebooks de indexación y evaluación
-    ├── SCRAPERS/                     descarga, validación de integridad, OCR
-    └── Graficas/                     figuras del informe
+├── 05_Codigo_Fuente/
+│   ├── RAG_COT_COV/                  notebooks de indexación y evaluación
+│   └── SCRAPERS/                     descarga, validación de integridad, OCR
+│
+└── 06_Anexos/
+    └── Graficas/                     scripts que generan las figuras del informe
 ```
 
 ### Correspondencia con los anexos del informe
@@ -65,6 +67,7 @@ TG_Maestria/
 | `04_Golden_Set/` | Anexo A — instrumento de evaluación |
 | `05_Codigo_Fuente/` | Anexos A y B — implementación y configuración técnica |
 | `03_Results/` | Anexo C — resultados y análisis estadístico |
+| `06_Anexos/` | material complementario y generación de figuras |
 
 **Qué no está versionado.** Los PDF y RTF originales (1,3 GB) y el índice vectorial de ChromaDB (326 MB): dos archivos superan el límite de 100 MB de GitHub y los binarios de Chroma no son portables entre versiones. Se publica el corpus normalizado en texto plano, que un evaluador puede leer directamente en el navegador. El índice se regenera con el notebook.
 

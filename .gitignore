@@ -24,6 +24,11 @@
 *.doc
 *.docx
 
+# Excepcion: los anexos documentales si se publican.
+# La regla *.pdf existe para excluir las 301 providencias escaneadas del
+# corpus, no el informe del trabajo de grado.
+!06_Anexos/*.pdf
+
 # ---------- vectorstore e indices ----------
 02_Vectorstore/
 chroma_db/
