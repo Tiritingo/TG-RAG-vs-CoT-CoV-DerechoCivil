@@ -24,12 +24,17 @@
 *.doc
 *.docx
 
-# ---------- vectorstore ----------
+# ---------- vectorstore e indices ----------
 02_Vectorstore/
+chroma_db/
+vectorstore/
 *.sqlite3
+*.db
 *.bin
 *.pickle
-chroma.sqlite3
+*.pkl
+*.joblib
+*.parquet
 
 # ---------- credenciales ----------
 .env
