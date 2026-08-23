@@ -1,0 +1,53 @@
+# =============================================================================
+# .gitattributes — normalizacion de finales de linea
+#
+# Sin este archivo, Git en Windows convierte LF a CRLF al escribir en disco y
+# los 656 .txt del corpus aparecen como "modificados" tras cada clone, aunque
+# su contenido sea identico. Aqui se declara el tratamiento de forma explicita:
+# en el repositorio todo va con LF, y cada sistema usa lo que le corresponde
+# en su copia de trabajo.
+# =============================================================================
+
+# Deteccion automatica por defecto
+* text=auto eol=lf
+
+# ---------- corpus y datos: siempre LF ----------
+*.txt   text eol=lf
+*.md    text eol=lf
+*.csv   text eol=lf
+*.json  text eol=lf
+
+# ---------- codigo ----------
+*.py    text eol=lf
+*.ipynb text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+*.toml  text eol=lf
+*.cfg   text eol=lf
+
+# ---------- scripts propios de cada sistema ----------
+*.sh    text eol=lf
+*.bat   text eol=crlf
+*.ps1   text eol=crlf
+
+# ---------- binarios: nunca tocar ----------
+*.pdf      binary
+*.rtf      binary
+*.doc      binary
+*.docx     binary
+*.png      binary
+*.jpg      binary
+*.jpeg     binary
+*.gif      binary
+*.svg      binary
+*.zip      binary
+*.sqlite3  binary
+*.bin      binary
+*.pickle   binary
+*.pkl      binary
+*.parquet  binary
+
+# ---------- diffs mas legibles ----------
+*.ipynb diff=jupyter
+*.md    diff=markdown
+*.py    diff=python

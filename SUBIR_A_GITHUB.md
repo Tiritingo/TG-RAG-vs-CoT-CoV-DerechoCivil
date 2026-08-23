@@ -24,8 +24,8 @@ Comprueba que el prompt termine en `TG_Maestria>` antes de continuar.
 Solo hace falta la primera vez en este computador.
 
 ```
-git config --global user.name "Gerardo Aguilar"
-git config --global user.email "gerardoaguilarg@proton.me"
+git config --global user.name "Gerardo Aguilar Guerrero"
+git config --global user.email "gerardo.aguilarg@upb.edu.co"
 ```
 
 ---
