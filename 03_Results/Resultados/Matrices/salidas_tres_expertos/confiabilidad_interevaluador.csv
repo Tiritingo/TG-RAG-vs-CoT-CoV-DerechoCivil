@@ -1,0 +1,7 @@
+﻿Sistema,Dimension,N_preguntas_tres_expertos,Alfa_Krippendorff_ordinal,Interpretacion
+RAG_Base,Consistencia_Silogistica,62,0.8437,Alto
+RAG_Base,Fidelidad_Juridica,62,0.9063,Alto
+RAG_Base,Complejidad,62,0.973,Alto
+Agente_CoT_CoV,Consistencia_Silogistica,117,0.8465,Alto
+Agente_CoT_CoV,Fidelidad_Juridica,117,0.6998,Aceptable/provisional
+Agente_CoT_CoV,Complejidad,117,0.8618,Alto

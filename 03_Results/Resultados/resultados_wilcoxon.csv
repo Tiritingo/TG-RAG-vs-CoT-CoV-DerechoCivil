@@ -1,0 +1,4 @@
+metrica,n_pares,mediana_RAG,mediana_Agente,W,p_valor,r_rank_biserial
+Consistencia_Silogistica,61,3.0,4.0,0.0,7.37916617244162e-12,0.9508196721311475
+Fidelidad_Juridica,61,4.0,4.0,0.0,0.04550026389635839,0.06557377049180328
+Complejidad,61,3.0,3.0,0.0,2.1537981982881757e-08,0.5737704918032787

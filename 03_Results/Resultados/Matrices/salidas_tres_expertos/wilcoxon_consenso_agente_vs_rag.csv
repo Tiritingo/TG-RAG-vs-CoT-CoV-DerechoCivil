@@ -1,0 +1,4 @@
+﻿Dimension,N_pares,N_diferencias_no_cero,Media_consenso_Agente,Media_consenso_RAG,Diferencia_media_Agente_menos_RAG,Estadistico_Wilcoxon,p_valor,r_biserial
+Consistencia_Silogistica,61,61,4.2459,2.8251,1.4208,0.0,0.0,1.0
+Fidelidad_Juridica,61,39,4.2131,3.9454,0.2678,0.0,0.0,1.0
+Complejidad,61,53,3.4262,2.6503,0.776,0.0,0.0,1.0
