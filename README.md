@@ -59,6 +59,16 @@ TG_Maestria/
 
 **Qué no está aquí y por qué.** Los PDF y RTF originales (1,3 GB) y el índice vectorial (326 MB) quedan fuera: dos archivos de Chroma superan el límite de 100 MB de GitHub, y sus binarios no son portables entre versiones. El vectorstore se regenera en unos 8 minutos con el notebook. Lo que sí está es el corpus normalizado en texto plano, que es lo que un evaluador puede leer directamente en el navegador.
 
+### Correspondencia con los anexos del informe
+
+| Carpeta | Anexo |
+|---|---|
+| `01_Corpus_Raw/` | Anexo A — corpus documental |
+| `04_Golden_Set/` | Anexo A — instrumento de evaluación |
+| `05_Codigo_Fuente/` | Anexos A y B — implementación y configuración técnica |
+| `03_Results/` | Anexo C — resultados y análisis estadístico |
+| `06_Anexos/` | material complementario |
+
 ---
 
 ## Requisitos
@@ -149,7 +159,9 @@ python Matrices/analisis_expertos.py   # concordancia interevaluador
 
 **Indexación.** Los documentos se trocean con `RecursiveCharacterTextSplitter` (900 caracteres, 120 de solapamiento) y se vectorizan con `intfloat/multilingual-e5-large` normalizado, sobre Chroma. El índice resultante tiene **62.784 chunks**.
 
-**Arquitectura A — RAG_Base.** Recuperación por similitud y una sola llamada al modelo generador (Gemini 2.5 Flash).
+**Recuperación.** Relevancia Marginal Máxima (MMR) con `k=8`, `fetch_k=20` y `lambda_mult=0.7`. MMR penaliza los fragmentos redundantes entre sí, pero no impone cuotas por fuente: esa distinción importa para el hallazgo de composición que se documenta más abajo.
+
+**Arquitectura A — RAG_Base.** Una sola llamada al modelo generador (Gemini 2.5 Flash) sobre los fragmentos recuperados.
 
 **Arquitectura B — Agente CoT/CoV.** Grafo de estados en LangGraph con tres nodos: recuperador, razonador —que produce un silogismo jurídico explícito— y verificador, que audita la respuesta y puede devolverla al razonador. El campo `Num_Revisiones_Agente` registra cuántas pasadas necesitó.
 
@@ -185,7 +197,7 @@ Es decir: el índice original contenía 24.760 chunks útiles, no 29.281, y **ce
 
 ### Hallazgo pendiente: sesgo de composición
 
-Tras la reparación, Corte Constitucional aporta **34.247 de los 62.784 chunks (55 % del índice)**, mientras el Código Civil aporta 1.138 (1,8 %). En una recuperación por similitud sin balanceo, la jurisprudencia constitucional desplaza al articulado.
+Tras la reparación, Corte Constitucional aporta **34.247 de los 62.784 chunks (55 % del índice)**, mientras el Código Civil aporta 1.138 (1,8 %). MMR diversifica los fragmentos entre sí, pero no reserva espacio por fuente: con esa proporción de partida, la jurisprudencia constitucional desplaza al articulado.
 
 El efecto es medible: en las 120 respuestas, el RAG citó 109 veces a Corte Suprema, 71 a Corte Constitucional y **solo 6 al Código Civil**. Trece preguntas que antes se respondían pasaron a «no encontrado». La composición del corpus condiciona la recuperación tanto como su calidad, y ese es un resultado en sí mismo.
 
